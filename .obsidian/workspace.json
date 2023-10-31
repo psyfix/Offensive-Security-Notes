@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
-                "mode": "source",
+                "file": "OSCP/Commands/Shells.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -73,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 359.5
   },
   "right": {
     "id": "bb3c85740f8c44c9",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -150,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 331.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,14 +165,14 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
+    "OSCP/Commands/File Transfer.md",
+    "Spaces",
     "OSCP/Commands/Shells.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Username.md",
     "Offensive-Security.md",
     "OSCP/Commands/Cracking.md",
-    "OSCP/Commands/File Transfer.md",
     "README.md",
-    "Spaces",
     "Offensive-Security 1.md",
     "Spaces/Home/Home.md",
     "Spaces/Home",
