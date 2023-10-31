@@ -48,10 +48,10 @@
     "spaces://$tags",
     "/",
     "OSCP",
-    "OSCP/Active Directory",
     "OSCP/Commands",
-    "OSCP/Enumeration",
+    "OSCP/Active Directory",
     "OSCP/Post Exploitation",
+    "OSCP/Enumeration",
     "Spaces"
   ],
   "menuTriggerChar": "/",
