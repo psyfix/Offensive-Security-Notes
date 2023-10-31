@@ -27,6 +27,9 @@ hashcat -m 18200 -a 0 <hash> <wordlist> --force
 hashcat -m 13100 -a 0 <hash> <wordlist> --force
 ```
 
+##### SSH
+
+
 ##### Options
 ###### Hashcat
 -  -r \<rule\>

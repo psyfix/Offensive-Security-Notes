@@ -48,7 +48,8 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Post Exploitation",
-    "//OSCP/OSCP/Commands"
+    "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Active Directory"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
