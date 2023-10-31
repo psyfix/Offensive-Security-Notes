@@ -35,11 +35,8 @@
   "expandedSpaces": [
     "/",
     "///",
-    "//OSCP/OSCP/Enumeration",
     "//Offensive-Security",
     "//Offensive-Security",
-    "//OSCP/OSCP/Enumeration",
-    "//OSCP/OSCP/Enumeration",
     "//OSCP",
     "//OSCP",
     "//Spaces",
@@ -48,7 +45,8 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Commands",
-    "//OSCP/OSCP/Commands"
+    "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
