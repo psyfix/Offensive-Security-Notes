@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md",
-                "mode": "preview",
+                "file": "OSCP/Commands/Shells.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -165,10 +165,10 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Active Directory/Got User.md",
     "OSCP/Active Directory/Got Nothing.md",

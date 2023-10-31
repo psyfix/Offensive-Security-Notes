@@ -53,6 +53,7 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Post Exploitation",
+    "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Commands"
   ],
   "expandFolderOnClick": true,
