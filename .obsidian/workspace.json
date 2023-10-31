@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Shells.md"
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
               }
             }
           },
@@ -165,18 +165,18 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
+    "OSCP/Commands/Cracking.md",
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Random Tools.md",
-    "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Active Directory/Got User.md",
     "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Lateral Movement.md",
-    "OSCP/Commands/Cracking.md",
     "Offensive-Security.md",
-    "OSCP/Commands/File Transfer.md",
     "Spaces",
     "README.md",
     "Offensive-Security 1.md",
