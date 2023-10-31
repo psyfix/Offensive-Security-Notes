@@ -47,6 +47,7 @@
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Commands"
   ],
   "expandFolderOnClick": true,

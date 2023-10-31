@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Commands/Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Cracking.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -151,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,10 +165,12 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Commands/Shells.md",
     "OSCP/Commands/Cracking.md",
+    "Offensive-Security.md",
     "README.md",
     "Spaces",
-    "Offensive-Security.md",
     "Offensive-Security 1.md",
     "OSCP/Active Directory/Got Username.md",
     "Spaces/Home/Home.md",

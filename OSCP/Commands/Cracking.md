@@ -29,7 +29,11 @@ hashcat -m 13100 -a 0 <hash> <wordlist> --force
 
 ##### Options
 ###### Hashcat
--  -r <rule>
-- 
-###### John
+-  -r \<rule\>
+- --show
+- -m \<hash-type\>
+- -a \<attack-type\>
+- --force
 
+###### John
+Need to add options here..................
