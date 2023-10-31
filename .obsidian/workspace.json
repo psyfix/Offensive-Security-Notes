@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got User.md",
-                "mode": "preview",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got User.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got User.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got User.md"
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
               }
             }
           },
@@ -165,16 +165,18 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got Username.md",
+    "OSCP/Active Directory/Got User.md",
+    "OSCP/Active Directory/Got Nothing.md",
+    "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Commands/Cracking.md",
-    "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "Offensive-Security.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/File Transfer.md",
     "Spaces",
-    "OSCP/Active Directory/Got Username.md",
     "README.md",
     "Offensive-Security 1.md",
     "Spaces/Home/Home.md",
@@ -182,7 +184,6 @@
     "OSCP/Commands/Commands.md",
     "OSCP/Commands",
     "OSCP/P.canvas",
-    "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Active Directory/Got Local Admin.md",
     "OSCP/Enumeration/Enumeration.md",
     "OSCP/Enumeration",
@@ -191,7 +192,6 @@
     "OSCP/Post Exploitation",
     "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/OSCP.md",
-    "OSCP/Active Directory/Got User.md",
     "OSCP/Active Directory",
     "OSCP"
   ]
