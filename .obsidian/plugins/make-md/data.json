@@ -55,7 +55,8 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Enumeration",
-    "//Spaces"
+    "//Spaces",
+    "//OSCP/OSCP/Commands"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
