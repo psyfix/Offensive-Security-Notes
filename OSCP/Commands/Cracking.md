@@ -29,14 +29,22 @@ hashcat -m 13100 -a 0 <hash> <wordlist> --force
 
 ##### SSH
 
+```
+ssh2john id_rsa > ssh.hash
+john --wordlist=/usr/share/wordlists/rockyou.txt ssh.hash
+```
 
-##### Options
-###### Hashcat
--  -r \<rule\>
-- --show
-- -m \<hash-type\>
-- -a \<attack-type\>
-- --force
+##### KEEPASS
 
-###### John
-Need to add options here..................
+```
+#Don't forget to remove the "Database:" from the hash afterwards.
+keepass2john Database.kdbx > keepass.hash
+
+hashcat -m 13400 -a 0 <hash> <wordlist> --force
+```
+
+##### ZIP
+
+```
+fcrackzip -u -v -D -p ~/Desktop/rockyou.txt <ZIP_FILE>
+```
