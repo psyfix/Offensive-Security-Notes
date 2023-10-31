@@ -11,12 +11,8 @@
             "id": "189e9e05f669abbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,8 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189e9e05f669abbc",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Active Directory/Got User.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Shells.md",
@@ -172,10 +167,7 @@
     "OSCP/Commands/Random Tools.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got Username.md",
-    "OSCP/Active Directory/Got User.md",
     "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Active Directory/Lateral Movement.md",
     "Offensive-Security.md",
     "Spaces",
     "README.md",
