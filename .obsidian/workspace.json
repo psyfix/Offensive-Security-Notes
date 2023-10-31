@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "OSCP/Commands/Cracking.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
+    "OSCP/Commands/Cracking.md",
     "README.md",
     "Spaces",
     "Offensive-Security.md",

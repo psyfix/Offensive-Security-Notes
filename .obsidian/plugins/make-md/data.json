@@ -41,7 +41,13 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
     "//OSCP",
-    "//OSCP"
+    "//OSCP",
+    "//Spaces",
+    "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Active Directory",
+    "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Commands"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -51,8 +57,7 @@
     "OSCP/Commands",
     "OSCP/Active Directory",
     "OSCP/Post Exploitation",
-    "OSCP/Enumeration",
-    "Spaces"
+    "OSCP/Enumeration"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
