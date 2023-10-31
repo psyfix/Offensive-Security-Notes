@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
-                "mode": "source",
+                "file": "OSCP/Active Directory/Got User.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Active Directory/Got User.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Active Directory/Got User.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Cracking.md"
+                "file": "OSCP/Active Directory/Got User.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
     "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Commands/Cracking.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "Offensive-Security.md",
@@ -174,7 +175,6 @@
     "OSCP/Commands/File Transfer.md",
     "Spaces",
     "OSCP/Active Directory/Got Username.md",
-    "OSCP/Commands/Cracking.md",
     "README.md",
     "Offensive-Security 1.md",
     "Spaces/Home/Home.md",
