@@ -47,7 +47,8 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Enumeration",
-    "//OSCP/OSCP/Post Exploitation"
+    "//OSCP/OSCP/Post Exploitation",
+    "//OSCP/OSCP/Commands"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -61,7 +62,8 @@
     "Spaces",
     "spaces://#interactive",
     "spaces://#enables",
-    "spaces://#Powe"
+    "spaces://#Powe",
+    "spaces://#NE"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
