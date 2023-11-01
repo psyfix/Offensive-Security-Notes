@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile/Android/Objection.md",
+                "file": "Mobile/Android/Frida.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile/Android/Objection.md",
+                "file": "Mobile/Android/Frida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile/Android/Objection.md",
+                "file": "Mobile/Android/Frida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile/Android/Objection.md"
+                "file": "Mobile/Android/Frida.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "a7ba4952bdcb9dfb",
   "lastOpenFiles": [
-    "Mobile/Android/Frida.md",
     "Mobile/Android/Objection.md",
+    "Mobile/Android/Frida.md",
     "Mobile/IOS/IOS.md",
     "Mobile/IOS",
     "Mobile/Android/Android.md",

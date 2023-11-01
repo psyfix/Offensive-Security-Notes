@@ -1,3 +1,5 @@
+### Installation
+
 ### Bypassing Emulator and Root Detection
 #### Analysis
 Understand what part of the code is doing the detection. 
