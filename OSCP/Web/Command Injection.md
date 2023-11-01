@@ -1,0 +1,11 @@
+#### Fuzzing
+
+```
+#Special Characters
+;
+&
+&&
+|
+||
+```
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
+                "file": "OSCP/Web/Command Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
+                "file": "OSCP/Web/Command Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
+                "file": "OSCP/Web/Command Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md"
+                "file": "OSCP/Web/Command Injection.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
-    "OSCP/Web/Command Injection.md",
     "OSCP/Web/Path Traversal & RFI & LFI.md",
+    "OSCP/Web/Command Injection.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Path Traversal.md",
     "Pat.md",
