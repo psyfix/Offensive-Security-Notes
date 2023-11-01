@@ -46,11 +46,10 @@
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Enumeration",
-    "//OSCP/OSCP/Web",
-    "//OSCP/OSCP/Web",
-    "//OSCP/OSCP/Web",
-    "//OSCP/OSCP/Web",
     "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Network",
+    "//OSCP/OSCP/Web",
+    "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
@@ -63,7 +62,8 @@
     "OSCP/Commands",
     "OSCP/Enumeration",
     "OSCP/Post Exploitation",
-    "OSCP/Web"
+    "OSCP/Web",
+    "OSCP/Network"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -94,7 +94,8 @@
     "Commands",
     "Spaces/Home",
     "OSCP/Got User",
-    "OSCP/Web"
+    "OSCP/Web",
+    "OSCP/Web/Network"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

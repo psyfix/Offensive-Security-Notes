@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Web/Brute Forcing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Web/Brute Forcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Web/Brute Forcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md"
+                "file": "OSCP/Web/Brute Forcing.md"
               }
             }
           },
@@ -163,14 +163,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189e9e05f669abbc",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "Pasted image 20231101191427.png",
+    "README.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
+    "OSCP/Network/Network.md",
+    "OSCP/Network",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Path Traversal.md",
     "OSCP/Web/Command Injection.md",
-    "OSCP/Web/Path Traversal & File Inclusion.md",
-    "Pasted image 20231101191427.png",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Commands/File Transfer.md",
@@ -192,8 +195,6 @@
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Commands/Cracking.md",
-    "OSCP/Active Directory/Lateral Movement.md",
     "Spaces/Home",
     "OSCP/Commands",
     "OSCP/P.canvas",
