@@ -1,12 +1,10 @@
 ### Fuzzing
 #### FUFF
-
 ```
 
 ```
 
 #### GOBUSTER
-
 ```
 #Standard directory bust
 gobuster dir -u <url> -w <wordlist> -o <output>
@@ -17,20 +15,17 @@ gobuster dir -u <url> -w <wordlist> -o <output>
 ```
 
 ### Crawling
-
 ```
 Spider
 ```
 
 ### Passive
-
 ```
 Wappalyzer
 Page Source Code
 ```
 
 ### Scanning
-
 ```
 wpscan
 joomscan
