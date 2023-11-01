@@ -69,7 +69,8 @@
     "OSCP/Enumeration",
     "OSCP/Active Directory",
     "OSCP/Post Exploitation",
-    "OSCP/Active Directory/Got User"
+    "OSCP/Active Directory/Got User",
+    "spaces://#Enumerating"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
