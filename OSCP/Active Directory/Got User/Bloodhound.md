@@ -6,15 +6,11 @@ Invoke-BloodHound -CollectionMethod All -OutputDirectory C:\Users\<user>\Desktop
 ```
 #### BloodHound
 
-
+```
 sudo neo4j start
-
 sudo bloodhound
-
-[http://localhost:7474](http://localhost:7474)
-
-neo4j:kali
-
+http://localhost:7474 (neo4j:kali)
+```
 - Import zipped data.
 - Check Shortest Paths Analysis.
 - Right click objects that are owned. For example users and client machines.
