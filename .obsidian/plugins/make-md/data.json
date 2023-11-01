@@ -60,10 +60,11 @@
     "OSCP/Active Directory/Got User",
     "OSCP/Commands",
     "OSCP/Enumeration",
+    "OSCP/Network",
     "OSCP/Post Exploitation",
     "OSCP/Web",
-    "OSCP/Network",
-    "OSCP/Web/Attachments"
+    "OSCP/Web/Attachments",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

@@ -202,6 +202,7 @@
   },
   "active": "a7ba4952bdcb9dfb",
   "lastOpenFiles": [
+    "Spaces",
     "OSCP/Network/HTTP.md",
     "OSCP/Network/WINRM.md",
     "OSCP/Network/RDP.md",
@@ -232,9 +233,7 @@
     "OSCP/Commands/Random Tools.md",
     "OSCP/Commands/File Transfer.md",
     "Pat.md",
-    "OSCP/Web/Web.md",
     "OSCP/Web",
-    "Spaces",
     "OSCP/Active Directory/Got User",
     "Spaces/Home",
     "OSCP/Commands",
