@@ -165,13 +165,14 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Power View.md",
+    "OSCP/Commands/Living Off The Land.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
+    "l.md",
     "OSCP/Active Directory/Got User.md",
     "OSCP/Active Directory/Got User/Got User.md",
     "OSCP/Active Directory/Got User",
-    "l.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
@@ -197,7 +198,6 @@
     "OSCP/Active Directory/Active Directory.md",
     "OSCP/Post Exploitation/Post Exploitation.md",
     "OSCP/Post Exploitation",
-    "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Active Directory",
     "OSCP"
   ]
