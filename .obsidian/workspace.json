@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Power View.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Power View.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Power View.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Power View.md"
+                "file": "OSCP/Active Directory/Got Admin.md"
               }
             }
           },
@@ -163,11 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189e9e05f669abbc",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
-    "OSCP/Active Directory/Got User/Password Spray.md",
-    "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Power View.md",
+    "OSCP/Active Directory/Got User/Bloodhound.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
+    "OSCP/Active Directory/Got Admin.md",
+    "OSCP/Active Directory/Got Nothing.md",
+    "OSCP/Active Directory/Got Username.md",
     "OSCP/Commands/Living Off The Land.md",
     "l.md",
     "OSCP/Active Directory/Got User.md",
@@ -181,8 +184,6 @@
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Active Directory/Lateral Movement.md",
-    "OSCP/Active Directory/Got Username.md",
-    "OSCP/Active Directory/Got Nothing.md",
     "Offensive-Security.md",
     "Spaces",
     "README.md",
@@ -192,7 +193,6 @@
     "OSCP/Commands/Commands.md",
     "OSCP/Commands",
     "OSCP/P.canvas",
-    "OSCP/Active Directory/Got Local Admin.md",
     "OSCP/Enumeration/Enumeration.md",
     "OSCP/Enumeration",
     "OSCP/Active Directory/Active Directory.md",
