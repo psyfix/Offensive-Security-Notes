@@ -54,7 +54,11 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Enumeration",
     "//Spaces",
-    "//OSCP/OSCP/Commands"
+    "//OSCP/OSCP/Commands",
+    "//OSCP",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -64,7 +68,8 @@
     "OSCP/Commands",
     "OSCP/Enumeration",
     "OSCP/Active Directory",
-    "OSCP/Post Exploitation"
+    "OSCP/Post Exploitation",
+    "OSCP/Active Directory/Got User"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -93,7 +98,8 @@
     "OSCP/Active Directory/Post Exploitation",
     "OSCP/Enumeration",
     "Commands",
-    "Spaces/Home"
+    "Spaces/Home",
+    "OSCP/Got User"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
