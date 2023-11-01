@@ -37,11 +37,7 @@
     "///",
     "//Offensive-Security",
     "//Offensive-Security",
-    "//Spaces",
     "//OSCP/OSCP/Enumeration",
-    "//Spaces",
-    "//OSCP",
-    "//Spaces",
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Enumeration",
@@ -49,7 +45,11 @@
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Network",
-    "//OSCP/OSCP/Network"
+    "//OSCP/OSCP/Network",
+    "//Mobile",
+    "//Mobile/Mobile/Android",
+    "//Mobile/Mobile/Android",
+    "//Mobile/Mobile/Android"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -58,7 +58,15 @@
     "OSCP",
     "OSCP/Enumeration",
     "OSCP/Active Directory",
-    "OSCP/Active Directory/Got User"
+    "OSCP/Active Directory/Got User",
+    "OSCP/Post Exploitation",
+    "OSCP/Commands",
+    "OSCP/Network",
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "Mobile",
+    "Mobile/Android",
+    "Mobile/IOS"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -90,7 +98,10 @@
     "Spaces/Home",
     "OSCP/Got User",
     "OSCP/Web",
-    "OSCP/Web/Network"
+    "OSCP/Web/Network",
+    "Mobile",
+    "Mobile/Android",
+    "Mobile/IOS"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
