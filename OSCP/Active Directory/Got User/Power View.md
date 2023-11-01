@@ -44,7 +44,6 @@ Get-NetUser -SPN | select samaccountname,serviceprincipalname
 ```
 
 #### Enumerating Object Permissions
-
 ```
 Get-ObjectAcl -Identity <users> - enumerates all objects that has an ACL entry for a particular user.
 Convert-SidToName <SID>
@@ -56,10 +55,9 @@ Find-InterestingDomainAcl | select IdentityReferenceName,ActiveDirectoryRights,A
 ```
 
 #### Enumerating Shares
-
 ```
 Find-DomainShare
-net view [\\<hostname/ip>](file://%3chostname/ip%3e)
-ls [\\<hostname>\<sharename>\](file://%3chostname%3e/%3csharename%3e/)
-cat [\\<hostname>\<sharename>\
+net view \\<hostname\ip>
+ls \\<hostname>\<sharename>\
+cat \\<hostname>\<sharename>\
 ```
