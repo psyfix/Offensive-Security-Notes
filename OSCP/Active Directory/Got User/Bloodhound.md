@@ -2,19 +2,10 @@
 ```
 powershell -ep bypass
 Import-Module .\sharphound.ps1
-Copy powershell script to host and import module
 Invoke-BloodHound -CollectionMethod All -OutputDirectory C:\Users\<user>\Desktop\ -OutputPrefix "audit results"
 ```
+#### BloodHound
 
-
-
-- Invoke-BloodHound -CollectionMethod All -OutputDirectory C:\Users\<user>\Desktop\ -OutputPrefix "audit results"
-
-Copy data over to kali.
-
-- Host share in kali and then copy see file transfer commands.
-
-## BloodHound
 
 sudo neo4j start
 
