@@ -56,15 +56,9 @@
     "spaces://$tags",
     "/",
     "OSCP",
-    "OSCP/Active Directory",
-    "OSCP/Active Directory/Got User",
-    "OSCP/Commands",
     "OSCP/Enumeration",
-    "OSCP/Network",
-    "OSCP/Post Exploitation",
-    "OSCP/Web",
-    "OSCP/Web/Attachments",
-    "Spaces"
+    "OSCP/Active Directory",
+    "OSCP/Active Directory/Got User"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
