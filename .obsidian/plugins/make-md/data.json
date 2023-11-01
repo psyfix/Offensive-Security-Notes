@@ -48,6 +48,7 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Web",
     "//OSCP/OSCP/Web",
+    "//OSCP/OSCP/Web",
     "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,

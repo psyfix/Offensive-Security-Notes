@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Web/SQLi.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Web/SQLi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Web/SQLi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Command Injection.md"
+                "file": "OSCP/Web/SQLi.md"
               }
             }
           },
@@ -165,10 +165,11 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
-    "OSCP/Web/Path Traversal & RFI & LFI.md",
-    "OSCP/Web/Command Injection.md",
+    "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Path Traversal.md",
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Web/Path Traversal & RFI & LFI.md",
     "Pat.md",
     "OSCP/Web/Web.md",
     "OSCP/Web",
@@ -193,7 +194,6 @@
     "OSCP/Commands/Random Tools.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "Offensive-Security.md",
-    "README.md",
     "Spaces/Home",
     "OSCP/Commands",
     "OSCP/P.canvas",
