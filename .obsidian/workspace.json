@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md",
+                "file": "OSCP/Network/DNS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6230b880ea5c4a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Network/SSH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07f5faaefcba1dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Network/FTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7ba4952bdcb9dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Network/HTTP(s).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md",
+                "file": "OSCP/Network/HTTP(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md",
+                "file": "OSCP/Network/HTTP(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md"
+                "file": "OSCP/Network/HTTP(s).md"
               }
             }
           },
@@ -163,44 +200,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "a7ba4952bdcb9dfb",
   "lastOpenFiles": [
-    "Pasted image 20231101191427.png",
-    "README.md",
+    "OSCP/Network/HTTP(s).md",
+    "OSCP/Network/WINRM.md",
+    "OSCP/Network/RDP.md",
+    "OSCP/Network/DNS.md",
+    "OSCP/Network/SSH.md",
+    "OSCP/Network/FTP.md",
+    "OSCP/Network/SMTP.md",
+    "OSCP/Network/SMB.md",
+    "OSCP/Network/POP3.md",
+    "OSCP/Commands/Cracking.md",
+    "OSCP/Commands/Living Off The Land.md",
+    "OSCP/Active Directory/Got Admin.md",
+    "OSCP/Active Directory/Got Username.md",
+    "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
+    "OSCP/Web/Attachments/Pasted image 20231101191821.png",
+    "OSCP/Web/Attachments",
+    "OSCP/Web/Brute Forcing.md",
+    "Pasted image 20231101191427.png",
+    "OSCP/Web/Pasted image 20231101191707.png",
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Web/SQLi.md",
+    "README.md",
     "OSCP/Network/Network.md",
     "OSCP/Network",
-    "OSCP/Web/Brute Forcing.md",
-    "OSCP/Web/SQLi.md",
     "OSCP/Web/Path Traversal.md",
-    "OSCP/Web/Command Injection.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Commands/File Transfer.md",
     "Pat.md",
     "OSCP/Web/Web.md",
     "OSCP/Web",
-    "OSCP/Active Directory/Got User/Power View.md",
-    "OSCP/Active Directory/Got User/Bloodhound.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "Spaces",
-    "OSCP/Active Directory/Got Admin.md",
-    "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Active Directory/Got Username.md",
-    "OSCP/Commands/Living Off The Land.md",
-    "l.md",
-    "OSCP/Active Directory/Got User.md",
-    "OSCP/Active Directory/Got User/Got User.md",
     "OSCP/Active Directory/Got User",
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
-    "OSCP/Post Exploitation/Tunneling.md",
     "Spaces/Home",
     "OSCP/Commands",
     "OSCP/P.canvas",
     "OSCP/Enumeration",
     "OSCP/Post Exploitation",
-    "OSCP/Active Directory",
-    "OSCP"
+    "OSCP/Active Directory"
   ]
 }

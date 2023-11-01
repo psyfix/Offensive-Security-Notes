@@ -41,16 +41,15 @@
     "//OSCP/OSCP/Enumeration",
     "//Spaces",
     "//OSCP",
-    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//Spaces",
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Network",
-    "//OSCP/OSCP/Web",
     "//OSCP/OSCP/Network",
-    "//OSCP/OSCP/Web"
+    "//OSCP/OSCP/Network",
+    "//OSCP/OSCP/Network"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -63,7 +62,8 @@
     "OSCP/Enumeration",
     "OSCP/Post Exploitation",
     "OSCP/Web",
-    "OSCP/Network"
+    "OSCP/Network",
+    "OSCP/Web/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

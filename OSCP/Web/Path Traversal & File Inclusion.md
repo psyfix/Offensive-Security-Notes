@@ -51,4 +51,5 @@ C:\Windows\System32\drivers\etc\hosts
 #Sometimes it is possible to overwrite files with our own.
 #Example fileupload overwriting SSH key to our own.
 ```
-![[Pasted image 20231101191427.png]]
+
+![[Pasted image 20231101191821.png]]

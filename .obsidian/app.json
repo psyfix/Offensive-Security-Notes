@@ -1,3 +1,5 @@
 {
-  "readableLineLength": false
+  "readableLineLength": false,
+  "trashOption": "local",
+  "attachmentFolderPath": "./Attachments"
 }
