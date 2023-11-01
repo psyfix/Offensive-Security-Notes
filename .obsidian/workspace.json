@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "OSCP/Active Directory/Got User/Power View.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "189e9e05f669abbc",
+  "active": "1aeda848e1739c9e",
   "lastOpenFiles": [
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got User/Bloodhound.md",
