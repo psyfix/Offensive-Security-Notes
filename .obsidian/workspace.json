@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "l.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "l.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "l.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
+                "file": "l.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "l.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got User.md",
     "OSCP/Commands/Shells.md",

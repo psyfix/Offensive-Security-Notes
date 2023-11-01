@@ -37,8 +37,6 @@
     "///",
     "//Offensive-Security",
     "//Offensive-Security",
-    "//OSCP",
-    "//OSCP",
     "//Spaces",
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Active Directory",
@@ -60,13 +58,13 @@
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
-    "Tags",
-    "Offensive-Security",
+    "spaces://$tags",
+    "/",
     "OSCP",
-    "Commands",
-    "Enumeration",
-    "Active Directory",
-    "Post Exploitation"
+    "OSCP/Commands",
+    "OSCP/Enumeration",
+    "OSCP/Active Directory",
+    "OSCP/Post Exploitation"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
