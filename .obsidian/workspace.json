@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/SQLi.md",
+                "file": "OSCP/Web/Path Traversal.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/SQLi.md",
+                "file": "OSCP/Web/Path Traversal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/SQLi.md",
+                "file": "OSCP/Web/Path Traversal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/SQLi.md"
+                "file": "OSCP/Web/Path Traversal.md"
               }
             }
           },
@@ -165,11 +165,14 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
-    "OSCP/Web/Brute Forcing.md",
-    "OSCP/Web/SQLi.md",
-    "OSCP/Web/Path Traversal.md",
     "OSCP/Web/Command Injection.md",
+    "OSCP/Web/SQLi.md",
     "OSCP/Web/Path Traversal & RFI & LFI.md",
+    "OSCP/Web/Brute Forcing.md",
+    "OSCP/Web/Path Traversal.md",
+    "OSCP/Commands/Shells.md",
+    "OSCP/Commands/Random Tools.md",
+    "OSCP/Commands/File Transfer.md",
     "Pat.md",
     "OSCP/Web/Web.md",
     "OSCP/Web",
@@ -188,10 +191,7 @@
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Commands/Shells.md",
     "OSCP/Commands/Cracking.md",
-    "OSCP/Commands/File Transfer.md",
-    "OSCP/Commands/Random Tools.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "Offensive-Security.md",
     "Spaces/Home",

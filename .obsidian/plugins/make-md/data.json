@@ -49,6 +49,8 @@
     "//OSCP/OSCP/Web",
     "//OSCP/OSCP/Web",
     "//OSCP/OSCP/Web",
+    "//OSCP/OSCP/Web",
+    "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
