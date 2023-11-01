@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md"
+                "file": "OSCP/Web/Path Traversal & RFI & LFI.md"
               }
             }
           },
@@ -165,9 +165,17 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Web/Path Traversal & RFI & LFI.md",
+    "OSCP/Web/SQLi.md",
+    "OSCP/Web/Path Traversal.md",
+    "Pat.md",
+    "OSCP/Web/Web.md",
+    "OSCP/Web",
+    "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
-    "OSCP/Active Directory/Got User/Power View.md",
+    "Spaces",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Active Directory/Got Username.md",
@@ -185,18 +193,11 @@
     "OSCP/Commands/Random Tools.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "Offensive-Security.md",
-    "Spaces",
     "README.md",
-    "Offensive-Security 1.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home",
-    "OSCP/Commands/Commands.md",
     "OSCP/Commands",
     "OSCP/P.canvas",
-    "OSCP/Enumeration/Enumeration.md",
     "OSCP/Enumeration",
-    "OSCP/Active Directory/Active Directory.md",
-    "OSCP/Post Exploitation/Post Exploitation.md",
     "OSCP/Post Exploitation",
     "OSCP/Active Directory",
     "OSCP"
