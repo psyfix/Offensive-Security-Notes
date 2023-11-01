@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md",
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Path Traversal & RFI & LFI.md"
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md"
               }
             }
           },
@@ -165,11 +165,12 @@
   },
   "active": "189e9e05f669abbc",
   "lastOpenFiles": [
-    "OSCP/Web/Path Traversal.md",
-    "OSCP/Web/SQLi.md",
     "OSCP/Web/Brute Forcing.md",
-    "OSCP/Web/Path Traversal & RFI & LFI.md",
+    "OSCP/Web/SQLi.md",
+    "OSCP/Web/Path Traversal.md",
     "OSCP/Web/Command Injection.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
+    "Pasted image 20231101191427.png",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Commands/File Transfer.md",
@@ -193,7 +194,6 @@
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Active Directory/Lateral Movement.md",
-    "Offensive-Security.md",
     "Spaces/Home",
     "OSCP/Commands",
     "OSCP/P.canvas",
