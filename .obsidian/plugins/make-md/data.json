@@ -63,18 +63,7 @@
     "spaces://$tags",
     "/",
     "Mobile",
-    "Mobile/Android",
-    "Mobile/IOS",
-    "OSCP",
-    "OSCP/Active Directory",
-    "OSCP/Active Directory/Got User",
-    "OSCP/Commands",
-    "OSCP/Enumeration",
-    "OSCP/Network",
-    "OSCP/Post Exploitation",
-    "OSCP/Web",
-    "OSCP/Web/Attachments",
-    "Spaces"
+    "Mobile/Android"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -126,5 +115,4 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": true,
-  "releaseNotesPrompt": 0.804
-}
+  "releas
