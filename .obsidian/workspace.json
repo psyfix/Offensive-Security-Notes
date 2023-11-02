@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3f53a098e23bb6cf",
+        "id": "4d6c844bf68789f8",
         "type": "tabs",
         "children": [
           {
-            "id": "189e9e05f669abbc",
+            "id": "0d9480d9dbe73413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6230b880ea5c4a15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Network/SSH.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07f5faaefcba1dab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Network/FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7ba4952bdcb9dfb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Enumeration/Enumeration.md",
-                "mode": "source",
+                "file": "OSCP/Enumeration/New Note.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,11 +73,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 334.5
   },
   "right": {
     "id": "bb3c85740f8c44c9",
@@ -130,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Enumeration/Enumeration.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Enumeration/Enumeration.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Enumeration/Enumeration.md"
+                "file": "OSCP/Enumeration/New Note.md"
               }
             }
           },
@@ -199,14 +163,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7ba4952bdcb9dfb",
+  "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Enumeration/New Note.md",
+    "OSCP/Active Directory/Got User/Power View.md",
+    "OSCP/Active Directory/Got Admin.md",
+    "OSCP/Active Directory/Got Nothing.md",
+    "OSCP/Active Directory/Got Username.md",
+    "OSCP/Enumeration/Enumeration.md",
+    "Spaces",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Got User.md",
     "OSCP/Active Directory/Got Domain Admin.md",
-    "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Network/SMB.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
@@ -224,13 +194,7 @@
     "Mobile/Mobile.md",
     "Mobile",
     "OSCP/Network/HTTP.md",
-    "Spaces",
     "OSCP/Network/WINRM.md",
-    "OSCP/Network/RDP.md",
-    "OSCP/Network/DNS.md",
-    "OSCP/Network/SSH.md",
-    "OSCP/Network/FTP.md",
-    "OSCP/Network/SMTP.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "OSCP/Web/Attachments",
     "Pasted image 20231101191427.png",
