@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Active Directory/Lateral Movement.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "psexec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Active Directory/Lateral Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Active Directory/Lateral Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md"
+                "file": "OSCP/Active Directory/Lateral Movement.md"
               }
             }
           },
@@ -200,8 +200,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a7ba4952bdcb9dfb",
+  "active": "0a83e8764962506e",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Shells.md",
@@ -233,7 +234,6 @@
     "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "OSCP/Web/Attachments",
-    "OSCP/Web/Brute Forcing.md",
     "Pasted image 20231101191427.png",
     "OSCP/Web/Pasted image 20231101191707.png",
     "OSCP/Network",
