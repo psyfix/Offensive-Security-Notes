@@ -51,7 +51,8 @@
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
-    "//OSCP"
+    "//OSCP",
+    "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
