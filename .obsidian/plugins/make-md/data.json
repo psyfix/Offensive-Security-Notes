@@ -52,7 +52,8 @@
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
     "//OSCP",
-    "//OSCP/OSCP/Web"
+    "//OSCP/OSCP/Web",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
