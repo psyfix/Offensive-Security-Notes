@@ -46,12 +46,12 @@
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Network",
-    "//Mobile",
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
-    "//Mobile/Mobile/Android"
+    "//Mobile/Mobile/Android",
+    "//OSCP"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
