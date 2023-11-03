@@ -2,7 +2,7 @@
 ```
 enum4linux -a -u " " -p " " <ip>
 enum4linux -a -u "guest" -p " " <ip>
-for host in $(cat hosts.txt); do enum4linux "$host"; done
+for host in $(cat hosts.txt); do <command> "$host"; done
 
 smbmap -u "" -p "" -P 445 -H <ip>
 smbmap -u "guest" -p "" -P 445 -H <ip>
