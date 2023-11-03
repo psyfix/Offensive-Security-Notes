@@ -2,12 +2,16 @@
 ```
 enum4linux -a -u " " -p " " <ip>
 enum4linux -a -u "guest" -p " " <ip>
+for host in $(cat hosts.txt); do enum4linux "$host"; done
 
 smbmap -u "" -p "" -P 445 -H <ip>
 smbmap -u "guest" -p "" -P 445 -H <ip>
 
 crackmapexec smb <ip> -u "" -p ""
 crackmapexec smb <ip> -u "guest" -p ""
+
+
+
 ```
 
 #### Got Creds
