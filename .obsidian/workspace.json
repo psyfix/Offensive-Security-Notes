@@ -166,8 +166,9 @@
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Commands/File Transfer.md",
+    "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Commands/Shells.md",
+    "OSCP/Commands/File Transfer.md",
     "OSCP/Enumeration/New Note.md",
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Active Directory/Got Admin.md",
@@ -179,7 +180,6 @@
     "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Got User.md",
     "OSCP/Active Directory/Got Domain Admin.md",
-    "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Network/SMB.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",

