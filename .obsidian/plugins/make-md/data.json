@@ -51,6 +51,9 @@
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Network",
+    "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,
