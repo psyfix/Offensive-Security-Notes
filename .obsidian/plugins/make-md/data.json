@@ -58,7 +58,8 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
-    "//OSCP/OSCP/Enumeration"
+    "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
