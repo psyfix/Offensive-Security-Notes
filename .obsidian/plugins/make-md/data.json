@@ -61,7 +61,10 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Web",
     "//OSCP/OSCP/Web/OSCP/Web/Attachments",
-    "//OSCP/OSCP/Network"
+    "//OSCP/OSCP/Network",
+    "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -71,7 +74,15 @@
     "Mobile/Android",
     "Mobile/IOS",
     "OSCP",
-    "OSCP/Active Directory"
+    "OSCP/Active Directory",
+    "OSCP/Active Directory/Got User",
+    "OSCP/Commands",
+    "OSCP/Enumeration",
+    "OSCP/Network",
+    "OSCP/Post Exploitation",
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
