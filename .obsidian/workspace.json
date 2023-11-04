@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Network/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Network/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Network/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Shells.md"
+                "file": "OSCP/Network/SQL.md"
               }
             }
           },
@@ -165,11 +165,13 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Network/SQL.md",
     "OSCP/Web/SQLi.md",
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Commands/Shells.md",
+    "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Commands/Shells.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Enumeration/New Note.md",
     "OSCP/Network/SMB.md",
@@ -191,9 +193,7 @@
     "Mobile/Android/Objection.md",
     "Mobile/IOS/IOS.md",
     "Mobile/IOS",
-    "Mobile/Android/Android.md",
     "Mobile/Android",
-    "Mobile/Mobile.md",
     "Mobile",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "OSCP/Web/Attachments",
