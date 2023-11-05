@@ -100,7 +100,16 @@
     "spaces://#Remember",
     "spaces://#Print",
     "spaces://#God",
-    "spaces://#Insecure"
+    "spaces://#Insecure",
+    "spaces://#We",
+    "spaces://#To",
+    "spaces://#Can",
+    "spaces://#Any",
+    "spaces://#do",
+    "spaces://#Restart",
+    "spaces://#AutoRun",
+    "spaces://#Add",
+    "spaces://#Generate"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
