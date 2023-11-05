@@ -40,11 +40,6 @@
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Commands",
-    "//Mobile/Mobile/Android",
-    "//Mobile/Mobile/Android",
-    "//Mobile/Mobile/Android",
-    "//Mobile/Mobile/Android",
-    "//Mobile/Mobile/Android",
     "//OSCP",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
@@ -72,7 +67,8 @@
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
-    "//OSCP/OSCP/Post Exploitation"
+    "//OSCP/OSCP/Post Exploitation",
+    "//Spaces"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -90,7 +86,20 @@
     "OSCP/Post Exploitation",
     "OSCP/Web",
     "OSCP/Web/Attachments",
-    "Spaces"
+    "spaces://#User",
+    "spaces://#Specific",
+    "spaces://#All",
+    "spaces://#Keepass",
+    "spaces://#Services",
+    "spaces://#If",
+    "spaces://#Check",
+    "spaces://#Shuts",
+    "spaces://#check",
+    "spaces://#See",
+    "spaces://#Modify",
+    "spaces://#Remember",
+    "spaces://#Print",
+    "spaces://#God"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

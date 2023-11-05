@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Note.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Note.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Note.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Note.md"
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
               }
             }
           },
@@ -165,7 +165,9 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "New Note.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
+    "OSCP/Post Exploitation/Windows Check.md",
+    "README.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Enumeration/New Note.md",
     "OSCP/Active Directory/Got Admin.md",
@@ -180,7 +182,6 @@
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Commands/Shells.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Web/SQLi.md",
@@ -191,7 +192,6 @@
     "OSCP/Enumeration/Enumeration.md",
     "Spaces",
     "OSCP/Active Directory/Got User/Got User.md",
-    "Mobile/Android/Frida.md",
     "Mobile/IOS",
     "Mobile/Android",
     "Mobile",
