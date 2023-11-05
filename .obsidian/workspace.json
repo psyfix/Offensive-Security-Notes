@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "Spaces",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
@@ -190,8 +191,6 @@
     "OSCP/Network/SQL.md",
     "OSCP/Network/SMB.md",
     "OSCP/Web/Command Injection.md",
-    "OSCP/Enumeration/Enumeration.md",
-    "Spaces",
     "Mobile/IOS",
     "Mobile/Android",
     "Mobile",
