@@ -69,7 +69,9 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
-    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
