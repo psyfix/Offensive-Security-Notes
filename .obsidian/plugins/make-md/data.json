@@ -64,6 +64,7 @@
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,
