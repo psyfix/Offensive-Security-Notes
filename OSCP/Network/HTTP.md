@@ -1,12 +1,7 @@
-### Fuzzing
-#### FUFF
+#### Manual Inspection
 ```
-
-```
-
-#### Technology Profiling
-```
-Any version numbers or strings that could indicate technologies should be searched for to find vulns!.
+1. Search any string indicating a technology and its version number.
+2. Inspect headers, use wappalyzer.
 ```
 #### GOBUSTER
 ```
@@ -20,7 +15,10 @@ gobuster dir -u <url> -w <wordlist> -o <output>
 
 If you don't find anything but do find a directory remember to brute force that directory!!!
 ```
+#### FUFF
+```
 
+```
 ### Crawling
 ```
 Spider
