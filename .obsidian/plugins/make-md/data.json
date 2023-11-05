@@ -99,7 +99,8 @@
     "spaces://#Modify",
     "spaces://#Remember",
     "spaces://#Print",
-    "spaces://#God"
+    "spaces://#God",
+    "spaces://#Insecure"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
