@@ -1,6 +1,6 @@
 #### Tips
-Document every command that is executed to perform the full attack.
-
+Document every command that is executed relating to the compromsiing / exploit steps.
+ 
 
 Screenshot of the proof.txt / local.txt files with the ipaddress and user in it.
 
