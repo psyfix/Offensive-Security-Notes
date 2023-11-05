@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Network/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Network/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Network/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SMB.md"
+                "file": "OSCP/Network/SQL.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Network/SMB.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Enumeration/New Note.md",
@@ -178,7 +179,6 @@
     "OSCP/Web/Command Injection.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Random Tools.md",
-    "OSCP/Network/SMB.md",
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
