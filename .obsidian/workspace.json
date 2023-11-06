@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Commands/Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SMB.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -165,11 +165,13 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
+    "OSCP/Network/SMB.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/File Transfer.md",
-    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
@@ -191,8 +193,6 @@
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Domain Admin.md",
-    "OSCP/Network/SQL.md",
-    "OSCP/Network/SMB.md",
     "Mobile/IOS",
     "Mobile/Android",
     "Mobile",
