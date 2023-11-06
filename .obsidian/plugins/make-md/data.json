@@ -70,7 +70,8 @@
     "//OSCP/OSCP/Post Exploitation",
     "//Spaces",
     "//Mobile",
-    "//Mobile/Mobile/Android"
+    "//Mobile/Mobile/Android",
+    "//OSCP/OSCP/Web/OSCP/Web/Attachments"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

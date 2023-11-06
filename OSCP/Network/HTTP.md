@@ -38,5 +38,11 @@ nikto
 nmap 
 ```
 
-
 ### Git
+```
+git-dumper <url> <output_dir>
+git status
+git reset --hard
+git log
+git diff <commit_id>
+```
