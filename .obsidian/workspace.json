@@ -165,8 +165,9 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "OSCP/Commands/File Transfer.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
@@ -182,7 +183,6 @@
     "OSCP/Enumeration/New Note.md",
     "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Active Directory/Got Username.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got User/Bloodhound.md",
     "OSCP/Active Directory/Got User/Power View.md",
     "README.md",
