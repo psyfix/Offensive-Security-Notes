@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Commands/File Transfer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Commands/File Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Commands/File Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md"
+                "file": "OSCP/Commands/File Transfer.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
@@ -173,7 +175,6 @@
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Network/HTTP.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Enumeration/New Note.md",
@@ -190,7 +191,6 @@
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Domain Admin.md",
-    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/SQL.md",
     "OSCP/Network/SMB.md",
     "Mobile/IOS",
