@@ -43,4 +43,6 @@ hashcat -m 13400 -a 0 <hash> <wordlist> --force
 ##### ZIP
 ```
 fcrackzip -u -v -D -p ~/Desktop/rockyou.txt <zip_file>
+zip2john
+7z2john
 ```
