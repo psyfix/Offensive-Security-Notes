@@ -35,7 +35,6 @@ impacket-GetNPUsers.py <domain>/ -usersfile <usernames.txt> - format hashcat -ou
 impacket-GetUserSPNs --request -dc-ip <ip> <domain>/<user>:<password>
 ```
 
-
 ### BloodHound
 #### Data collection
 ```
