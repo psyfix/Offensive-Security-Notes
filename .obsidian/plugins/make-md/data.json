@@ -72,6 +72,7 @@
     "//Mobile",
     "//Mobile/Mobile/Android",
     "//OSCP/OSCP/Web/OSCP/Web/Attachments",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
   ],
   "expandFolderOnClick": true,

