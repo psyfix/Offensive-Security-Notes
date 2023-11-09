@@ -88,9 +88,9 @@
     "OSCP/Commands",
     "OSCP/Network",
     "OSCP/Post Exploitation",
-    "OSCP/Enumeration",
     "OSCP/Web",
     "OSCP/Web/Attachments",
+    "OSCP/Enumeration",
     "Spaces"
   ],
   "menuTriggerChar": "/",
