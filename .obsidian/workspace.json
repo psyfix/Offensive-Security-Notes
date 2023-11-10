@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SNMP.md",
+                "file": "OSCP/Network/SMTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SNMP.md",
+                "file": "OSCP/Network/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SNMP.md",
+                "file": "OSCP/Network/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SNMP.md"
+                "file": "OSCP/Network/SMTP.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "OSCP/Enumeration/New Note.md",
     "OSCP/Network/SNMP.md",
+    "OSCP/Network/SMTP.md",
+    "OSCP/Enumeration/New Note.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/File Transfer.md",
@@ -191,7 +192,6 @@
     "OSCP/Commands/Random Tools.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Reporting Guide.md",
-    "README.md",
     "Spaces",
     "Mobile/IOS",
     "Mobile/Android",

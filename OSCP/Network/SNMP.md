@@ -1,4 +1,3 @@
-
 ```
 #SNMP Port scan
 sudo nmap -sU --open -p 161 <ip> -oA <snmp>
