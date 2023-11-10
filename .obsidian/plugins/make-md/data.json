@@ -87,10 +87,10 @@
     "OSCP/Active Directory/Got User",
     "OSCP/Commands",
     "OSCP/Network",
+    "OSCP/Enumeration",
     "OSCP/Post Exploitation",
     "OSCP/Web",
     "OSCP/Web/Attachments",
-    "OSCP/Enumeration",
     "Spaces"
   ],
   "menuTriggerChar": "/",
