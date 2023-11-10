@@ -10,4 +10,7 @@ snmpwalk -c public -v1 -t 10 <ip>
 
 #Query a specific OID.
 snmpwalk -c public -v1 <ip> <oid>
+
+#Query Extended 
+snmpwalk -v1 -c public <ip> NET-SNMP-EXTEND-MIB::nsExtendObjects
 ```
