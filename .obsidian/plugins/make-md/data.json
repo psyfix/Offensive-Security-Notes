@@ -74,6 +74,7 @@
     "//OSCP/OSCP/Web/OSCP/Web/Attachments",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,

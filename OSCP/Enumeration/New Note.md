@@ -9,7 +9,7 @@ nmap -Pn -T4 -F -iL <hosts> -oA top1000
 nmap -Pn -T4 -A -p- -iL <hosts> -oA full
 
 #Dont forget UDP.
-nmap -F -T4 -Pn -iL <hosts> -oA udp
+nmap -sU --open -F -T4 -Pn -iL <hosts> -oA udp
 ```
 
 
