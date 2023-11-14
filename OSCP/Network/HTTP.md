@@ -34,6 +34,7 @@ Page Source Code
 ```
 wpscan
 joomscan
+droopescan
 nikto
 nmap 
 ```
