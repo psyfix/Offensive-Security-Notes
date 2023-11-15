@@ -40,7 +40,6 @@
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Commands",
-    "//OSCP",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory",
@@ -59,7 +58,6 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration",
-    "//OSCP",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Enumeration",
@@ -76,7 +74,10 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Enumeration",
-    "//OSCP/OSCP/Enumeration"
+    "//OSCP/OSCP/Enumeration",
+    "//Mobile",
+    "//Mobile/Mobile/Android",
+    "//OSCP"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
