@@ -77,7 +77,8 @@
     "//OSCP/OSCP/Enumeration",
     "//Mobile",
     "//Mobile/Mobile/Android",
-    "//OSCP"
+    "//OSCP",
+    "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
