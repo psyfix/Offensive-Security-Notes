@@ -83,7 +83,16 @@
     "Mobile",
     "Mobile/Android",
     "Mobile/IOS",
-    "OSCP"
+    "OSCP",
+    "OSCP/Active Directory",
+    "OSCP/Active Directory/Got User",
+    "OSCP/Commands",
+    "OSCP/Enumeration",
+    "OSCP/Network",
+    "OSCP/Post Exploitation",
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -135,4 +144,5 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": true,
-  "releaseNotesProm
+  "releaseNotesPrompt": 0.804
+}
