@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md"
+                "file": "OSCP/Enumeration/New Note.md"
               }
             }
           },
@@ -165,9 +165,10 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Enumeration/New Note.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Commands/Shells.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Network/POP3.md",
@@ -182,7 +183,6 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/File Transfer.md",
-    "OSCP/Enumeration/New Note.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Commands/Living Off The Land.md",
