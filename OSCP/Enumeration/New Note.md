@@ -18,6 +18,3 @@ searchsploit
 searchsploit -m <module_no>
 ````
 
-# Dean
-## Dean
-
