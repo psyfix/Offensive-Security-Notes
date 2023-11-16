@@ -81,7 +81,8 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Commands",
     "//Mobile/Mobile/IOS",
-    "//Spaces"
+    "//Spaces",
+    "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

