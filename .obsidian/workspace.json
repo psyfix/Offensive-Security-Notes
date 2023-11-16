@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Commands/Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Command Injection.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Web/Command Injection.md",
     "OSCP/Network/SMB.md",
     "README.md",
     "Mobile/Android/Objection.md",
@@ -190,7 +191,6 @@
     "OSCP/Network/SMTP.md",
     "OSCP/Network/SQL.md",
     "OSCP/Network/WINRM.md",
-    "OSCP/Network/RDP.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Spaces",
     "Mobile/IOS",
