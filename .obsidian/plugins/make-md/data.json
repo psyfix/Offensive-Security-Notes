@@ -90,7 +90,17 @@
     "/",
     "Mobile",
     "Mobile/Android",
-    "Mobile/IOS"
+    "Mobile/IOS",
+    "OSCP",
+    "OSCP/Commands",
+    "OSCP/Network",
+    "OSCP/Active Directory",
+    "OSCP/Active Directory/Got User",
+    "OSCP/Enumeration",
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "OSCP/Post Exploitation",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
