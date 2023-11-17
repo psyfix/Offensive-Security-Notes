@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Reporting Guide.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "virtual",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Reporting Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Reporting Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Shells.md"
+                "file": "OSCP/Reporting Guide.md"
               }
             }
           },
@@ -163,14 +163,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0a83e8764962506e",
+  "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Network/SQL.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Commands/Shells.md",
     "Spaces",
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SMB.md",
