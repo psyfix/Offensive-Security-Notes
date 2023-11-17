@@ -82,7 +82,10 @@
     "//Mobile/Mobile/IOS",
     "//Spaces",
     "//OSCP/OSCP/Web",
-    "//OSCP"
+    "//OSCP",
+    "//OSCP/OSCP/Enumeration",
+    "//OSCP/OSCP/Active Directory",
+    "//OSCP/OSCP/Network"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
