@@ -22,6 +22,24 @@ C:\Windows\System32\drivers\etc\hosts
 ```
 
 ### File Inclusion
+#### Fuzzing
+
+```
+1. Try entering an abritrary file name in and see if the web server returns an error indicating it could not find it.
+For example:
+<b>Warning</b>:  include(): Failed opening 'hola' for inclusion (include_path='C:\xampp\php\PEAR') in <b>C:\xampp\htdocs\site\index.php</b> on line <b>4</b><br />'
+
+2. Test if it is local or remote file inclusion.
+Setup a web server and try serving a file directly such as http://192.168.45.204/file.php
+
+3. If it is remote
+Serve a web shell directly from your web server.
+
+4 If it is local
+Try the PHP data wrapper to execute code directly on the system.
+OR try reading local PHP files, can you upload the file through the web app.
+OR try the filter wrapper to read potential PHP files already on the server.
+```
 #### Log Poisoning
 
 ```
