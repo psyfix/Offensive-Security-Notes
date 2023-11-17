@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "powershell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9480d9dbe73413",
+  "active": "0a83e8764962506e",
   "lastOpenFiles": [
     "OSCP/Network/SQL.md",
     "OSCP/Commands/Shells.md",
