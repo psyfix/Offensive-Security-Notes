@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Enumeration/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md"
+                "file": "OSCP/Enumeration/New Note.md"
               }
             }
           },
@@ -165,10 +165,10 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SMB.md",
     "OSCP/Commands/Living Off The Land.md",
