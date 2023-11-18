@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration/New Note.md",
+                "file": "OSCP/Commands/File Transfer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Enumeration/New Note.md",
+                "file": "OSCP/Commands/File Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Enumeration/New Note.md",
+                "file": "OSCP/Commands/File Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Enumeration/New Note.md"
+                "file": "OSCP/Commands/File Transfer.md"
               }
             }
           },
@@ -165,19 +165,21 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/File Transfer.md",
+    "OSCP/Commands/Random Tools.md",
+    "OSCP/Active Directory/Got Admin.md",
+    "OSCP/Active Directory/Got Domain Admin.md",
+    "OSCP/Enumeration/New Note.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SMB.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/Cracking.md",
-    "OSCP/Commands/Random Tools.md",
     "OSCP/Network/SQL.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Network/POP3.md",
-    "OSCP/Enumeration/New Note.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/Brute Forcing.md",
@@ -187,8 +189,6 @@
     "Mobile/Android/Frida.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got User/Power View.md",
-    "OSCP/Active Directory/Got Admin.md",
-    "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Network/HTTP.md",
