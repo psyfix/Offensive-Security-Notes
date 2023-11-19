@@ -19,7 +19,8 @@ Methodology
 1. Check easy ports first. SSH, FTP, SMB.
 
 2. Check HTTP.
-	1. Resort to manual exploitation LAST. Check for pub exploits first. Version numbers, names of technologies, check headers, page source code, nmap output.
+	1. Check public exploits.
+	2. Resort to manual exploitation LAST.
 
 3. Resort to brute forcing
 
