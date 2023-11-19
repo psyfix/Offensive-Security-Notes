@@ -1,7 +1,7 @@
 #### Manual Inspection
 ```
 1. Search any string indicating a technology and its version number.
-2. Inspect headers, use wappalyzer.
+2. Inspect headers, use wappalyzer, inspect page source code.
 ```
 #### GOBUSTER
 ```
