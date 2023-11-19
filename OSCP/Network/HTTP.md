@@ -1,10 +1,12 @@
 #### Manual Inspection
 ```
 #Search every version number and string for public exploits.
+#Note interesting functionality and parameters.
 1. Wappalyzer.
 2. Page Source Code.
 3. Application Headers.
 4. Application Requests.
+5. Browse Application.
 ```
 #### GOBUSTER
 ```
