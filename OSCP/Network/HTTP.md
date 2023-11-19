@@ -1,5 +1,6 @@
 #### Manual Inspection
 ```
+#Search every version number and string for public exploits.
 1. Wappalyzer.
 2. Page Source Code.
 3. Application Headers.
