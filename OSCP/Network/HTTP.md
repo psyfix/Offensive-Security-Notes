@@ -31,13 +31,6 @@ If you don't find anything but do find a directory remember to brute force that 
 ```
 Spider
 ```
-
-### Passive
-```
-Wappalyzer
-Page Source Code
-```
-
 ### Scanning
 ```
 wpscan
