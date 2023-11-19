@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/SQLi.md",
+                "file": "OSCP/Network/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/SQLi.md",
+                "file": "OSCP/Network/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/SQLi.md",
+                "file": "OSCP/Network/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/SQLi.md"
+                "file": "OSCP/Network/DNS.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Web/SQLi.md",
     "OSCP/Network/SMTP.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/File Transfer.md",
@@ -179,7 +180,6 @@
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Network/SQL.md",
-    "OSCP/Web/SQLi.md",
     "OSCP/Network/POP3.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",

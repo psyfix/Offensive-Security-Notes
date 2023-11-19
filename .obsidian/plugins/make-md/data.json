@@ -83,7 +83,8 @@
     "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Network",
-    "//OSCP/OSCP/Enumeration"
+    "//OSCP/OSCP/Enumeration",
+    "//OSCP"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
