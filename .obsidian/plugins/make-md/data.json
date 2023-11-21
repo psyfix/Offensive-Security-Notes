@@ -88,6 +88,7 @@
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Network",
+    "//OSCP/OSCP/Enumeration",
     "//OSCP/OSCP/Enumeration"
   ],
   "expandFolderOnClick": true,
@@ -100,7 +101,6 @@
     "OSCP",
     "OSCP/Active Directory",
     "OSCP/Active Directory/Got User",
-    "OSCP/Enumeration",
     "OSCP/Commands",
     "OSCP/Network",
     "OSCP/Post Exploitation",
