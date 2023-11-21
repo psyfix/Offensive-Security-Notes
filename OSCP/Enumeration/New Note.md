@@ -10,6 +10,9 @@ nmap -Pn -T4 -A -p- -iL <hosts> -oA full
 
 #Dont forget UDP.
 nmap -sU --open -A -F -T4 -Pn -iL <hosts> -oA udp
+
+#Check vulns
+nmap -Pn -T4 -p --script "vuln" <hosts> -oA vulns
 ```
 
 
