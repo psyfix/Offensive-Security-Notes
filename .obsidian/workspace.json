@@ -165,9 +165,10 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "Spaces",
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Active Directory/Lateral Movement.md",
