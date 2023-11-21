@@ -50,3 +50,12 @@ git reset --hard
 git log
 git diff <commit_id>
 ```
+
+### WebDAV
+```
+#Used to test WebDav exists
+davtest --url <url>
+
+#Used to connect to WebDAv - usually requires credentials
+cadaver <ip>
+```
