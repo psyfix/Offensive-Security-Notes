@@ -83,7 +83,8 @@
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Post Exploitation",
-    "//OSCP/OSCP/Commands"
+    "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
