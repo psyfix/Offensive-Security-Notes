@@ -29,7 +29,7 @@ Brute force with extensions: php, html, aspx, txt, .git
 ```
 #### FUFF
 ```
-
+ffuf -w wordlist.txt -u https://example.org/FUZZ -mc all -fs 42 -c -v
 ```
 ### Crawling
 ```
