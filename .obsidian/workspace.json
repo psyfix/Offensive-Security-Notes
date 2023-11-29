@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md"
+                "file": "OSCP/Enumeration.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Network/SMB.md",
     "OSCP/Network/SMTP.md",
@@ -182,7 +183,6 @@
     "OSCP/Reporting Guide.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",

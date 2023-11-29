@@ -6,7 +6,7 @@ fping -a -g <ip_range> 2>/dev/null
 nmap -Pn -T4 -F -iL <hosts> -oA top1000
 
 #full+scripts
-nmap -Pn -T4 -A -p- -iL <hosts> -oA full
+nmap -Pn -T4 -A -p- -iL <hosts> -oN full --open
 
 #Dont forget UDP.
 nmap -sU --open -A -F -T4 -Pn -iL <hosts> -oA udp
