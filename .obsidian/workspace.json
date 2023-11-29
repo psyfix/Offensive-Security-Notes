@@ -11,12 +11,8 @@
             "id": "0d9480d9dbe73413",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
