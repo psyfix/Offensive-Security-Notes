@@ -85,6 +85,7 @@
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Web",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
   ],
   "expandFolderOnClick": true,

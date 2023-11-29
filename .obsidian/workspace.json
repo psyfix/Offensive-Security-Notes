@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md"
+                "file": "OSCP/Active Directory/Got User/Password Spray.md"
               }
             }
           },
@@ -165,6 +165,12 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got User/Power View.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
+    "OSCP/Active Directory/Got Username.md",
+    "OSCP/Active Directory/Got Nothing.md",
+    "OSCP/Network/HTTP.md",
+    "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Active Directory/Lateral Movement.md",
@@ -172,13 +178,10 @@
     "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/SMB.md",
     "OSCP/Commands/Random Tools.md",
-    "OSCP/Network/HTTP.md",
     "OSCP/Enumeration.md",
     "Spaces",
     "OSCP/Network/WINRM.md",
@@ -189,9 +192,6 @@
     "OSCP/Network/FTP.md",
     "OSCP/Network/POP3.md",
     "OSCP/Network/RDP.md",
-    "OSCP/Network/SQL.md",
-    "OSCP/Active Directory/Got Username.md",
-    "README.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Mobile/IOS",
     "Mobile/Android",
