@@ -11,8 +11,12 @@
             "id": "0d9480d9dbe73413",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Network/HTTP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Network/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Network/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md"
+                "file": "OSCP/Network/HTTP.md"
               }
             }
           },
@@ -161,6 +165,8 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Enumeration.md",
+    "OSCP/Reporting Guide.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
@@ -171,7 +177,6 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/Random Tools.md",
-    "OSCP/Enumeration.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Active Directory/Got Username.md",
@@ -187,7 +192,6 @@
     "OSCP/Network/SNMP.md",
     "OSCP/Network/SSH.md",
     "OSCP/Network/FTP.md",
-    "OSCP/Network/POP3.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Mobile/IOS",
     "Mobile/Android",
