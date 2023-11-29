@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "OSCP/Post Exploitation/Tunneling.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "OSCP/Post Exploitation/Tunneling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "OSCP/Post Exploitation/Tunneling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
+                "file": "OSCP/Post Exploitation/Tunneling.md"
               }
             }
           },
@@ -165,8 +165,9 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Active Directory/Got Admin.md",
+    "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
@@ -191,7 +192,6 @@
     "README.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Network/DNS.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Mobile/IOS",
     "Mobile/Android",
