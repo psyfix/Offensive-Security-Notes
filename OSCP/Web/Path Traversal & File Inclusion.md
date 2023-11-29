@@ -33,7 +33,8 @@ For example:
 Setup a web server and try serving a file directly such as http://192.168.45.204/file.php
 
 3. If it is remote
-Serve a web shell directly from your web server.
+- Serve a web shell directly from your web server.
+- Try capturing the hash use smbserver or responder, then crack with john.
 
 4 If it is local
 Try the PHP data wrapper to execute code directly on the system.
