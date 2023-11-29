@@ -10,6 +10,7 @@ nmap -Pn -iL <hosts> -p22,3389,5895,47001,88,389,445,80,443,21,8000,8080,1433,33
 ```
 #EVIL-WINRM
 evil-winrm -u <user> -H <hash> -i <ip>
+evil-winrm -u <user> -p <pass> -i <ip>
 
 #SMB
 impacket-psexec <domain>/<user>@<target-ip> -dc-ip <ip> -hashes

