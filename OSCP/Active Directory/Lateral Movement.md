@@ -2,7 +2,7 @@
 
 ```
 #Good for active directory machines.
-nmap -Pn -iL <hosts> -p22,3389,5895,47001,88,389,445,80,443,21,8000,8080 -oA internal_scan
+nmap -Pn -iL <hosts> -p22,3389,5895,47001,88,389,445,80,443,21,8000,8080,1433,3306 -oA internal_scan
 ```
 
 
