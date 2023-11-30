@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SNMP.md",
+                "file": "OSCP/Web/Brute Forcing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SNMP.md",
+                "file": "OSCP/Web/Brute Forcing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SNMP.md",
+                "file": "OSCP/Web/Brute Forcing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SNMP.md"
+                "file": "OSCP/Web/Brute Forcing.md"
               }
             }
           },
@@ -165,14 +165,15 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "OSCP/Network/HTTP.md",
     "OSCP/Network/SSH.md",
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Network/SNMP.md",
+    "OSCP/Network/HTTP.md",
     "OSCP/Network/SMTP.md",
     "OSCP/Enumeration.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Network/SMB.md",
     "OSCP/Network/POP3.md",
-    "OSCP/Network/SNMP.md",
     "OSCP/Network/NFS.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Network/DNS.md",
@@ -186,7 +187,6 @@
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/Random Tools.md",
