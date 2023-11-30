@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Brute Forcing.md"
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Web/Brute Forcing.md",
     "OSCP/Network/SSH.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Network/SNMP.md",
@@ -184,13 +186,11 @@
     "OSCP/Reporting Guide.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/Random Tools.md",
-    "OSCP/Active Directory/Got User/Power View.md",
     "Spaces",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Mobile/IOS",
