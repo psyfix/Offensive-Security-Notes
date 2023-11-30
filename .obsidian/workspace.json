@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
+                "file": "OSCP/Network/HTTP.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Network/SSH.md",
@@ -188,7 +189,6 @@
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/Random Tools.md",
     "Spaces",
