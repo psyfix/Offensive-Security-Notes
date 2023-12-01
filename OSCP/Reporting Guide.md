@@ -9,3 +9,5 @@ Take a copy of any modified exploit code and include it.
 
 
 https://help.offsec.com/hc/en-us/articles/360040165632
+
+https://help.offsec.com/hc/en-us/articles/360050299352
