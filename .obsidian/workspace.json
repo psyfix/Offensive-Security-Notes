@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Commands/Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Enumeration.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Enumeration.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Shells.md",
@@ -177,7 +178,6 @@
     "OSCP/Network/SSH.md",
     "OSCP/Network/SNMP.md",
     "OSCP/Network/SMTP.md",
-    "OSCP/Enumeration.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Network/SMB.md",
     "OSCP/Network/POP3.md",
