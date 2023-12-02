@@ -83,10 +83,11 @@
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Commands",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Web",
-    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
-    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
-    "//OSCP/OSCP/Network"
+    "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -96,10 +97,10 @@
     "Mobile/Android",
     "Mobile/IOS",
     "OSCP",
-    "OSCP/Commands",
-    "OSCP/Network",
     "OSCP/Active Directory",
     "OSCP/Active Directory/Got User",
+    "OSCP/Commands",
+    "OSCP/Network",
     "OSCP/Post Exploitation",
     "OSCP/Web",
     "OSCP/Web/Attachments",
