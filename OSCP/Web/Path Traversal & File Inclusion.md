@@ -47,9 +47,11 @@ c:\Windows\System32\Drivers\etc\hosts
 ```
 #What can we read that would be useful?
 #SSH KEYS!
-1.
-2.
-3.
+	#Home
+	1. /home/<user>/.ssh/id_rsa | /home/<user>/.ssh/id_rsa.keystore | /home/<user>/.ssh/id_rsa.pub /home/<user>/.ssh/authorized_keys | /home/<user>/.ssh/known_hosts
+	#Configuration
+	2. 
+	3.
 
 #HASHES!
 
