@@ -1,12 +1,19 @@
 #### Identifying
 ```
-c:\Windows\System32\Drivers\etc\hosts
-/etc/passwd
+#Understand if the parameter is potentially requesting a file from the web server.
+#Add special characters to try get an error or response confirming.
+	#Forward and back slashes.	
+	1. /../../
+	1. \..\..\
+	#URL Encoding
+	3. %2f..%2f
+	4. /%2e%2e/
 ```
 
 #### Validating
 ```
-
+Windows: c:\Windows\System32\Drivers\etc\hosts
+Linux: /etc/passwd
 ```
 #### Exploiting
 ##### RFI
