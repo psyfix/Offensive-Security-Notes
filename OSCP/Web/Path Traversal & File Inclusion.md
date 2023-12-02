@@ -62,6 +62,4 @@ Linux: /etc/passwd
 	1. /home/<user>/ + .ssh/id_rsa | .ssh/id_rsa.keystore | .ssh/id_rsa.pub | .ssh/authorized_keys | .ssh/known_hosts | .ssh/config
 	#Configuration
 	2. /etc/ssh/ssh_config
-
-
 ```
