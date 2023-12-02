@@ -56,7 +56,7 @@ Linux: /etc/passwd
 ```
 ##### PT
 ```
-#What can we read that would be useful?
+#What can we read a file that would be useful?
 #SSH KEYS!
 	#Home (Check /etc/passwd first for usernames.)
 	1. /home/<user>/ + .ssh/id_rsa | .ssh/id_rsa.keystore | .ssh/id_rsa.pub | .ssh/authorized_keys | .ssh/known_hosts | .ssh/config
