@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md"
+                "file": "OSCP/Commands/Cracking.md"
               }
             }
           },
@@ -165,13 +165,14 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got Admin.md",
     "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Network/SMB.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/HTTP.md",
@@ -191,7 +192,6 @@
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Network/SSH.md",
     "OSCP/Network/SNMP.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "Spaces",
     "Mobile/IOS",
     "Mobile/Android",
