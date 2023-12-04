@@ -90,7 +90,8 @@
     "//OSCP/OSCP/Web/OSCP/Web/Attachments",
     "//OSCP/OSCP/Web/OSCP/Web/Attachments",
     "//OSCP/OSCP/Network",
-    "//OSCP/OSCP/Network"
+    "//OSCP/OSCP/Network",
+    "//OSCP/OSCP/Commands"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
