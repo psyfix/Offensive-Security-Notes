@@ -24,6 +24,18 @@ New-PSDrive -Name kali -PSProvider FileSystem -Credential $cred -Root \\<ip>\kal
 cd kali:
 copy <file_path> .
 ```
+
+##### FTP
+
+```
+setup listener on ligolo to do 21:21
+run ftp python server on kali
+
+on windows
+ftp
+open <target>
+put <file>
+```
 ##### Windows
 ```
 wget http://<ip>:<port>/<file>
