@@ -46,3 +46,8 @@ fcrackzip -u -v -D -p ~/Desktop/rockyou.txt <zip_file>
 zip2john
 7z2john
 ```
+
+##### PDF
+```
+pdfcrack
+```

@@ -7,6 +7,9 @@ scp file user@host:/path/to/file                        #
 
 scp user@host:/path/to/file /local/path/to/file         # copying a file from the remote system using scp command
 
+#windows example
+scp ariah@192.168.169.99:c:/ftp/Infrastructure.pdf /home/kali/Infrastructure.pdf
+
 scp file1 file2 user@host:/path/to/directory              # copying multiple files using scp command
 
 scp -r /path/to/directory user@host:/path/to/directory  # Copying an entire directory with scp command
