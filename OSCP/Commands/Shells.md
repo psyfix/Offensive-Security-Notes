@@ -118,8 +118,8 @@ set PATH=%PATH%C:\Windows\System32;C:\Windows\System32\WindowsPowerShell\v1.0;
 ```
 
 
-#####
-
+##### CMS SPECIFIC
 ```
-phpmyadmin web shell upload. SQL query: https://gist.github.com/BababaBlue/71d85a7182993f6b4728c5d6a77e669f?ref=benheater.com
+PHPMYADMIN: SQL query: https://gist.github.com/BababaBlue/71d85a7182993f6b4728c5d6a77e669f?ref=benheater.com
+WORDPRESS: https://secnhack.in/upload-shell-on-wordpress-site/
 ```
