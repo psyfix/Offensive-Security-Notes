@@ -106,7 +106,10 @@
     "OSCP/Post Exploitation",
     "OSCP/Web",
     "OSCP/Web/Attachments",
-    "Spaces"
+    "Spaces",
+    "spaces://#Check",
+    "spaces://#Dump",
+    "spaces://#To"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
