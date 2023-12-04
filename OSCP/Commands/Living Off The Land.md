@@ -10,9 +10,13 @@ Verify range of ports:
 ##### Saving responses in variables.
 ```
 #Example you are curl an internal web server to get code execution.
-#Set the Resp variable and curl the page.
-$Resp = Invoke-WebRequest 'http://nickel/?whoami' -UseBasicParsing
+#Windows
 
-#View the response.
-$Resp.RawContent
+#Use curl.exe instead of curl.
+curl.exe -UseBasicParsing http://nickel/?whoami
+
+#Use powershell.
+$Resp = Invoke-WebRequest 'http://nickel/?whoami' -UseBasicParsing
+	#View the response.
+	$Resp.RawContent
 ```
