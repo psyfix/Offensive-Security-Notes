@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "7fdfc224a8e6f3b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6c844bf68789f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d9480d9dbe73413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSCP/Commands/File Transfer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4008578417deda73",
+    "type": "split",
+    "children": [
+      {
+        "id": "36666c0ca32487cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "787cd536d0d72099",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0a83e8764962506e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f92ceb16ad66f34c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e90e3be45903ba27",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "right": {
+    "id": "bb3c85740f8c44c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b22507322ddced73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a4cab38318b1c82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSCP/Commands/File Transfer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "762c98432d412615",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OSCP/Commands/File Transfer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a1a82d850a1676e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9af153ed3b9ded4a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OSCP/Commands/File Transfer.md"
+              }
+            }
+          },
+          {
+            "id": "1aeda848e1739c9e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0d9480d9dbe73413",
+  "lastOpenFiles": [
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Commands/Shells.md",
+    "OSCP/Network/HTTP.md",
+    "OSCP/Network/SMB.md",
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Commands/Random Tools.md",
+    "OSCP/Network/SQUID.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
+    "OSCP/Commands/Cracking.md",
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Network/SMTP.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
+    "OSCP/Web/SQLi.md",
+    "OSCP/Web/Brute Forcing.md",
+    "OSCP/Web/Attachments/Pasted image 20231101191821.png",
+    "OSCP/Web/Web.md",
+    "Offensive-Security.md",
+    "OSCP/Network/LDAP.md",
+    "OSCP/Network/POP3.md",
+    "OSCP/Enumeration.md",
+    "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Commands/Living Off The Land.md",
+    "OSCP/Reporting Guide.md",
+    "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Network/SSH.md",
+    "OSCP/Network/SNMP.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
+    "Spaces",
+    "Mobile/IOS",
+    "Mobile/Android",
+    "Mobile",
+    "OSCP/Web/Attachments",
+    "Pasted image 20231101191427.png",
+    "OSCP/Web/Pasted image 20231101191707.png",
+    "OSCP/Network",
+    "OSCP/Web",
+    "OSCP/Active Directory/Got User",
+    "Spaces/Home",
+    "OSCP/Commands",
+    "OSCP/P.canvas"
+  ]
+}
