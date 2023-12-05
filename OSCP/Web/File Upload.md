@@ -6,4 +6,10 @@
 AddType application/x-httpd-php .evil
 ```
 
-###
+### Extension 
+
+```
+#Modify the original extension
+eg. phps, pHp, php7, phtml.
+
+```
