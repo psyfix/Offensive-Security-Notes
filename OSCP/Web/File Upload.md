@@ -31,7 +31,7 @@ Select your file and edit the path to overwrite a folder.
 ### ODT
 
 ```
-Reference: https://al1z4deh.medium.com/proving-grounds-craft-c92de878e004 OR https://documentation.libreoffice.org/assets/Uploads/Documentation/en/GS5.1/HTML/GS5113-GettingStartedWithMacros.html#__RefHeading__5150_1196992793
+Reference: https://al1z4deh.medium.com/proving-grounds-craft-c92de878e004 OR https://dominicbreuker.com/post/htb_re/
 
 #Steps In LibreOffice
 1. Create new document.
