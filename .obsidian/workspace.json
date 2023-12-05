@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Web/File Upload.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Web/File Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Web/File Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Shells.md"
+                "file": "OSCP/Web/File Upload.md"
               }
             }
           },
@@ -165,8 +165,12 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
+    "OSCP/Web/File Upload.md",
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Web/SQLi.md",
+    "OSCP/Web/Brute Forcing.md",
     "OSCP/Commands/Shells.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/SMB.md",
     "OSCP/Network/SNMP.md",
@@ -187,10 +191,6 @@
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Lateral Movement.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
-    "OSCP/Web/SQLi.md",
-    "OSCP/Web/Command Injection.md",
-    "OSCP/Network/SQUID.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Spaces",
     "Mobile/IOS",
