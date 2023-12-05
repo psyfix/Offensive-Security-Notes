@@ -28,15 +28,16 @@ Select your file and edit the path to overwrite a folder.
 ![[Pasted image 20231205205011.png]]
 
 
+## LibreOffice
 ### ODT
-
 ```
 Reference: https://al1z4deh.medium.com/proving-grounds-craft-c92de878e004 OR https://dominicbreuker.com/post/htb_re/
 
 #Steps In LibreOffice
 1. Create new document.
 2. Add macro: Tools -> Macros -> Organise Macros -> Basic
-3. Edit new Macro.
+3. Assign Macro Open Document Event.
+4. Edit new Macro.
 
 REM  ***** BASIC *****
 
@@ -52,4 +53,9 @@ End Sub
 ```
 #Generates ODF file which can be used to leak NTLM credentials.
 https://www.exploit-db.com/exploits/44564
+```
+
+### ODS
+```
+# Exploitation Guide for Hepet -> OSCP PGP.
 ```
