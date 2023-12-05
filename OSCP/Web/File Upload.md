@@ -23,4 +23,6 @@ Create a SSH key and authroized_keys file.
 
 ![[Pasted image 20231205205001.png]]
 
+Select your file and edit the path to overwrite a folder.
+
 ![[Pasted image 20231205205011.png]]
