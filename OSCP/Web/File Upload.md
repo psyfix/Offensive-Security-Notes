@@ -47,3 +47,9 @@ End Sub
 4. Might pay to just do a curl first to test the code execution is working.
 
 ```
+
+
+```
+#Generates ODF file which can be used to leak NTLM credentials.
+https://www.exploit-db.com/exploits/44564
+```
