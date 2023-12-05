@@ -11,5 +11,14 @@ AddType application/x-httpd-php .evil
 ```
 #Modify the original extension
 eg. phps, pHp, php7, phtml.
-
 ```
+
+
+### Over Writing
+![[Pasted image 20231205204847.png]]
+
+The response shows the ../../ indicating we may be able to overwrite files.
+
+Create a SSH key and authroized_keys file.
+
+![[Pasted image 20231205205001.png]]
