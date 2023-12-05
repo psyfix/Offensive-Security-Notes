@@ -22,3 +22,5 @@ The response shows the ../../ indicating we may be able to overwrite files.
 Create a SSH key and authroized_keys file.
 
 ![[Pasted image 20231205205001.png]]
+
+![[Pasted image 20231205205011.png]]
