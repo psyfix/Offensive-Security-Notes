@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f41a
+sticker: lucide//sticky-note
 ---
 ### Reverse Shells
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md#python

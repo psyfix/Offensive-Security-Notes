@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f4c1
+sticker: lucide//sticky-note
 ---
 ##### SSH
 ```

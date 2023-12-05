@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f9f0
+sticker: lucide//sticky-note
 ---
 ### Borg
 ```
