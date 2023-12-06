@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Network/SMB.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Network/SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Network/SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md"
+                "file": "OSCP/Network/SMB.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Commands/File Transfer.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Network/SQL.md",
@@ -191,7 +192,6 @@
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Network/NFS.md",
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
