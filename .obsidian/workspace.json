@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
+                "file": "OSCP/Network/SQL.md"
               }
             }
           },
@@ -165,11 +165,12 @@
   },
   "active": "0d9480d9dbe73413",
   "lastOpenFiles": [
+    "OSCP/Web/SQLi.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/File Upload.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SSH.md",
-    "OSCP/Web/SQLi.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/SMB.md",
@@ -187,7 +188,6 @@
     "OSCP/Network/POP3.md",
     "OSCP/Network/WINRM.md",
     "OSCP/Network/RDP.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
