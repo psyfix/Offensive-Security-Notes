@@ -88,7 +88,8 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
-    "//OSCP/OSCP/Web"
+    "//OSCP/OSCP/Web",
+    "//OSCP/OSCP/Commands"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
