@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/File Transfer.md"
+                "file": "OSCP/Active Directory/Got Admin.md"
               }
             }
           },
@@ -178,13 +178,13 @@
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
     "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Active Directory/Got Admin.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Active Directory/Lateral Movement.md",
-    "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Web/SQLi.md",
