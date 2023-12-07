@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SMB.md"
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
               }
             }
           },
@@ -177,13 +177,14 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got User/Password Spray.md",
+    "OSCP/Commands/Cracking.md",
+    "OSCP/Network/SMB.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
-    "OSCP/Commands/Cracking.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
@@ -196,7 +197,6 @@
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SSH.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
-    "OSCP/Network/SMB.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Network/IMAP.md",
     "OSCP/Network/SQUID.md",
