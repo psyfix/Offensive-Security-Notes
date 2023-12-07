@@ -14,7 +14,7 @@ crackmapexec smb <ip> -u <user> -p <password> --sam / --lsa / --ntds
 
 #IF you are NT SYSTEM
 Take a copy of SAM / SYSTEM.
-NEED TO ADD REG QUERY TO DO THIS HERE.
+NEED TO ADD REG QUERY TO DO THIS HERE
 ```
 
 ### Silver Tickets
