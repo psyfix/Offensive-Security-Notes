@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Reporting Guide.md",
+                "file": "OSCP/Proctor.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Reporting Guide.md",
+                "file": "OSCP/Proctor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Reporting Guide.md",
+                "file": "OSCP/Proctor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Reporting Guide.md"
+                "file": "OSCP/Proctor.md"
               }
             }
           },
@@ -163,8 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9480d9dbe73413",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "OSCP/Reporting Guide.md",
+    "OSCP/Proctor.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
@@ -192,8 +194,6 @@
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Network/NFS.md",
-    "OSCP/Commands/Living Off The Land.md",
-    "OSCP/Commands/Cracking.md",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Spaces",
     "Mobile/IOS",
