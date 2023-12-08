@@ -29,7 +29,12 @@ Brute force with extensions: php, html, aspx, txt, .git
 ```
 #### FUFF
 ```
-ffuf -u http://192.168.193.25:8082/FUZZ -c -w /usr/share/seclists/Discovery/Web-Content/raft-large-words.txt -ac
+ffuf -u http://192.168.193.25:8082/FUZZ -c -z -w /usr/share/seclists/Discovery/Web-Content/raft-large-words.txt -ac -mc all
+
+#Options
+
+#Extensions
+-e .<extension>
 ```
 ### Crawling
 ```
