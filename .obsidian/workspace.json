@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Enumeration.md"
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Network/HTTP.md",
+    "OSCP/Enumeration.md",
     "OSCP/Network/SQL.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Got Username.md",
@@ -193,7 +195,6 @@
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Proctor.md",
-    "OSCP/Network/HTTP.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/File Upload.md",
@@ -202,7 +203,6 @@
     "OSCP/Network/IMAP.md",
     "OSCP/Network/SQUID.md",
     "OSCP/Network/LDAP.md",
-    "OSCP/Network/SNMP.md",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
