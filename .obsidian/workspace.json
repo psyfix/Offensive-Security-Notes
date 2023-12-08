@@ -11,9 +11,11 @@
             "id": "2c3aeedf423eb0e8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Attachments/Pasted image 20231205204847.png"
+                "file": "OSCP/Enumeration.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Attachments/Pasted image 20231205204847.png",
+                "file": "OSCP/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Attachments/Pasted image 20231205204847.png",
+                "file": "OSCP/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Attachments/Pasted image 20231205204847.png"
+                "file": "OSCP/Enumeration.md"
               }
             }
           },
@@ -175,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Web/Command Injection.md",
@@ -200,10 +203,8 @@
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Active Directory/Got Admin.md",
-    "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
-    "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Spaces",
     "Mobile/IOS",
