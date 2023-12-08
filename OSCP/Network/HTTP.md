@@ -31,6 +31,7 @@ Brute force with extensions: php, html, aspx, txt, .git
 ```
 ffuf -u http://192.168.193.25:8082/FUZZ -c -w /usr/share/seclists/Discovery/Web-Content/raft-large-files.txt -ac -mc all
 ffuf -u http://192.168.193.25:8082/FUZZ -c -w /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt -ac -mc all
+
 #Options
 
 #Extensions
