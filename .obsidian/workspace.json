@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Commands/Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SMB.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -177,6 +177,8 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Web/Path Traversal & File Inclusion.md",
+    "OSCP/Network/SMB.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Got Admin.md",
@@ -190,7 +192,6 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Proctor.md",
     "OSCP/Network/HTTP.md",
-    "OSCP/Network/SMB.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Reporting Guide.md",
@@ -198,7 +199,6 @@
     "OSCP/Web/File Upload.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SSH.md",
-    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/IMAP.md",
     "OSCP/Network/SQUID.md",
     "OSCP/Network/LDAP.md",
