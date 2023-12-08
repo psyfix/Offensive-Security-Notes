@@ -16,6 +16,8 @@ psql -h <ip> -U <user> -p <port>
 
 #Default credentials
 postgres : postgres
+
+#Enumeration commnads (https://book.hacktricks.xyz/network-services-pentesting/pentesting-postgresql)
 ```
 #### MSSQL
 ```
