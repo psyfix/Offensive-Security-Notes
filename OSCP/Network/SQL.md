@@ -7,6 +7,8 @@ mysql -u <user> -p'<pass>' -h <ip_address> -P 3306          
 root : '' 
 
 #Enumeration Commands (https://book.hacktricks.xyz/network-services-pentesting/pentesting-mysql)
+
+https://security.stackexchange.com/questions/6919/leveraging-a-shell-from-sql-injection
 ```
 
 #### POSTGRESQL
