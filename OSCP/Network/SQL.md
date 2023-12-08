@@ -18,4 +18,10 @@ postgres : postgres
 #### MSSQL
 ```
 impacket-mssqlclient <user>:<pass>@<ip_address> -windows-auth
+
+#Enable xp_cmdshell
+sp_configure 'show advanced options', 1
+RECONFIGURE
+sp_configure 'xp_cmdshell', 1
+RECONFIGURE
 ```
