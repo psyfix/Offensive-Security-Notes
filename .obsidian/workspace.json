@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Network/SMB.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Network/SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Network/SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Cracking.md"
+                "file": "OSCP/Network/SMB.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Commands/Cracking.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Got Nothing.md",
@@ -189,7 +190,6 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Proctor.md",
     "OSCP/Network/HTTP.md",
-    "OSCP/Commands/Cracking.md",
     "OSCP/Network/SMB.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/SQLi.md",
