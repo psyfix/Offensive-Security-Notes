@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Network/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Network/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Network/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Enumeration.md"
+                "file": "OSCP/Network/HTTP.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Enumeration.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
@@ -193,7 +194,6 @@
     "OSCP/Network/SNMP.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
-    "OSCP/Enumeration.md",
     "OSCP/Network/SQL.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Commands/Shells.md",
