@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/HTTP.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/HTTP.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/HTTP.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/HTTP.md"
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Network/HTTP.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
@@ -185,7 +186,6 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Network/HTTP.md",
     "OSCP/Enumeration.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/SQLi.md",
