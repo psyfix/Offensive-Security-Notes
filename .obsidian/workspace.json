@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/1978.md",
+                "file": "OSCP/Network/DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/1978.md",
+                "file": "OSCP/Network/DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/1978.md",
+                "file": "OSCP/Network/DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/1978.md"
+                "file": "OSCP/Network/DNS.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Network/1978.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Cracking.md",
