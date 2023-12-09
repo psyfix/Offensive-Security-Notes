@@ -102,7 +102,13 @@
     "Mobile/Android",
     "OSCP",
     "OSCP/Active Directory",
-    "OSCP/Active Directory/Got User"
+    "OSCP/Active Directory/Got User",
+    "OSCP/Commands",
+    "OSCP/Network",
+    "OSCP/Post Exploitation",
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -152,4 +158,7 @@
   "indexSVG": false,
   "quickFrames": [],
   "readableLineWidth": true,
-  "autoAddContextsToSubtags
+  "autoAddContextsToSubtags": true,
+  "autoMigration08": true,
+  "releaseNotesPrompt": 0.804
+}
