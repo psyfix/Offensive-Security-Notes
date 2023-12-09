@@ -44,7 +44,13 @@ hashcat -m 13400 -a 0 <hash> <wordlist> --force
 ```
 fcrackzip -u -v -D -p ~/Desktop/rockyou.txt <zip_file>
 zip2john
+
+#Extract hash
 7z2john
+#Extract zip
+7z e <zip>
+
+hashcat can auto detect the hash.
 ```
 
 ##### PDF
