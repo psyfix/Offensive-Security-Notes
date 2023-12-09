@@ -107,7 +107,7 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 python -c 'import pty; pty.spawn("/bin/bash")'
 
 #interactive upgrade
-cd 
+python3 -c 'import pty; pty.spawn(["env","TERM=xterm-256color","/bin/bash","--rcfile", "/etc/bash.bashrc","-i"])'
 
 #enables clear
 export TERM=xterm
