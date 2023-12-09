@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Enumeration.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Enumeration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
+                "file": "OSCP/Enumeration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Cracking.md"
+                "file": "OSCP/Enumeration.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Commands/Cracking.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Network/HTTP.md",
@@ -184,7 +185,6 @@
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Living Off The Land.md",
-    "OSCP/Commands/Cracking.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Enumeration.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
