@@ -19,6 +19,7 @@ crackmapexec winrm <target_ips> -u <user_list> -p <pass_list> -d <domain> --cont
 crackmapexec rdp <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
 
 #DON'T FORGET TO USE --local-auth to try local password spray.
+#Don't FORGET TO CHECK THE SHARES AS WELL.
 ```
 #### AS-REP Roasting
 ```
