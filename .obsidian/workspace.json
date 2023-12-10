@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Post Exploitation/Tunneling.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Post Exploitation/Tunneling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Post Exploitation/Tunneling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
+                "file": "OSCP/Post Exploitation/Tunneling.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Network/SMB.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
@@ -196,7 +197,6 @@
     "OSCP/Network/1978.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Commands/File Transfer.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/Living Off The Land.md",
