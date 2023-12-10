@@ -11,11 +11,10 @@
             "id": "2c3aeedf423eb0e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -94,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OSCP/Commands/Cracking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -177,6 +172,9 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Proctor.md",
+    "OSCP/Reporting Guide.md",
+    "OSCP/Commands/Cracking.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/SQL.md",
@@ -184,7 +182,6 @@
     "OSCP/Commands/File Transfer.md",
     "OSCP/Network/SMB.md",
     "OSCP/Web/File Upload.md",
-    "OSCP/Commands/Cracking.md",
     "OSCP/Network/SMTP.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Network/POP3.md",
@@ -192,9 +189,7 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Reporting Guide.md",
     "OSCP/Active Directory/Got Username.md",
-    "OSCP/Proctor.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
