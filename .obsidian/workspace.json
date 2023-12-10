@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/LDAP.md",
+                "file": "OSCP/Active Directory/Got Username.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/LDAP.md",
+                "file": "OSCP/Active Directory/Got Username.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/LDAP.md",
+                "file": "OSCP/Active Directory/Got Username.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/LDAP.md"
+                "file": "OSCP/Active Directory/Got Username.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
     "OSCP/Active Directory/Got User/Password Spray.md",
+    "OSCP/Network/LDAP.md",
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Proctor.md",
     "OSCP/Reporting Guide.md",
@@ -202,7 +203,6 @@
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Network/DNS.md",
     "OSCP/Network/1978.md",
-    "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
