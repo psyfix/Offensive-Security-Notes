@@ -67,5 +67,7 @@ pdfcrack
 
 ##### Mozilla / Firefox
 ```
-https://github.com/lclevy/firepwd
+#Run this inside the directorty containing the key3 / key4 / login.json files.
+python firepwd.py
+Python3 - https://github.com/lclevy/firepwd
 ```
