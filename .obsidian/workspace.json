@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md",
+                "file": "OSCP/Proctor.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md",
+                "file": "OSCP/Proctor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md",
+                "file": "OSCP/Proctor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md"
+                "file": "OSCP/Proctor.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got Username.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Active Directory/Got User/Power View.md",
@@ -197,7 +198,6 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Active Directory/Got Username.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
