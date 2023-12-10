@@ -65,7 +65,6 @@ hashcat can auto detect the hash.
 pdfcrack
 ```
 
-
 ##### Mozilla / Firefox
 ```
 https://github.com/lclevy/firepwd
