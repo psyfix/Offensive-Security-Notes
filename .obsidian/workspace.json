@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Shells.md"
+                "file": "OSCP/Commands/Cracking.md"
               }
             }
           },
@@ -177,12 +177,12 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Commands/Shells.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/SQL.md",
     "OSCP/Network/SNMP.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Network/SMB.md",
-    "OSCP/Commands/Shells.md",
     "OSCP/Web/File Upload.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Network/SMTP.md",

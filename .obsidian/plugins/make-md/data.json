@@ -107,7 +107,12 @@
     "OSCP/Network",
     "OSCP/Post Exploitation",
     "OSCP/Commands",
-    "OSCP/Web"
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "Mobile",
+    "Mobile/Android",
+    "Mobile/IOS",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -158,4 +163,6 @@
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "autoMigration08": 
+  "autoMigration08": true,
+  "releaseNotesPrompt": 0.804
+}

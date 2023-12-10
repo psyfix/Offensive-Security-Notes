@@ -42,13 +42,20 @@ hashcat -m 13400 -a 0 <hash> <wordlist> --force
 ```
 ##### ZIP
 ```
-fcrackzip -u -v -D -p ~/Desktop/rockyou.txt <zip_file>
-zip2john
+#To determine whether it is a valid zip file or just malformed data use.
+file <file-name>
 
-#Extract hash
-7z2john
-#Extract zip
-7z e <zip>
+#FCrack
+fcrackzip -u -v -D -p ~/Desktop/rockyou.txt <zip_file>
+
+#Regular ZIP
+	zip2john
+
+#7ZIP
+	#Extract zip
+	7z e <zip>
+	#Extract hash
+	7z2john
 
 hashcat can auto detect the hash.
 ```
