@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Enumeration.md",
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Enumeration.md"
+                "file": "OSCP/Web/Path Traversal & File Inclusion.md"
               }
             }
           },
@@ -177,10 +177,10 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Enumeration.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Network/SQL.md",
     "OSCP/Network/SMB.md",
-    "OSCP/Enumeration.md",
     "OSCP/Active Directory/Got Nothing.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Active Directory/Got Username.md",
