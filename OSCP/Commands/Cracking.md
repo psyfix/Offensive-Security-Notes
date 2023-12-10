@@ -71,3 +71,9 @@ pdfcrack
 python firepwd.py
 Python3 - https://github.com/lclevy/firepwd
 ```
+
+
+##### Key Chain / MAC OS
+```
+Python3 - https://github.com/n0fate/chainbreaker
+```
