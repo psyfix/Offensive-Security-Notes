@@ -105,15 +105,15 @@
     "Mobile",
     "Mobile/IOS",
     "Mobile/Android",
-    "Spaces",
     "OSCP",
     "OSCP/Commands",
+    "OSCP/Network",
     "OSCP/Active Directory",
     "OSCP/Active Directory/Got User",
-    "OSCP/Network",
     "OSCP/Post Exploitation",
     "OSCP/Web",
-    "OSCP/Web/Attachments"
+    "OSCP/Web/Attachments",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
