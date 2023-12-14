@@ -43,7 +43,6 @@ ASP: .asp, .aspx, .config, .ashx, .asmx, .aspq, .axd, .cshtm, .cshtml, .rem, .so
 3. 
 ```
 
-
 ### Over Writing
 ![[Pasted image 20231205204847.png]]
 
