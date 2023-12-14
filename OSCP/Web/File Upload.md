@@ -7,7 +7,7 @@ https://book.hacktricks.xyz/pentesting-web/file-upload
 3. Upload your new shell.
 
 #IIS
-1. Create a custom web.config file.
+1. Create a custom web.config file. (https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/iis-internet-information-services#execute-config-files)
 2.
 3.
 
