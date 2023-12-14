@@ -1,4 +1,4 @@
-#### HTACCESS BYPASS
+#### Overriding the Server Confiugration
 
 ```
 #Upload a custom .htaccess file. (https://br4ind3ad.medium.com/port-swigger-file-upload-vulnerability-lab-4-4c2bf39eeaf)
@@ -6,7 +6,16 @@
 AddType application/x-httpd-php .evil
 ```
 
-### Extension 
+#### Flawed File Type Validation
+```
+#Is it validating by the content-type header?
+1. Create your malicious file.
+2. Upload and intercept the request.
+3. Change the content-type header to match what the application is expecting.
+4. Browse to y
+```
+
+#### Insufficient Blacklisting of Dangerous File Types 
 
 ```
 #Modify the original extension
