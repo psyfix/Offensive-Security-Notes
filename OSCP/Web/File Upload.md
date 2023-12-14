@@ -12,7 +12,6 @@ https://book.hacktricks.xyz/pentesting-web/file-upload
 3.
 
 ```
-
 #### Flawed File Type Validation
 ```
 #Is it validating by the content-type header?
