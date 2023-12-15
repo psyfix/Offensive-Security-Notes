@@ -57,7 +57,7 @@ nmap
 #enumeration
 wpscan --url <url> --api-token <token> -e
 
-#brute forcing
+#Got usernames? then time to brute force
 wpscan --url <ur> -U <user> -P <password-list> -t 100
 
 ```
