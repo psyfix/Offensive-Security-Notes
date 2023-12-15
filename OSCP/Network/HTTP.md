@@ -50,6 +50,11 @@ nikto
 nmap 
 ```
 
+### Wordpress
+```
+
+```
+
 ### Git
 ```
 git-dumper <url> <output_dir>
