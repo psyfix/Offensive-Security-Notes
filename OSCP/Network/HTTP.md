@@ -52,6 +52,13 @@ nmap
 
 ### Wordpress
 ```
+#Extended Notes: https://book.hacktricks.xyz/network-services-pentesting/pentesting-web/wordpress
+
+#enumeration
+wpscan --url <url> --api-token <token> -e
+
+#brute forcing
+wpscan --url <ur> -U <user> -P <password-list> -t 100
 
 ```
 
