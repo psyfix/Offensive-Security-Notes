@@ -126,11 +126,11 @@ set PATH=%PATH%C:\Windows\System32;C:\Windows\System32\WindowsPowerShell\v1.0;
 PHPMYADMIN: SQL query: https://gist.github.com/BababaBlue/71d85a7182993f6b4728c5d6a77e669f?ref=benheater.com
 
 WORDPRESS: https://secnhack.in/upload-shell-on-wordpress-site/
-	#ADROTATE
+	#ADROTATE PLUGIN
 	# can upload shell as zip as image banner
 	# banner images are auto extracted to /banner folder
 	# use plugin settings to find where the /banner folder is
-	# mostly /var/www/html/wordpress/wp-content/banners/wp-content/banners/web.php
+	# mostly /wp-content/banners/wp-content/banners/web.php
 ```
 
 ```
