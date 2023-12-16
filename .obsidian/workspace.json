@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SQL.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SQL.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SQL.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SQL.md"
+                "file": "OSCP/Commands/Cracking.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "2c3aeedf423eb0e8",
   "lastOpenFiles": [
+    "OSCP/Network/SQL.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Shells.md",
@@ -196,7 +197,6 @@
     "OSCP/Reporting Guide.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
-    "OSCP/Network/SQL.md",
     "OSCP/Network/SNMP.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Network/SMB.md",
