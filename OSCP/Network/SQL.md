@@ -5,6 +5,7 @@ mysql -u <user> -p'<pass>' -h <ip_address> -P 3306          
 
 #Default credentials
 root : '' 
+root : 'root'
 
 #Enumeration Commands (https://book.hacktricks.xyz/network-services-pentesting/pentesting-mysql)
 
