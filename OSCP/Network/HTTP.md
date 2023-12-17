@@ -37,6 +37,12 @@ ffuf -u http://192.168.193.25:8082/FUZZ -c -w /usr/share/seclists/Discovery/Web-
 #Extensions
 -e .<extension>
 ```
+
+#### FEROXBUSTER
+```
+#This is great for a quick recursive scan. Use a smaller wordlist such as common.txt
+feroxbuster -u <url> -w <wordlist> 
+```
 ### Crawling
 ```
 Spider
