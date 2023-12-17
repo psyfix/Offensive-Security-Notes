@@ -110,9 +110,9 @@
     "OSCP",
     "OSCP/Active Directory",
     "OSCP/Active Directory/Got User",
+    "OSCP/Commands",
     "OSCP/Network",
     "OSCP/Post Exploitation",
-    "OSCP/Commands",
     "OSCP/Web",
     "OSCP/Web/Attachments",
     "Spaces"
