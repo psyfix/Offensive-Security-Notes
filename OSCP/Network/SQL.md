@@ -7,6 +7,9 @@ mysql -u <user> -p'<pass>' -h <ip_address> -P 3306          
 root : '' 
 root : 'root'
 
+#Brute Force
+hydra -l root -P /usr/share/wordlists/rockyou.txt <host> mysql -t 10
+
 #Enumeration Commands (https://book.hacktricks.xyz/network-services-pentesting/pentesting-mysql)
 
 #Insert php shell.
