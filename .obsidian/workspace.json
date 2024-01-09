@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9d5e5915ecf7bc3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c3aeedf423eb0e8",
+  "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
     "OSCP/Commands/Shells.md",
     "OSCP/Network/SQL.md",
