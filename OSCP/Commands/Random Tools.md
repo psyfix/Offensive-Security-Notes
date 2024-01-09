@@ -9,3 +9,10 @@ sticker: lucide//sticky-note
 #Extract archive and print information.
 /usr/bin/borg extract /opt/borgbackup/::u --stdout
 ```
+
+
+### Files MetaData
+```
+steghide --extract -sf <file>
+exiftool -a u <file>
+```
