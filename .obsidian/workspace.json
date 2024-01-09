@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md",
+                "file": "OSCP/Network/HTTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md",
+                "file": "OSCP/Network/HTTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md",
+                "file": "OSCP/Network/HTTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Random Tools.md"
+                "file": "OSCP/Network/HTTP.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Commands/Random Tools.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Learning Curves.md",
@@ -215,7 +216,6 @@
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
-    "OSCP/Network/SNMP.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
