@@ -1,3 +1,4 @@
+### Initial Foothold
 ```
 Always use more then one tool when you are stuck! eg. dirb, feroxbuster and ffuf.
 
@@ -9,4 +10,10 @@ Always try a directory search with extensions relating the web technology eg. ph
 
 Always try a different wordlist. Try raft large words too or common.txt
 
+```
+
+### Priv Esc
+
+```
+Any password always spray on the current users on the sytem.
 ```
