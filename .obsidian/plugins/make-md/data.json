@@ -97,7 +97,8 @@
     "//OSCP/OSCP/Active Directory",
     "//OSCP",
     "//OSCP/OSCP/Web/OSCP/Web/Attachments",
-    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Network"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
