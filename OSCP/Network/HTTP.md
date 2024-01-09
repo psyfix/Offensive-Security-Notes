@@ -52,7 +52,7 @@ Spider
 wpscan
 joomscan
 droopescan
-nikto
+nikto -h <ip>
 nmap 
 ```
 
