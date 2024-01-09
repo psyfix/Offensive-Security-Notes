@@ -85,3 +85,13 @@ davtest --url <url>
 #Used to connect to WebDAv - usually requires credentials
 cadaver <ip>
 ```
+
+
+### Shellshock
+
+```
+Must be old version of apache.
+Check for cgi-bin directory and any files inside it.
+
+https://github.com/b4keSn4ke/CVE-2014-6271
+```
