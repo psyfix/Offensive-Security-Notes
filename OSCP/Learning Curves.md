@@ -8,7 +8,7 @@ Always try a recursive directory search with feroxbuster.
 
 Always try a directory search with extensions relating the web technology eg. php.
 
-Always try a different wordlist. Try raft large words too or common.txt
+Always try a different wordlist. Try raft large words too or common.txt, directory-list-2.3-big.txt
 
 ```
 
