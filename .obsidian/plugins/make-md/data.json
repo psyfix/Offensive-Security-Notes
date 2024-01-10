@@ -98,6 +98,7 @@
     "//OSCP",
     "//OSCP/OSCP/Web/OSCP/Web/Attachments",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Network",
     "//OSCP/OSCP/Network"
   ],
   "expandFolderOnClick": true,
