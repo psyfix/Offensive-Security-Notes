@@ -10,10 +10,14 @@ Always try a directory search with extensions relating the web technology eg. ph
 
 Always try a different wordlist. Try raft large words too or common.txt, directory-list-2.3-big.txt
 
+Always check default credentials for any technology you see running!.
+
 ```
 
 ### Priv Esc
 
 ```
 Any password always spray on the current users on the sytem.
+
+Is the executable or script you have privileges to run as root modifiable? OR can you write to that directory and overwrite the file instead?
 ```
