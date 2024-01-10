@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/SMTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/SMTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
+                "file": "OSCP/Network/SMTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
+                "file": "OSCP/Network/SMTP.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Learning Curves.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Web/Brute Forcing.md",
