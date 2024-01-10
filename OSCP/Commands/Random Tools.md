@@ -16,3 +16,11 @@ sticker: lucide//sticky-note
 steghide --extract -sf <file>
 exiftool -a u <file>
 ```
+
+
+### Audio Files Decoder
+
+```
+Morse Decoder.
+https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+```
