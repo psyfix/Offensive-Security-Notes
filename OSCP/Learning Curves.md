@@ -14,6 +14,11 @@ Always check default credentials for any technology you see running!.
 
 ```
 
+### Exploiting
+```
+Always try different versions of the same exploit.
+
+```
 ### Priv Esc
 
 ```
