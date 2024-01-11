@@ -13,6 +13,8 @@ Always try a different wordlist. Try raft large words too or common.txt, directo
 Always check default credentials for any technology you see running!.
 
 When looking at files in the folder viewer application make sure to turn on hidden files to show them.
+
+Look at the files infront of you. They are not just there for no reason.
 ```
 
 ### Exploiting
