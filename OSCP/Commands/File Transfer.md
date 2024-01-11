@@ -3,7 +3,7 @@ sticker: lucide//sticky-note
 ---
 ##### SSH
 ```
-scp file user@host:/path/to/file                        # copying a file to the remote system using scp command
+scp -O file user@host:/path/to/file                        # copying a file to the remote system using scp command
 
 scp user@host:/path/to/file /local/path/to/file         # copying a file from the remote system using scp command
 
