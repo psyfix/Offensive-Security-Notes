@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Commands/Shells.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Commands/Shells.md"
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,10 +190,10 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Commands/Shells.md",
     "OSCP/Network/IMAP.md",
     "OSCP/Network/SQUID.md",
     "OSCP/Network/1978.md",
-    "OSCP/Commands/Shells.md",
     "OSCP/Network/SMB.md",
     "OSCP/Learning Curves.md",
     "OSCP/Network/SMTP.md",
