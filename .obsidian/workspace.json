@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Commands/Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Command Injection.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Command Injection.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Web/Command Injection.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Learning Curves.md",
     "OSCP/Network/SSH.md",
@@ -215,7 +216,6 @@
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Active Directory/Got Username.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
