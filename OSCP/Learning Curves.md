@@ -19,6 +19,8 @@ Look at the files infront of you. They are not just there for no reason.
 Check nmap for common namnes to add to hosts file.
 
 Check burp for passive requests being made in the background on a web application.
+
+Google function unusual function names in code, maybe there is a weakness or exploit.
 ```
 
 ### Exploiting
