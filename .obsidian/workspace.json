@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md",
+                "file": "OSCP/Active Directory/Got Admin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got User/Password Spray.md"
+                "file": "OSCP/Active Directory/Got Admin.md"
               }
             }
           },
@@ -190,9 +190,9 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/File Transfer.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Network/SMB.md",
