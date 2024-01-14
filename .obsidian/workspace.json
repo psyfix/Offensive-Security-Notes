@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md",
+                "file": "OSCP/Network/LDAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md",
+                "file": "OSCP/Network/LDAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md",
+                "file": "OSCP/Network/LDAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Lateral Movement.md"
+                "file": "OSCP/Network/LDAP.md"
               }
             }
           },
@@ -188,10 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aeda848e1739c9e",
+  "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Network/NFS.md",
     "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
@@ -215,7 +216,6 @@
     "OSCP/Commands/Random Tools.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/Command Injection.md",
-    "OSCP/Network/SSH.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
