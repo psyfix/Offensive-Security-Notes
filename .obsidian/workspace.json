@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
+                "file": "OSCP/Active Directory/Got User/Password Spray.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/File Upload.md",
     "OSCP/Network/LDAP.md",
@@ -214,8 +216,6 @@
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SSH.md",
     "OSCP/Network/HTTP.md",
-    "OSCP/Network/IMAP.md",
-    "OSCP/Network/SQUID.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
