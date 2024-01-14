@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Active Directory/Lateral Movement.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Active Directory/Lateral Movement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/SMB.md",
+                "file": "OSCP/Active Directory/Lateral Movement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/SMB.md"
+                "file": "OSCP/Active Directory/Lateral Movement.md"
               }
             }
           },
@@ -190,23 +190,23 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Network/SMB.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Network/NFS.md",
-    "OSCP/Active Directory/Lateral Movement.md",
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Learning Curves.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/File Upload.md",
     "OSCP/Network/17001.md",
     "OSCP/Network/1978.md",
     "OSCP/Enumeration.md",
-    "OSCP/Network/SMB.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Proctor.md",
     "OSCP/Post Exploitation/Tunneling.md",
