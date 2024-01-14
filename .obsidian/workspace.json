@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Learning Curves.md"
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Learning Curves.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
@@ -202,7 +203,6 @@
     "OSCP/Enumeration.md",
     "OSCP/Network/SMB.md",
     "OSCP/Reporting Guide.md",
-    "OSCP/Learning Curves.md",
     "OSCP/Proctor.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Post Exploitation/Tunneling.md",
