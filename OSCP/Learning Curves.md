@@ -41,5 +41,5 @@ When you are compiling binaries for kernel exploits make sure to compile the rig
 
 Look at wildcards in the sudo -l command and in general usually it means you can touch anything you want by manipulating the command.
 
-RUN Rebeus KERBEROAST AND ASEPROAST.
+RUN Rebeus KERBEROAST AND ASEPROAST. - Don't need credentials for this.
 ```
