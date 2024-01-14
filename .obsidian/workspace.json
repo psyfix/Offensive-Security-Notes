@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md",
+                "file": "OSCP/Network/SMB.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md",
+                "file": "OSCP/Network/SMB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md",
+                "file": "OSCP/Network/SMB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got Username.md"
+                "file": "OSCP/Network/SMB.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got Username.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Network/NFS.md",
     "OSCP/Active Directory/Lateral Movement.md",
@@ -208,7 +209,6 @@
     "OSCP/Network/SMB.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Proctor.md",
-    "OSCP/Active Directory/Got Username.md",
     "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Network/SQL.md",
     "OSCP/Active Directory/Got User/Power View.md",

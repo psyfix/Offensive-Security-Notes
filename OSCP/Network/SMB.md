@@ -1,6 +1,6 @@
 #### No Creds
 ```
-enum4linux -a -u " " -p " " <ip>
+enum4linux -a <ip>
 enum4linux -a -u "guest" -p " " <ip>
 for host in $(cat hosts.txt); do <command> "$host"; done
 
