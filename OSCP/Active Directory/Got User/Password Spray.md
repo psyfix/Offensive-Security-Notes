@@ -44,7 +44,7 @@ impacket-GetUserSPNs <domain_name>/<domain_user> -outputfile hashes-kerb -dc-ip 
 ```
 powershell -ep bypass
 Import-Module .\sharphound.ps1
-Invoke-BloodHound -CollectionMethod All -OutputDirectory C:\Users\<user>\Desktop\ -OutputPrefix "audit results"
+Invoke-BloodHound -CollectionMethod All -OutputDirectory C:\Users\<user>\Desktop\ -OutputPrefix "results"
 ```
 #### Data Analysis
 
