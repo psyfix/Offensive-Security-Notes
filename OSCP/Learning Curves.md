@@ -20,6 +20,8 @@ Check nmap for common namnes to add to hosts file.
 
 Check burp for passive requests being made in the background on a web application.
 
+Map application for potential application manual vulnerabilties like fileuploads and forms.
+
 Google function unusual function names in code, maybe there is a weakness or exploit.
 ```
 
