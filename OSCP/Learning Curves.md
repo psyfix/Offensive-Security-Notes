@@ -38,4 +38,6 @@ Is the executable or script you have privileges to run as root modifiable? OR ca
 When you are compiling binaries for kernel exploits make sure to compile the right architecture 32/64!
 
 Look at wildcards in the sudo -l command and in general usually it means you can touch anything you want by manipulating the command.
+
+RUN Rebeus KERBEROAST AND ASEPROAST.
 ```
