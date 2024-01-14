@@ -104,7 +104,8 @@
     "//OSCP/OSCP/Commands",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
-    "//OSCP/OSCP/Post Exploitation"
+    "//OSCP/OSCP/Post Exploitation",
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
