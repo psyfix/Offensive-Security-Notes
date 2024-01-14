@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Commands/Cracking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Learning Curves.md"
+                "file": "OSCP/Commands/Cracking.md"
               }
             }
           },
@@ -190,11 +190,12 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Commands/Living Off The Land.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
+    "OSCP/Learning Curves.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Learning Curves.md",
     "OSCP/Commands/File Transfer.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/File Upload.md",
@@ -215,7 +216,6 @@
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Network/SSH.md",
-    "OSCP/Network/HTTP.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
