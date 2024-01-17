@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Active Directory/Got User/Power View.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Active Directory/Got User/Power View.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md",
+                "file": "OSCP/Active Directory/Got User/Power View.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Path Traversal & File Inclusion.md"
+                "file": "OSCP/Active Directory/Got User/Power View.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -190,21 +190,24 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got Username.md",
+    "OSCP/Active Directory/Got Nothing.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Active Directory/Lateral Movement.md",
+    "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Commands/Living Off The Land.md",
+    "OSCP/Commands/Cracking.md",
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Network/NFS.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Active Directory/Got Admin.md",
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Network/SMB.md",
-    "OSCP/Commands/Cracking.md",
-    "OSCP/Commands/Living Off The Land.md",
     "OSCP/Learning Curves.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Web/File Upload.md",
     "OSCP/Network/17001.md",
@@ -212,10 +215,7 @@
     "OSCP/Enumeration.md",
     "OSCP/Reporting Guide.md",
     "OSCP/Proctor.md",
-    "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Network/SQL.md",
-    "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Commands/Random Tools.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
     "OSCP/Web/Attachments/Pasted image 20231205205011.png",
     "OSCP/Web/Attachments/Pasted image 20231205205001.png",
