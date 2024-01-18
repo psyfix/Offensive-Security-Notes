@@ -10,6 +10,7 @@ smbmap -u "guest" -p "" -P 445 -H <ip>
 
 crackmapexec smb <ip> -u "" -p ""
 crackmapexec smb <ip> -u "guest" -p ""
+crackmapexec smb <ip> -u 'guest' -p '' --rid-brute
 
 #Scan for CVES such as eternalblue
 nmap -T4 -p445 --script smb-vuln* <ip>
