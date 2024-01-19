@@ -113,6 +113,10 @@
   "cachedSpaces": [
     "spaces://$tags",
     "/",
+    "Mobile",
+    "Mobile/Android",
+    "Mobile/IOS",
+    "Spaces",
     "OSCP",
     "OSCP/Active Directory",
     "OSCP/Active Directory/Got User",
@@ -120,11 +124,7 @@
     "OSCP/Commands",
     "OSCP/Post Exploitation",
     "OSCP/Web",
-    "OSCP/Web/Attachments",
-    "Mobile",
-    "Mobile/IOS",
-    "Mobile/Android",
-    "Spaces"
+    "OSCP/Web/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
