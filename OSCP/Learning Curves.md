@@ -29,6 +29,7 @@ Google function unusual function names in code, maybe there is a weakness or exp
 ```
 Always try different versions of the same exploit.
 
+Can you overwrite the SSH authorized_keys file with your public key.
 ```
 ### Priv Esc
 
