@@ -124,7 +124,8 @@
     "OSCP/Web",
     "OSCP/Web/Attachments",
     "OSCP/Post Exploitation",
-    "Spaces"
+    "Spaces",
+    "OSCP/Post Exploitation/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
