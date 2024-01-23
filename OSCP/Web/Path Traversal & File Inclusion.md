@@ -62,4 +62,9 @@ Linux: /etc/passwd
 	1. /home/<user>/ + .ssh/id_rsa | .ssh/id_rsa.keystore | .ssh/id_rsa.pub | .ssh/authorized_keys | .ssh/known_hosts | .ssh/config
 	#Configuration
 	2. /etc/ssh/ssh_config
+
+#If via a fileupload can you overwrite the authorized keys file?
+1. Generate a fresh pair of ssh keys using ssh-keygen
+2. Overwrite or add to the authorized keys file your public key. (/home/<user>/.ssh/authorized_keys)
+3. SSH in using the private key and user.
 ```
