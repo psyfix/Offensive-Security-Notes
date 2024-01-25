@@ -23,6 +23,8 @@ Check burp for passive requests being made in the background on a web applicatio
 Map application for potential application manual vulnerabilties like fileuploads and forms.
 
 Google function unusual function names in code, maybe there is a weakness or exploit.
+
+Search for default credentials or usernames, found a new username? spray passwords again with it.
 ```
 
 ### Exploiting
