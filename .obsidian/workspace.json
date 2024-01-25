@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Commands/Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Learning Curves.md"
+                "file": "OSCP/Commands/Shells.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Learning Curves.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162820.png",
@@ -216,7 +217,6 @@
     "OSCP/Network/LDAP.md",
     "OSCP/Network/NFS.md",
     "OSCP/Active Directory/Got Domain Admin.md",
-    "OSCP/Learning Curves.md",
     "OSCP/Network/17001.md",
     "OSCP/Network/1978.md",
     "OSCP/Web/Attachments/Pasted image 20231205204847.png",
