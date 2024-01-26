@@ -25,6 +25,9 @@ Map application for potential application manual vulnerabilties like fileuploads
 Google function unusual function names in code, maybe there is a weakness or exploit.
 
 Search for default credentials or usernames, found a new username? spray passwords again with it.
+
+Always try ports on HTTPS.
+
 ```
 
 ### Exploiting
