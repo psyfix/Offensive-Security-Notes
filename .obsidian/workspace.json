@@ -23,9 +23,11 @@
             "id": "b9d5e5915ecf7bc3",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "OSCP/Post Exploitation/Attachments"
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OSCP/Post Exploitation/Windows Priv Esc.md"
+              }
             }
           },
           {
@@ -182,8 +188,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Web/Brute Forcing.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Lateral Movement.md",
