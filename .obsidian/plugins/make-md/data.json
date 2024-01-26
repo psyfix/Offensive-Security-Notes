@@ -120,12 +120,7 @@
     "OSCP/Active Directory",
     "OSCP/Active Directory/Got User",
     "OSCP/Commands",
-    "OSCP/Network",
-    "OSCP/Post Exploitation",
-    "OSCP/Post Exploitation/Attachments",
-    "OSCP/Web",
-    "OSCP/Web/Attachments",
-    "Spaces"
+    "OSCP/Network"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -176,6 +171,4 @@
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "autoMigration08": true,
-  "releaseNotesPrompt": 0.804
-}
+  "autoMigration0
