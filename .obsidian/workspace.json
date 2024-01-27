@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Learning Curves.md",
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Learning Curves.md"
+                "file": "OSCP/Post Exploitation/Linux Priv Esc.md"
               }
             }
           },
@@ -190,12 +190,13 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Learning Curves.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Network/HTTP.md",
     "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
-    "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Cracking.md",
     "OSCP/Active Directory/Got Admin.md",
@@ -203,7 +204,6 @@
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Network/SMB.md",
     "OSCP/Proctor.md",
-    "OSCP/Learning Curves.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Active Directory/Got Nothing.md",
