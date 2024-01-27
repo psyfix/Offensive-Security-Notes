@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got Admin.md"
+                "file": "OSCP/Active Directory/Got User/Password Spray.md"
               }
             }
           },
@@ -190,12 +190,13 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Commands/File Transfer.md",
+    "OSCP/Active Directory/Got Admin.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Commands/File Transfer.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
     "OSCP/Active Directory/Lateral Movement.md",
-    "OSCP/Post Exploitation/Tunneling.md",
     "OSCP/Post Exploitation/Linux Priv Esc.md",
     "OSCP/Network/SMB.md",
     "OSCP/Proctor.md",
@@ -207,7 +208,6 @@
     "OSCP/Active Directory/Got User/Power View.md",
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162819.png",
-    "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Active Directory/Got Username.md",
     "OSCP/Network/HTTP.md",
