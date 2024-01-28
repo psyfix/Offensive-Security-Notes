@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Proctor.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Proctor.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Proctor.md",
+                "file": "OSCP/Active Directory/Got User/Password Spray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Proctor.md"
+                "file": "OSCP/Active Directory/Got User/Password Spray.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
+    "OSCP/Active Directory/Got Username.md",
+    "OSCP/Proctor.md",
     "OSCP/Commands/Shells.md",
     "OSCP/Commands/Random Tools.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
@@ -204,7 +206,6 @@
     "OSCP/Commands/Cracking.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Network/SMB.md",
-    "OSCP/Proctor.md",
     "OSCP/Network/LDAP.md",
     "OSCP/Commands/Living Off The Land.md",
     "OSCP/Active Directory/Got Nothing.md",
@@ -212,7 +213,6 @@
     "OSCP/Web/Brute Forcing.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "OSCP/Active Directory/Got Domain Admin.md",
-    "OSCP/Active Directory/Got Username.md",
     "OSCP/Enumeration.md",
     "OSCP/Network/POP3.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162852.png",
