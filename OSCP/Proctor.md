@@ -6,3 +6,6 @@ TO DO:
 Purchase HTB premium and go through walkthroughs taking notes.
 Purchase Dante HTB or HOLO THM for AD refresh.
 Improve file upload skills.
+
+
+https://upload.offsec.com
