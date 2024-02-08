@@ -115,7 +115,20 @@
   "expandFolderOnClick": true,
   "cachedSpaces": [
     "spaces://$tags",
-    "/"
+    "/",
+    "Mobile",
+    "Mobile/Android",
+    "Mobile/IOS",
+    "OSCP",
+    "OSCP/Network",
+    "OSCP/Post Exploitation",
+    "OSCP/Post Exploitation/Attachments",
+    "OSCP/Commands",
+    "OSCP/Active Directory",
+    "OSCP/Active Directory/Got User",
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
