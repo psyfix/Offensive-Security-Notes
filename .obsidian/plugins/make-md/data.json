@@ -110,14 +110,26 @@
     "//OSCP/OSCP/Active Directory",
     "//OSCP/OSCP/Post Exploitation",
     "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
-    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User"
+    "//OSCP/OSCP/Active Directory/OSCP/Active Directory/Got User",
+    "//OSCP/OSCP/Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
     "spaces://$tags",
     "/",
     "Mobile",
-    "Mobile/Android"
+    "Mobile/Android",
+    "Mobile/IOS",
+    "OSCP",
+    "OSCP/Active Directory",
+    "OSCP/Active Directory/Got User",
+    "OSCP/Commands",
+    "OSCP/Network",
+    "OSCP/Post Exploitation",
+    "OSCP/Post Exploitation/Attachments",
+    "OSCP/Web",
+    "OSCP/Web/Attachments",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
