@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Network/POP3.md",
+                "file": "OSCP/Web/Access Controls.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Network/POP3.md",
+                "file": "OSCP/Web/Access Controls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,21 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Network/POP3.md",
+                "file": "OSCP/Web/Access Controls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0d9480d9dbe73413",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OSCP/Proctor.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Network/POP3.md"
+                "file": "OSCP/Web/Access Controls.md"
               }
             }
           },
@@ -159,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,33 +165,33 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
-    "OSCP/Web/File Upload.md",
     "OSCP/Web/Cross-Site Scripting.md",
-    "OSCP/Web/Path Traversal & File Inclusion.md",
-    "OSCP/Commands/Random Tools.md",
+    "OSCP/Web/Access Controls.md",
+    "OSCP/Web/Command Injection.md",
+    "OSCP/Web/SQLi.md",
+    "OSCP/Web/Brute Forcing.md",
+    "OSCP/Web/File Upload.md",
     "OSCP/Commands/Shells.md",
+    "OSCP/Commands/Random Tools.md",
+    "OSCP/Commands/Living Off The Land.md",
     "OSCP/Commands/File Transfer.md",
     "OSCP/Commands/Cracking.md",
+    "OSCP/Post Exploitation/Tunneling.md",
+    "OSCP/Post Exploitation/Windows Priv Esc.md",
+    "OSCP/Post Exploitation/Linux Priv Esc.md",
+    "OSCP/Learning Curves.md",
+    "OSCP/Enumeration.md",
+    "OSCP/Reporting Guide.md",
+    "OSCP/Proctor.md",
+    "OSCP/Active Directory/Got User/Password Spray.md",
+    "OSCP/Active Directory/Got User/Power View.md",
+    "OSCP/Network/POP3.md",
+    "OSCP/Web/Path Traversal & File Inclusion.md",
     "OSCP/Active Directory/Lateral Movement.md",
     "OSCP/Active Directory/Got Domain Admin.md",
     "OSCP/Active Directory/Got Admin.md",
-    "OSCP/Commands/Living Off The Land.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
-    "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
     "OSCP/Active Directory/Got Username.md",
-    "OSCP/Proctor.md",
-    "OSCP/Learning Curves.md",
-    "OSCP/Network/HTTP.md",
-    "OSCP/Network/SMB.md",
-    "OSCP/Network/LDAP.md",
-    "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Active Directory/Got User/Power View.md",
-    "OSCP/Web/Brute Forcing.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162819.png",
-    "OSCP/Enumeration.md",
-    "OSCP/Network/POP3.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162820.png",
     "OSCP/Post Exploitation/Attachments",
