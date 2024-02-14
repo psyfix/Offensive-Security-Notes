@@ -180,4 +180,6 @@
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "autoMigration
+  "autoMigration08": true,
+  "releaseNotesPrompt": 0.804
+}
