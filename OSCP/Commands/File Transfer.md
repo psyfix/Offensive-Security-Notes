@@ -1,6 +1,12 @@
 ---
 sticker: lucide//sticky-note
 ---
+
+```
+https://www.ehow.com/how_8757187_use-sftp-putty.html
+can also install cygwin, which has native openssh and sftp on windows
+```
+
 ##### SSH
 ```
 scp -O file user@host:/path/to/file                        # copying a file to the remote system using scp command
