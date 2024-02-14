@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Access Controls.md",
+                "file": "OSCP/Web/Cross-Site Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Access Controls.md",
+                "file": "OSCP/Web/Cross-Site Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Access Controls.md",
+                "file": "OSCP/Web/Cross-Site Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Access Controls.md"
+                "file": "OSCP/Web/Cross-Site Scripting.md"
               }
             }
           },
@@ -165,8 +165,8 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
-    "OSCP/Web/Cross-Site Scripting.md",
     "OSCP/Web/Access Controls.md",
+    "OSCP/Web/Cross-Site Scripting.md",
     "OSCP/Web/Command Injection.md",
     "OSCP/Web/SQLi.md",
     "OSCP/Web/Brute Forcing.md",
