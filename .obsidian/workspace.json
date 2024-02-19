@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Active Directory/Got Nothing.md",
+                "file": "OSCP/Web/Open Redirects.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Active Directory/Got Nothing.md",
+                "file": "OSCP/Web/Open Redirects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Active Directory/Got Nothing.md",
+                "file": "OSCP/Web/Open Redirects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Active Directory/Got Nothing.md"
+                "file": "OSCP/Web/Open Redirects.md"
               }
             }
           },
@@ -164,8 +164,9 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
-    "OSCP/Active Directory/Got Username.md",
     "OSCP/Active Directory/Got Nothing.md",
+    "OSCP/Web/Open Redirects.md",
+    "OSCP/Active Directory/Got Username.md",
     "OSCP/Active Directory/Got Admin.md",
     "OSCP/Active Directory/Active Directory.md",
     "OSCP/Active Directory/Got User/Password Spray.md",
@@ -189,7 +190,6 @@
     "OSCP/Learning Curves.md",
     "OSCP/Enumeration.md",
     "OSCP/Reporting Guide.md",
-    "OSCP/Proctor.md",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "OSCP/Post Exploitation/Attachments/Pasted image 20240123162820.png",

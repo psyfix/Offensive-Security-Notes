@@ -1,0 +1,1 @@
+https://tools.intigriti.io/redirector/
