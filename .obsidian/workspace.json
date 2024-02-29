@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Web/Open Redirects.md",
+                "file": "OSINT/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSCP/Web/Open Redirects.md",
+                "file": "OSINT/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSCP/Web/Open Redirects.md",
+                "file": "OSINT/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSCP/Web/Open Redirects.md"
+                "file": "OSINT/New Note.md"
               }
             }
           },
@@ -165,51 +165,51 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
-    "OSCP/Active Directory/Got Nothing.md",
-    "OSCP/Web/Open Redirects.md",
-    "OSCP/Active Directory/Got Username.md",
-    "OSCP/Active Directory/Got Admin.md",
-    "OSCP/Active Directory/Active Directory.md",
-    "OSCP/Active Directory/Got User/Password Spray.md",
-    "OSCP/Commands/Cracking.md",
-    "OSCP/Commands/File Transfer.md",
-    "OSCP/Commands/Commands.md",
-    "OSCP/Post Exploitation/Windows Priv Esc.md",
-    "OSCP/Post Exploitation/Linux Priv Esc.md",
-    "OSCP/Post Exploitation/Post Exploitation.md",
-    "OSCP/Post Exploitation/Tunneling.md",
-    "OSCP/Web/File Upload.md",
-    "OSCP/Web/Command Injection.md",
-    "OSCP/Web/SQLi.md",
-    "OSCP/Web/Brute Forcing.md",
-    "OSCP/Web/Path Traversal & File Inclusion.md",
-    "OSCP/Web/Cross-Site Scripting.md",
-    "OSCP/Web/Access Controls.md",
-    "OSCP/Commands/Shells.md",
-    "OSCP/Commands/Random Tools.md",
-    "OSCP/Commands/Living Off The Land.md",
+    "OSINT/New Note.md",
+    "Commands/Random Tools.md",
+    "Commands/Cracking.md",
+    "Commands/File Transfer.md",
+    "Commands/Shells.md",
+    "Network/Post Exploitation/Living Off The Land.md",
+    "Web/File Upload.md",
+    "Web/Brute Forcing.md",
+    "Web/Command Injection.md",
+    "Web/SQLi.md",
+    "OSINT/OSINT.md",
+    "Offensive-Security.md",
+    "Network/Active Directory/Got Nothing.md",
+    "README.md",
     "OSCP/Learning Curves.md",
+    "Network/Post Exploitation/Windows Priv Esc.md",
+    "Network/Post Exploitation/Linux Priv Esc.md",
+    "Network/Post Exploitation/Tunneling.md",
     "OSCP/Enumeration.md",
-    "OSCP/Reporting Guide.md",
-    "OSCP/Post Exploitation/Attachments/Pasted image 20240123162819.png",
-    "OSCP/Post Exploitation/Attachments/Pasted image 20240123162852.png",
-    "OSCP/Post Exploitation/Attachments/Pasted image 20240123162820.png",
-    "OSCP/Post Exploitation/Attachments",
-    "OSCP/Web/Attachments/Pasted image 20231205204847.png",
-    "OSCP/Web/Attachments/Pasted image 20231205205011.png",
-    "OSCP/Web/Attachments/Pasted image 20231205205001.png",
+    "Network/Scanning.md",
+    "Network/Active Directory/Got Admin.md",
+    "Network/Active Directory/Lateral Movement.md",
+    "Network/Active Directory/Got Domain Admin.md",
+    "Network/Active Directory/Got Username.md",
+    "OSCP/OSCP.md",
+    "OSINT",
+    "Mobile/Android/Frida.md",
+    "Network/Post Exploitation/Attachments/Pasted image 20240123162819.png",
+    "Network/Post Exploitation/Attachments/Pasted image 20240123162852.png",
+    "Network/Post Exploitation/Attachments/Pasted image 20240123162820.png",
+    "Network/Post Exploitation/Attachments",
+    "Web/Attachments/Pasted image 20231205204847.png",
+    "Web/Attachments/Pasted image 20231205205011.png",
+    "Web/Attachments/Pasted image 20231205205001.png",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Spaces",
     "Mobile/IOS",
     "Mobile/Android",
     "Mobile",
-    "OSCP/Web/Attachments",
+    "Web/Attachments",
     "Pasted image 20231101191427.png",
     "OSCP/Web/Pasted image 20231101191707.png",
-    "OSCP/Network",
-    "OSCP/Web",
-    "OSCP/Active Directory/Got User",
-    "Spaces/Home",
+    "Network",
+    "Web",
+    "Network/Active Directory/Got User",
     "OSCP/P.canvas"
   ]
 }
