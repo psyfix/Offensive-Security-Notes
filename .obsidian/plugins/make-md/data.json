@@ -96,6 +96,7 @@
     "//Web/Web/Attachments",
     "//Network/Network/Post Exploitation",
     "//OSINT",
+    "//Commands",
     "//Commands"
   ],
   "expandFolderOnClick": true,

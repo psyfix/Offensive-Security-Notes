@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands/Random Tools.md",
+                "file": "Commands/Handling Mass Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/Random Tools.md",
+                "file": "Commands/Handling Mass Data.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands/Random Tools.md",
+                "file": "Commands/Handling Mass Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands/Random Tools.md"
+                "file": "Commands/Handling Mass Data.md"
               }
             }
           },
@@ -165,11 +165,12 @@
   },
   "active": "b9d5e5915ecf7bc3",
   "lastOpenFiles": [
-    "OSINT/New Note.md",
+    "Commands/Handling Mass Data.md",
     "Commands/Random Tools.md",
-    "Commands/Cracking.md",
-    "Commands/File Transfer.md",
     "Commands/Shells.md",
+    "Commands/File Transfer.md",
+    "Commands/Cracking.md",
+    "OSINT/New Note.md",
     "Network/Post Exploitation/Living Off The Land.md",
     "Web/File Upload.md",
     "Web/Brute Forcing.md",
@@ -191,7 +192,6 @@
     "Network/Active Directory/Got Username.md",
     "OSCP/OSCP.md",
     "OSINT",
-    "Mobile/Android/Frida.md",
     "Network/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "Network/Post Exploitation/Attachments/Pasted image 20240123162820.png",

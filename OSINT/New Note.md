@@ -5,6 +5,10 @@ prips 173.0.8.0/22 | hakrevdns
 ```
 
 ##### Amass
+```
+Domain bruteforce
+amass enum -d domain.com -brute wordlist.txt
+```
 
 ##### The Harvester
 ```
