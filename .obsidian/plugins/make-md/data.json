@@ -96,7 +96,8 @@
     "//Web/Web/Attachments",
     "//Network/Network/Internal",
     "//Mobile/Mobile/Android",
-    "//Thick Client"
+    "//Thick Client",
+    "//Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

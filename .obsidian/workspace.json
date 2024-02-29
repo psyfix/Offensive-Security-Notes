@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Note.md",
+                "file": "Web/WAF Byasses.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Note.md",
+                "file": "Web/WAF Byasses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Note.md",
+                "file": "Web/WAF Byasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Note.md"
+                "file": "Web/WAF Byasses.md"
               }
             }
           },
@@ -176,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "202e360696de6141",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "Web/WAF Byasses.md",
     "New Note.md",
     "Thick Client/Thick Client.md",
     "Thick Client",
@@ -208,7 +209,6 @@
     "Commands/Cracking.md",
     "OSINT/New Note.md",
     "Network/Internal/Post Exploitation/Living Off The Land.md",
-    "Web/File Upload.md",
     "OSINT",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
