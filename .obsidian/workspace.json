@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands/Handling Mass Data.md",
+                "file": "Network/Services/17001.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "202e360696de6141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/External.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Commands/Handling Mass Data.md",
+                "file": "Network/External.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Commands/Handling Mass Data.md",
+                "file": "Network/External.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands/Handling Mass Data.md"
+                "file": "Network/External.md"
               }
             }
           },
@@ -163,8 +176,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9d5e5915ecf7bc3",
+  "active": "202e360696de6141",
   "lastOpenFiles": [
+    "Network/Internal/Scanning.md",
+    "Network/External.md",
+    "Network/Internal/Internal.md",
+    "Network/Internal",
+    "Network/New Note.md",
+    "Network/Services/SMB.md",
+    "Network/Services/SMTP.md",
+    "Network/Services/FTP.md",
+    "Network/Services/SSH.md",
+    "Network/Services/IMAP.md",
+    "Network/Services/1978.md",
+    "Network/Services/17001.md",
+    "Network/Internal/Active Directory/Got Nothing.md",
+    "Network/Services/Services.md",
+    "Network/Services",
     "Commands/Handling Mass Data.md",
     "Commands/Random Tools.md",
     "Commands/Shells.md",
@@ -178,19 +206,6 @@
     "Web/SQLi.md",
     "OSINT/OSINT.md",
     "Offensive-Security.md",
-    "Network/Active Directory/Got Nothing.md",
-    "README.md",
-    "OSCP/Learning Curves.md",
-    "Network/Post Exploitation/Windows Priv Esc.md",
-    "Network/Post Exploitation/Linux Priv Esc.md",
-    "Network/Post Exploitation/Tunneling.md",
-    "OSCP/Enumeration.md",
-    "Network/Scanning.md",
-    "Network/Active Directory/Got Admin.md",
-    "Network/Active Directory/Lateral Movement.md",
-    "Network/Active Directory/Got Domain Admin.md",
-    "Network/Active Directory/Got Username.md",
-    "OSCP/OSCP.md",
     "OSINT",
     "Network/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Post Exploitation/Attachments/Pasted image 20240123162852.png",
@@ -208,8 +223,6 @@
     "Pasted image 20231101191427.png",
     "OSCP/Web/Pasted image 20231101191707.png",
     "Network",
-    "Web",
-    "Network/Active Directory/Got User",
     "OSCP/P.canvas"
   ]
 }

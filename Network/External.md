@@ -1,3 +1,4 @@
+#### Scanning
 ```
 #ping sweep
 fping -a -g <ip_range> 2>/dev/null 

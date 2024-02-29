@@ -94,10 +94,12 @@
     "//Active Directory",
     "//Active Directory",
     "//Web/Web/Attachments",
-    "//Network/Network/Post Exploitation",
     "//OSINT",
     "//Commands",
-    "//Commands"
+    "//Commands",
+    "//Network",
+    "//Network/Network/Internal",
+    "//Network/Network/Internal"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -112,10 +114,12 @@
     "Web/Attachments",
     "Commands",
     "Network",
-    "Network/Active Directory",
-    "Network/Active Directory/Got User",
     "Network/Post Exploitation",
-    "Network/Post Exploitation/Attachments"
+    "Network/Post Exploitation/Attachments",
+    "Network/Services",
+    "Network/Internal",
+    "Network/Internal/Active Directory",
+    "Network/Internal/Active Directory/Got User"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -150,7 +154,9 @@
     "OSCP/Web/Network",
     "Mobile",
     "Mobile/Android",
-    "Mobile/IOS"
+    "Mobile/IOS",
+    "Network/Services",
+    "Network/Internal"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
