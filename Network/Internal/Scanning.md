@@ -5,5 +5,8 @@ ARP Scanning - useful when firewalls are aggressively blocking traffic.
 
 Ping Sweep
 1. 1..255 | % {"10.10.3.$($_): $(Test-Connection -count 1 -comp 10.10.3.$($_) -quiet)"}
-2. 
+2. fping 
+3. nmap
+
+
 ```
