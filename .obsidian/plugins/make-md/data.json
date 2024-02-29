@@ -95,7 +95,8 @@
     "//Active Directory",
     "//Web/Web/Attachments",
     "//Network/Network/Internal",
-    "//Wireless"
+    "//Mobile/Mobile/Android",
+    "//Thick Client"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -117,7 +118,8 @@
     "Network/Internal/Post Exploitation",
     "Network/Internal/Post Exploitation/Attachments",
     "OSCP/Wireless",
-    "Wireless"
+    "Wireless",
+    "Thick Client"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -156,7 +158,8 @@
     "Network/Services",
     "Network/Internal",
     "OSCP/Wireless",
-    "Wireless"
+    "Wireless",
+    "Thick Client"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

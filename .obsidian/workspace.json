@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Wireless/New Note.md",
+                "file": "New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Wireless/New Note.md",
+                "file": "New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Wireless/New Note.md",
+                "file": "New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Wireless/New Note.md"
+                "file": "New Note.md"
               }
             }
           },
@@ -176,12 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "202e360696de6141",
   "lastOpenFiles": [
+    "New Note.md",
+    "Thick Client/Thick Client.md",
+    "Thick Client",
+    "Network/Internal/Scanning.md",
     "Wireless/New Note.md",
     "Wireless/Wireless.md",
     "Wireless",
-    "Network/Internal/Scanning.md",
     "OSCP/Wireless/Wireless.md",
     "OSCP/Wireless",
     "Network/External.md",
@@ -206,8 +209,6 @@
     "OSINT/New Note.md",
     "Network/Internal/Post Exploitation/Living Off The Land.md",
     "Web/File Upload.md",
-    "Web/Brute Forcing.md",
-    "Web/Command Injection.md",
     "OSINT",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
@@ -220,7 +221,6 @@
     "Spaces",
     "Mobile/IOS",
     "Mobile/Android",
-    "Mobile",
     "Pasted image 20231101191427.png",
     "OSCP/Web/Pasted image 20231101191707.png",
     "OSCP/P.canvas"
