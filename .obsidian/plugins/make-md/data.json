@@ -94,11 +94,7 @@
     "//Active Directory",
     "//Active Directory",
     "//Web/Web/Attachments",
-    "//OSINT",
-    "//Commands",
-    "//Commands",
     "//Network",
-    "//Network/Network/Internal",
     "//Network/Network/Internal"
   ],
   "expandFolderOnClick": true,
@@ -114,12 +110,12 @@
     "Web/Attachments",
     "Commands",
     "Network",
-    "Network/Post Exploitation",
-    "Network/Post Exploitation/Attachments",
     "Network/Services",
     "Network/Internal",
     "Network/Internal/Active Directory",
-    "Network/Internal/Active Directory/Got User"
+    "Network/Internal/Active Directory/Got User",
+    "Network/Internal/Post Exploitation",
+    "Network/Internal/Post Exploitation/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

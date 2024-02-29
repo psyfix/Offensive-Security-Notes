@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/External.md",
+                "file": "Network/Internal/Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/External.md",
+                "file": "Network/Internal/Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/External.md",
+                "file": "Network/Internal/Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/External.md"
+                "file": "Network/Internal/Scanning.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "202e360696de6141",
   "lastOpenFiles": [
-    "Network/Internal/Scanning.md",
     "Network/External.md",
+    "Network/Internal/Scanning.md",
     "Network/Internal/Internal.md",
     "Network/Internal",
     "Network/New Note.md",
@@ -199,7 +199,7 @@
     "Commands/File Transfer.md",
     "Commands/Cracking.md",
     "OSINT/New Note.md",
-    "Network/Post Exploitation/Living Off The Land.md",
+    "Network/Internal/Post Exploitation/Living Off The Land.md",
     "Web/File Upload.md",
     "Web/Brute Forcing.md",
     "Web/Command Injection.md",
@@ -207,10 +207,10 @@
     "OSINT/OSINT.md",
     "Offensive-Security.md",
     "OSINT",
-    "Network/Post Exploitation/Attachments/Pasted image 20240123162819.png",
-    "Network/Post Exploitation/Attachments/Pasted image 20240123162852.png",
-    "Network/Post Exploitation/Attachments/Pasted image 20240123162820.png",
-    "Network/Post Exploitation/Attachments",
+    "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
+    "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
+    "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162820.png",
+    "Network/Internal/Post Exploitation/Attachments",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205011.png",
     "Web/Attachments/Pasted image 20231205205001.png",
