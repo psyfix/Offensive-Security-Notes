@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Internal/Scanning.md",
+                "file": "Wireless/New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Internal/Scanning.md",
+                "file": "Wireless/New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Internal/Scanning.md",
+                "file": "Wireless/New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Internal/Scanning.md"
+                "file": "Wireless/New Note.md"
               }
             }
           },
@@ -176,10 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "202e360696de6141",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
-    "Network/External.md",
+    "Wireless/New Note.md",
+    "Wireless/Wireless.md",
+    "Wireless",
     "Network/Internal/Scanning.md",
+    "OSCP/Wireless/Wireless.md",
+    "OSCP/Wireless",
+    "Network/External.md",
     "Network/Internal/Internal.md",
     "Network/Internal",
     "Network/New Note.md",
@@ -203,9 +208,6 @@
     "Web/File Upload.md",
     "Web/Brute Forcing.md",
     "Web/Command Injection.md",
-    "Web/SQLi.md",
-    "OSINT/OSINT.md",
-    "Offensive-Security.md",
     "OSINT",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
@@ -219,10 +221,8 @@
     "Mobile/IOS",
     "Mobile/Android",
     "Mobile",
-    "Web/Attachments",
     "Pasted image 20231101191427.png",
     "OSCP/Web/Pasted image 20231101191707.png",
-    "Network",
     "OSCP/P.canvas"
   ]
 }

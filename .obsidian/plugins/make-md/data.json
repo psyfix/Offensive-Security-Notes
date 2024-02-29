@@ -94,8 +94,8 @@
     "//Active Directory",
     "//Active Directory",
     "//Web/Web/Attachments",
-    "//Network",
-    "//Network/Network/Internal"
+    "//Network/Network/Internal",
+    "//Wireless"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -115,7 +115,9 @@
     "Network/Internal/Active Directory",
     "Network/Internal/Active Directory/Got User",
     "Network/Internal/Post Exploitation",
-    "Network/Internal/Post Exploitation/Attachments"
+    "Network/Internal/Post Exploitation/Attachments",
+    "OSCP/Wireless",
+    "Wireless"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -152,7 +154,9 @@
     "Mobile/Android",
     "Mobile/IOS",
     "Network/Services",
-    "Network/Internal"
+    "Network/Internal",
+    "OSCP/Wireless",
+    "Wireless"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
