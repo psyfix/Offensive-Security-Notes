@@ -24,3 +24,15 @@ exiftool -a u <file>
 Morse Decoder.
 https://morsecode.world/international/decoder/audio-decoder-adaptive.html
 ```
+
+
+##### Virtual Python Environments
+```
+sudo apt install virtualenv
+
+virtualenv --python=/usr/bin/python2.7 venv
+
+. venv/bin/activate
+
+pip install -r requirements.txt
+```

@@ -95,7 +95,8 @@
     "//Active Directory",
     "//Web/Web/Attachments",
     "//Network/Network/Post Exploitation",
-    "//OSINT"
+    "//OSINT",
+    "//Commands"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
