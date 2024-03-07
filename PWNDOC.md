@@ -42,4 +42,14 @@ module.exports = function(app) {
 3. Import the route and model into the main app.js server file. (pwndoc-main\\pwndoc-main\\backend\\src\\app.js)
 
 #### Contributing
-/
+
+```
+1. Install docker desktop for windows first.
+2. Clone down the latest version of PWNDOC.
+3. Open a windows powershell terminal.
+	docker-compose -f backend/docker-compose.dev.yml up -d --build
+	docker-compose -f frontend/docker-compose.dev.yml up -d --build
+4. Open up the docker windows gui application.
+5. Manage the built containers from there you can restart and see logs.
+
+```
