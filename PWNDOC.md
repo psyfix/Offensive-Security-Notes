@@ -39,4 +39,4 @@ module.exports = function(app) {
 }
 ```
 
-3. Import the route and model into the main app.js server file.
+3. Import the route and model into the main app.js server file. (pwndoc-main\\pwndoc-main\\backend\\src\\app.js)
