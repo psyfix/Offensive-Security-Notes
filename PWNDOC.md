@@ -52,3 +52,14 @@ module.exports = function(app) {
 4. Open up the docker windows gui application.
 5. Manage the built containers from there you can restart and see logs.
 ```
+
+
+### DEV DASHBOARD
+A dashboard that loads by api requests returning a bunch of data from the db and dynamically loading it into the dashboard.
+```
+Features
+1. API GET Request.
+2. Graph.
+3. 
+```
+![[Pasted image 20240308124232.png]]

@@ -119,7 +119,8 @@
     "Spaces",
     "Wireless",
     "Web",
-    "Web/Attachments"
+    "Web/Attachments",
+    "Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
