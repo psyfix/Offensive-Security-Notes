@@ -51,5 +51,4 @@ module.exports = function(app) {
 	docker-compose -f frontend/docker-compose.dev.yml up -d --build
 4. Open up the docker windows gui application.
 5. Manage the built containers from there you can restart and see logs.
-
 ```
