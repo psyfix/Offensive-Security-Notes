@@ -59,8 +59,9 @@ A dashboard that loads by api requests returning a bunch of data from the db and
 ```
 Features
 1. API GET REQUEST to: /api/audits
-2. Then pull all the audit 
-3. Graph.
-4. 
+2. Then pull all the audits (company names to create companies column)
+3. Then pull all the audit findings
+4. Then calculate the cvss scores for each finding using (CVSS31.calculateCVSSFromVector)
+5. Then convert scores to severities and enter in chart.
 ```
 ![[Pasted image 20240308124232.png]]
