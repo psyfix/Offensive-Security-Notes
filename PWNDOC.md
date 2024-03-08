@@ -58,8 +58,9 @@ module.exports = function(app) {
 A dashboard that loads by api requests returning a bunch of data from the db and dynamically loading it into the dashboard.
 ```
 Features
-1. API GET Request.
-2. Graph.
-3. 
+1. API GET REQUEST to: /api/audits
+2. Then pull all the audit 
+3. Graph.
+4. 
 ```
 ![[Pasted image 20240308124232.png]]
