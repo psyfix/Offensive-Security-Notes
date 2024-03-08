@@ -33,7 +33,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "///",
     "//Offensive-Security",
     "//Offensive-Security",
@@ -95,7 +94,9 @@
     "//Active Directory",
     "//Web/Web/Attachments",
     "//Network/Network/Internal",
-    "//Mobile/Mobile/Android"
+    "//Mobile/Mobile/Android",
+    "/",
+    "Attachments"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
