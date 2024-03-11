@@ -113,15 +113,15 @@
     "Mobile/Android",
     "Mobile/IOS",
     "Commands",
+    "Attachments",
     "OSINT",
     "OSCP",
     "OSCP/Wireless",
     "Thick Client",
-    "Spaces",
     "Wireless",
+    "Spaces",
     "Web",
-    "Web/Attachments",
-    "Attachments"
+    "Web/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
