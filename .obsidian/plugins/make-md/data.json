@@ -92,11 +92,11 @@
     "//OSCP/OSCP/Post Exploitation/OSCP/Post Exploitation/Attachments",
     "//Active Directory",
     "//Active Directory",
-    "//Web/Web/Attachments",
     "//Network/Network/Internal",
     "//Mobile/Mobile/Android",
     "/",
-    "Attachments"
+    "Attachments",
+    "//Source Code"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -121,7 +121,8 @@
     "Web",
     "Web/Attachments",
     "Spaces",
-    "Wireless"
+    "Wireless",
+    "Source Code"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -161,7 +162,8 @@
     "Network/Internal",
     "OSCP/Wireless",
     "Wireless",
-    "Thick Client"
+    "Thick Client",
+    "OSCP/Source Code"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

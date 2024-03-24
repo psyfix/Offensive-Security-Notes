@@ -1,0 +1,4 @@
+###### REACT
+```
+Methods: dangerouslySetInnerHTML
+```

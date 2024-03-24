@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PWNDOC.md",
+                "file": "Source Code/Cross-Site Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PWNDOC.md",
+                "file": "Source Code/Cross-Site Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PWNDOC.md",
+                "file": "Source Code/Cross-Site Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PWNDOC.md"
+                "file": "Source Code/Cross-Site Scripting.md"
               }
             }
           },
@@ -176,12 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "202e360696de6141",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "Source Code/Cross-Site Scripting.md",
+    "Source Code/Source Code.md",
+    "Source Code",
+    "Network/External.md",
+    "OSCP/Learning Curves.md",
+    "PWNDOC.md",
     "Attachments/Pasted image 20240308124232.png",
     "Attachments",
     "Thick Client/New Note.md",
-    "PWNDOC.md",
     "Network/Internal/Scanning.md",
     "Spaces",
     "Web/Attachments/Pasted image 20231205205001.png",
@@ -195,7 +200,6 @@
     "Wireless",
     "OSCP/Wireless/Wireless.md",
     "OSCP/Wireless",
-    "Network/External.md",
     "Network/Internal/Internal.md",
     "Network/Internal",
     "Network/New Note.md",
@@ -212,15 +216,12 @@
     "Commands/Handling Mass Data.md",
     "Commands/Random Tools.md",
     "Commands/Shells.md",
-    "Commands/File Transfer.md",
-    "Commands/Cracking.md",
     "OSINT",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162820.png",
     "Network/Internal/Post Exploitation/Attachments",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
-    "Mobile/IOS",
     "Pasted image 20231101191427.png",
     "OSCP/Web/Pasted image 20231101191707.png",
     "OSCP/P.canvas"
