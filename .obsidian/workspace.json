@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Code/Cross-Site Scripting.md",
+                "file": "Source Code/SQL Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Code/Cross-Site Scripting.md",
+                "file": "Source Code/SQL Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source Code/Cross-Site Scripting.md",
+                "file": "Source Code/SQL Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Code/Cross-Site Scripting.md"
+                "file": "Source Code/SQL Injection.md"
               }
             }
           },
@@ -176,9 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "202e360696de6141",
   "lastOpenFiles": [
     "Source Code/Cross-Site Scripting.md",
+    "Source Code/SQL Injection.md",
     "Source Code/Source Code.md",
     "Source Code",
     "Network/External.md",
@@ -215,7 +216,6 @@
     "Network/Services",
     "Commands/Handling Mass Data.md",
     "Commands/Random Tools.md",
-    "Commands/Shells.md",
     "OSINT",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
