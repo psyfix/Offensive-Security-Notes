@@ -96,7 +96,9 @@
     "//Mobile/Mobile/Android",
     "/",
     "Attachments",
-    "//Source Code"
+    "//Source Code",
+    "//Network",
+    "//Network/Network/Services"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
