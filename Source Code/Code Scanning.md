@@ -1,4 +1,8 @@
 ###### Sonar
+```
+Download community edition from the website.
+Then run the executable locally to start the server.
+```
 
 ###### Semgrep
 ```
