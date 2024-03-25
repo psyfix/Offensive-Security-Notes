@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Services/HTTP.md",
+                "file": "Source Code/Code Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Services/HTTP.md",
+                "file": "Source Code/Code Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Services/HTTP.md",
+                "file": "Source Code/Code Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Services/HTTP.md"
+                "file": "Source Code/Code Scanning.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "202e360696de6141",
   "lastOpenFiles": [
-    "Source Code/SQL Injection.md",
     "Source Code/Cross-Site Scripting.md",
+    "Source Code/Code Scanning.md",
+    "Source Code/SQL Injection.md",
+    "Network/Services/HTTP.md",
     "Source Code/Source Code.md",
     "Source Code",
     "Network/External.md",
@@ -214,8 +216,6 @@
     "Network/Internal/Active Directory/Got Nothing.md",
     "Network/Services/Services.md",
     "Network/Services",
-    "Commands/Handling Mass Data.md",
-    "Commands/Random Tools.md",
     "OSINT",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
