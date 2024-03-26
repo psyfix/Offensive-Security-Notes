@@ -103,7 +103,8 @@
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
     "//Mobile/Mobile/Android",
-    "//Mobile/Mobile/Android/Mobile/Android/Tools"
+    "//Mobile/Mobile/Android/Mobile/Android/Tools",
+    "//Mobile/Mobile/IOS"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

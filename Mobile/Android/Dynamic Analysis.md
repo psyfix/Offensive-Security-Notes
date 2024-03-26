@@ -2,8 +2,10 @@
 
 ##### Installing Burp Certificate
 ```
-Install the Burp root certificate on the device.
+Configure proxy settings on device.
+Install the Burp CER root certificate on the device.
 Check you can proxy traffic using google search.
+Check you can proxy traffic on the app? No? Then there is an SSL pin.
 ```
 ##### Objection & Frida.
 
