@@ -1,6 +1,10 @@
 ### Environment Setup
 
-###
+##### Installing Burp Certificate
+```
+Install the Burp root certificate on the device.
+Check you can proxy traffic using google search.
+```
 ##### Objection & Frida.
 
 ###### Install Python Packages.
