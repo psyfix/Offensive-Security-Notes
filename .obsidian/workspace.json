@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Code/Code Scanning.md",
+                "file": "Mobile/Android/Environment Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Code/Code Scanning.md",
+                "file": "Mobile/Android/Environment Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source Code/Code Scanning.md",
+                "file": "Mobile/Android/Environment Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Code/Code Scanning.md"
+                "file": "Mobile/Android/Environment Setup.md"
               }
             }
           },
@@ -178,9 +178,19 @@
   },
   "active": "202e360696de6141",
   "lastOpenFiles": [
+    "Mobile/Android/Static Analysis.md",
+    "Mobile/Android/Tools/Frida.md",
+    "Mobile/Android/Tools/Tools.md",
+    "Mobile/Android/Tools",
+    "Mobile/Android/Tools/Objection.md",
+    "Mobile/Android/Environment Setup.md",
+    "Mobile/Android/Dynamic Analysis.md",
+    "Source Code/SQL Injection.md",
     "Source Code/Cross-Site Scripting.md",
     "Source Code/Code Scanning.md",
-    "Source Code/SQL Injection.md",
+    "Source Code/Manual/Manual.md",
+    "Source Code/Manual",
+    "Source Code/New Note.md",
     "Network/Services/HTTP.md",
     "Source Code/Source Code.md",
     "Source Code",
@@ -207,20 +217,10 @@
     "Network/Internal",
     "Network/New Note.md",
     "Network/Services/SMB.md",
-    "Network/Services/SMTP.md",
-    "Network/Services/FTP.md",
-    "Network/Services/SSH.md",
-    "Network/Services/IMAP.md",
-    "Network/Services/1978.md",
-    "Network/Services/17001.md",
-    "Network/Internal/Active Directory/Got Nothing.md",
-    "Network/Services/Services.md",
     "Network/Services",
-    "OSINT",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162820.png",
-    "Network/Internal/Post Exploitation/Attachments",
     "OSCP/Web/Attachments/Pasted image 20231101191821.png",
     "Pasted image 20231101191427.png",
     "OSCP/Web/Pasted image 20231101191707.png",

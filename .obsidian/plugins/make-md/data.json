@@ -97,7 +97,13 @@
     "/",
     "Attachments",
     "//Source Code",
-    "//Network/Network/Services"
+    "//Network/Network/Services",
+    "//Source Code/Source Code/Manual",
+    "//Mobile",
+    "//Mobile/Mobile/Android",
+    "//Mobile/Mobile/Android",
+    "//Mobile/Mobile/Android",
+    "//Mobile/Mobile/Android/Mobile/Android/Tools"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -123,7 +129,8 @@
     "Web",
     "Web/Attachments",
     "Thick Client",
-    "Wireless"
+    "Wireless",
+    "Mobile/Android/Tools"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -164,7 +171,9 @@
     "OSCP/Wireless",
     "Wireless",
     "Thick Client",
-    "OSCP/Source Code"
+    "OSCP/Source Code",
+    "Source Code/Manual",
+    "Mobile/Android/Tools"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
