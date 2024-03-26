@@ -1,21 +1,3 @@
-### Installation
-
-##### Client
-```
-pip3 install frida-tools
-frida --version
-```
-
-#### Server
-```
-adb shell
-uname -a 
-Download correct release that matches architecture: https://github.com/frida/frida/releases
-adb push /path/to/frida-server /data/local/tmp/
-chmod +x frida-server
-./frida-server
-```
-
 ### Bypassing Emulator and Root Detection
 #### Analysis
 Understand what part of the code is doing the detection. 
