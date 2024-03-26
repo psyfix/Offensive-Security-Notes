@@ -12,7 +12,6 @@ semgrep scan --config auto <dir>
 
 
 ###### Synk
-
 ```
 Visual Studio Code extension.
 ```
