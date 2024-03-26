@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile/Android/Dynamic Analysis.md",
+                "file": "Web/Cross-Site Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile/Android/Dynamic Analysis.md",
+                "file": "Web/Cross-Site Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile/Android/Dynamic Analysis.md",
+                "file": "Web/Cross-Site Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mobile/Android/Dynamic Analysis.md"
+                "file": "Web/Cross-Site Scripting.md"
               }
             }
           },
@@ -178,8 +178,10 @@
   },
   "active": "202e360696de6141",
   "lastOpenFiles": [
-    "Mobile/Android/Static Analysis.md",
+    "Attachments/Pasted image 20240308124232.png",
+    "PWNDOC.md",
     "Mobile/Android/Dynamic Analysis.md",
+    "Mobile/Android/Static Analysis.md",
     "Mobile/Android/Environment Setup.md",
     "Mobile/Android/Tools/Frida.md",
     "Mobile/Android/Tools/Objection.md",
@@ -196,8 +198,6 @@
     "Source Code",
     "Network/External.md",
     "OSCP/Learning Curves.md",
-    "PWNDOC.md",
-    "Attachments/Pasted image 20240308124232.png",
     "Attachments",
     "Thick Client/New Note.md",
     "Network/Internal/Scanning.md",
@@ -216,7 +216,6 @@
     "Network/Internal/Internal.md",
     "Network/Internal",
     "Network/New Note.md",
-    "Network/Services/SMB.md",
     "Network/Services",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
