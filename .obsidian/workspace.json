@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Cross-Site Scripting.md",
+                "file": "Source Code/Code Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Cross-Site Scripting.md",
+                "file": "Source Code/Code Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Cross-Site Scripting.md",
+                "file": "Source Code/Code Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Cross-Site Scripting.md"
+                "file": "Source Code/Code Scanning.md"
               }
             }
           },
@@ -178,6 +178,8 @@
   },
   "active": "202e360696de6141",
   "lastOpenFiles": [
+    "Source Code/SQL Injection.md",
+    "Web/Cross-Site Scripting.md",
     "Spaces",
     "Attachments/Pasted image 20240308124232.png",
     "PWNDOC.md",
@@ -188,7 +190,6 @@
     "Mobile/Android/Tools/Objection.md",
     "Mobile/Android/Tools/Tools.md",
     "Mobile/Android/Tools",
-    "Source Code/SQL Injection.md",
     "Source Code/Cross-Site Scripting.md",
     "Source Code/Code Scanning.md",
     "Source Code/Manual/Manual.md",

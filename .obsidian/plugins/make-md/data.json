@@ -100,7 +100,8 @@
     "//Mobile/Mobile/Android/Mobile/Android/Tools",
     "//Mobile/Mobile/IOS",
     "//Attachments",
-    "//Web"
+    "//Web",
+    "//Source Code"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
