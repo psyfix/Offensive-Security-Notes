@@ -107,7 +107,6 @@
   "cachedSpaces": [
     "spaces://$tags",
     "/",
-    "Commands",
     "Mobile",
     "Mobile/Android",
     "Mobile/IOS",
@@ -118,15 +117,16 @@
     "Network/Internal/Post Exploitation",
     "Network/Internal/Post Exploitation/Attachments",
     "Network/Services",
-    "OSCP",
-    "OSCP/Wireless",
+    "Commands",
     "OSINT",
     "Source Code",
+    "OSCP",
+    "OSCP/Wireless",
+    "Spaces",
     "Thick Client",
     "Web",
     "Web/Attachments",
-    "Wireless",
-    "Spaces"
+    "Wireless"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
