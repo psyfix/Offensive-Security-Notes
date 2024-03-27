@@ -66,6 +66,10 @@ Reinstall patched application.
 ```
 ![[Pasted image 20240327150043.png]]
 
+###### Flutter
+```
+https://github.com/ptswarm/reFlutter
+```
 ### Bypassing Emulator and Root Detection
 #### Analysis
 Understand what part of the code is doing the detection. 
