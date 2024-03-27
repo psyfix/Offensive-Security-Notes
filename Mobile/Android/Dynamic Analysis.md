@@ -32,6 +32,8 @@ chmod +x frida-server
 ./frida-server
 ```
 ### Breaking SSL Pin
+https://krushnalipane.medium.com/bypassing-android-ssl-pinning-194e41a0d807
+###### Objection
 ```
 1. Find the application name first: pm list packages | grep <string>
 
@@ -44,6 +46,25 @@ objection -g nz.innovaapps.valentiawestcoast explore --startup-command "android 
 3. objection -g <app_name> explore
 4. android sslpinning disable.
 ```
+###### Magisk
+```
+If you are using a phone that is jail broken using Magisk.
+Go to the Magisk settings and turn on Always Trust User Certificates.
+```
+![[Pasted image 20240327145808.png]]
+###### Frida
+```
+Try the following Frida Script.
+_frida -U -f <pkg name/PID> -l fridascript.js
+```
+
+###### APK-MITM
+```
+Install the tool: https://github.com/shroudedcode/apk-mitm
+Then run: apk-mitm <your-apk>
+Reinstall patched application.
+```
+![[Pasted image 20240327150043.png]]
 
 ### Bypassing Emulator and Root Detection
 #### Analysis
