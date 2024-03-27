@@ -93,7 +93,10 @@
     "//Source Code/Source Code/Manual",
     "//Mobile/Mobile/Android/Mobile/Android/Tools",
     "//Attachments",
-    "//Source Code"
+    "//Source Code",
+    "//Spaces",
+    "//Purple Team",
+    "//Purple Team"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -115,11 +118,11 @@
     "Source Code",
     "OSCP",
     "OSCP/Wireless",
-    "Spaces",
     "Thick Client",
     "Web",
     "Web/Attachments",
-    "Wireless"
+    "Wireless",
+    "Purple Team"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -162,7 +165,8 @@
     "Thick Client",
     "OSCP/Source Code",
     "Source Code/Manual",
-    "Mobile/Android/Tools"
+    "Mobile/Android/Tools",
+    "Spaces/Purple Team"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

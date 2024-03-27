@@ -23,9 +23,11 @@
             "id": "202e360696de6141",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Commands"
+                "file": "TTPs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Services/17001.md",
+                "file": "TTPs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Services/17001.md",
+                "file": "TTPs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Services/17001.md"
+                "file": "TTPs.md"
               }
             }
           },
@@ -176,6 +178,10 @@
   },
   "active": "202e360696de6141",
   "lastOpenFiles": [
+    "TTPs.md",
+    "Spaces/Spaces.md",
+    "Purple Team/Purple Team.md",
+    "Purple Team",
     "Mobile/Android/Dynamic Analysis.md",
     "Mobile/Android/Static Analysis.md",
     "Mobile/Android/Attachments/Pasted image 20240327150043.png",
@@ -213,12 +219,9 @@
     "Web/Attachments/Pasted image 20231205205001.png",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205011.png",
-    "Web/WAF Byasses.md",
-    "Thick Client/Thick Client.md",
     "Thick Client",
     "Wireless",
     "OSCP/Wireless",
-    "Network/Internal",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "OSCP/P.canvas"
