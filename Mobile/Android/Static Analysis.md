@@ -6,21 +6,15 @@ JADX-GUI
 APK Tools
 Platform Tools
 ```
-##### 
-Use JADX-GUI to debug the APK file and get the source code.
-
 #### Dynamic Analysis
-
 ```
 Install MobSF and run it on the APK , GG ;)
 ```
-Use MobSF to automate static analysis
 #### Manual Analysis
+```
+1. Open up the APK file with JADX-GUI. 
 
-# Hardcoded Strings
-
-Search for:
-
+Here are some interesting strings to search for:
 - key
 - http
 - https
@@ -33,7 +27,10 @@ Search for:
 - Client
 - Server
 
-### How to analyse the Manifest file
+2.
+```
+
+## How to analyse the Manifest file
 
 API Level
 
