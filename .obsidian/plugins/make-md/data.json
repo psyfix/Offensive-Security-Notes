@@ -122,7 +122,8 @@
     "Web",
     "Web/Attachments",
     "Wireless",
-    "Purple Team"
+    "Purple Team",
+    "Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
