@@ -100,7 +100,8 @@
     "//Mobile/Mobile/Android/Mobile/Android/Tools",
     "//Mobile/Mobile/IOS",
     "//Attachments",
-    "//Source Code"
+    "//Source Code",
+    "//Mobile"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -125,7 +126,8 @@
     "Thick Client",
     "Web",
     "Web/Attachments",
-    "Wireless"
+    "Wireless",
+    "Mobile/Android/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
