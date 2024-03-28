@@ -18,6 +18,12 @@
 
 #### Building a Benchmark
 ```
-Create a spreadsheet mapping all the blue team controls and tools that are enabled.
-Add aditional detail on the alerts and configurations of those tools.
+1. Create a spreadsheet mapping all the blue team controls and tools that are enabled.
+2. Add aditional detail on the alerts and configurations of those tools.
+3. When the engagement is finished update the benchmark on what was changed / added.
+```
+
+#### Threat Emulation
+```
+1. Use Caldera a framework aimed to simulate and emulate threat attacks.
 ```
