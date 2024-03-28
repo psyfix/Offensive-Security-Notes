@@ -176,8 +176,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "202e360696de6141",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20240328133236.png",
     "Attachments/Pasted image 20240328122554.png",
     "Attachments",
     "Methodology.md",
@@ -223,7 +224,6 @@
     "Wireless",
     "OSCP/Wireless",
     "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162819.png",
-    "Network/Internal/Post Exploitation/Attachments/Pasted image 20240123162852.png",
     "OSCP/P.canvas"
   ]
 }
