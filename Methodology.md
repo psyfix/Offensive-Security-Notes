@@ -19,5 +19,5 @@
 #### Building a Benchmark
 ```
 Create a spreadsheet mapping all the blue team controls and tools that are enabled.
-Add a
+Add aditional detail on the alerts and configurations of those tools.
 ```
