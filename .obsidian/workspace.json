@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc1c76330721df4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "202e360696de6141",
+  "active": "cc1c76330721df4c",
   "lastOpenFiles": [
     "Network/Services/17001.md",
     "Spaces",
