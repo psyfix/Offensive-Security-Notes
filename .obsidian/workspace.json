@@ -35,9 +35,11 @@
             "id": "cc1c76330721df4c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Purple Team/Threat Emulation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Purple Team/Methodology.md",
+                "file": "Purple Team/Threat Emulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Purple Team/Methodology.md",
+                "file": "Purple Team/Threat Emulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Purple Team/Methodology.md"
+                "file": "Purple Team/Threat Emulation.md"
               }
             }
           },
@@ -188,13 +190,14 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Purple Team/Methodology.md",
+    "Purple Team/Threat Emulation.md",
     "Network/Services/17001.md",
     "Spaces",
     "Attachments/Pasted image 20240328135907.png",
     "Attachments/Pasted image 20240328133236.png",
     "Attachments/Pasted image 20240328122554.png",
     "Attachments",
-    "Purple Team/Methodology.md",
     "Spaces/Spaces.md",
     "Purple Team/Purple Team.md",
     "Purple Team",
