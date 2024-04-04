@@ -24,7 +24,15 @@
 3. When the engagement is finished update the benchmark on what was changed / added.
 ```
 
-#### Threat Emulation
+#### Execution
 ```
 1. Use Caldera a framework aimed to simulate and emulate threat attacks.
 ```
+
+#### Data Collection
+
+#### Analysis
+
+#### Tuning
+
+#### Reporting
