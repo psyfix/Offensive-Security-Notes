@@ -11,6 +11,7 @@
 ```
 1. Select your threat groups (APTs) using the MITRE attack navigator. (https://mitre-attack.github.io/attack-navigator/)
 2. Build your TTPs into a spreadsheet. (https://github.com/scythe-io/purple-team-exercise-framework/tree/master/templates)
+3. Build your attack flows / models: https://center-for-threat-informed-defense.github.io/attack-flow/
 ```
 
 ![[Pasted image 20240328133236.png]]
