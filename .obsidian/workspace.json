@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/File Upload.md",
+                "file": "Purple Team/Threat Emulation.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/File Upload.md",
+                "file": "Purple Team/Threat Emulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/File Upload.md",
+                "file": "Purple Team/Threat Emulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/File Upload.md"
+                "file": "Purple Team/Threat Emulation.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Web/File Upload.md",
     "Web/Tools.md",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
