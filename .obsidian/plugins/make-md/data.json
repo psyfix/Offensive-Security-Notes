@@ -95,7 +95,11 @@
     "//Source Code",
     "//Spaces",
     "//Purple Team",
-    "//OSCP"
+    "//OSCP",
+    "//Web",
+    "//Network",
+    "//Network/Network/Internal/Network/Internal/Active Directory",
+    "//Network/Network/Internal/Network/Internal/Post Exploitation"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
