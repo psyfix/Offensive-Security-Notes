@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "New Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "New Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "New Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Tools.md"
+                "file": "New Note.md"
               }
             }
           },
@@ -190,6 +190,8 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "New Note.md",
+    "Web/Tools.md",
     "Commands/Shells.md",
     "Network/Internal/Post Exploitation/Linux Priv Esc.md",
     "Network/Internal/Post Exploitation/Windows Priv Esc.md",
@@ -200,7 +202,6 @@
     "Web/File Upload.md",
     "Web/Cross-Site Scripting.md",
     "Purple Team/Methodology.md",
-    "Web/Tools.md",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
     "Network/Services/17001.md",
@@ -230,7 +231,6 @@
     "Mobile/Android/Tools/Objection.md",
     "Mobile/Android/Tools/Tools.md",
     "Mobile/Android/Tools",
-    "Source Code/Manual/Manual.md",
     "Source Code/Manual",
     "Source Code",
     "Thick Client",
