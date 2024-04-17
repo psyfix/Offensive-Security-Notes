@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Purple Team/Threat Emulation.md",
+                "file": "Network/Internal/Post Exploitation/Linux Priv Esc.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Purple Team/Threat Emulation.md",
+                "file": "Network/Internal/Post Exploitation/Linux Priv Esc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Purple Team/Threat Emulation.md",
+                "file": "Network/Internal/Post Exploitation/Linux Priv Esc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Purple Team/Threat Emulation.md"
+                "file": "Network/Internal/Post Exploitation/Linux Priv Esc.md"
               }
             }
           },
@@ -190,13 +190,14 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Network/Internal/Post Exploitation/Windows Priv Esc.md",
+    "Purple Team/Threat Emulation.md",
     "Network/Internal/Post Exploitation/Linux Priv Esc.md",
     "Network/Internal/Scanning.md",
     "Web/Brute Forcing.md",
     "Web/Path Traversal & File Inclusion.md",
     "Web/File Upload.md",
     "Web/Cross-Site Scripting.md",
-    "Purple Team/Threat Emulation.md",
     "Purple Team/Methodology.md",
     "Web/Tools.md",
     "Web/Attachments/Pasted image 20231205204847.png",
@@ -231,7 +232,6 @@
     "Source Code/Manual/Manual.md",
     "Source Code/Manual",
     "Source Code/New Note.md",
-    "Network/Services/HTTP.md",
     "Source Code",
     "Thick Client",
     "Wireless",
