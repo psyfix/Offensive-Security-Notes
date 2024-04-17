@@ -97,7 +97,8 @@
     "//Network/Network/Internal/Network/Internal/Active Directory",
     "//Network/Network/Internal/Network/Internal/Post Exploitation",
     "//Network/Network/Internal/Network/Internal/Post Exploitation/Network/Internal/Post Exploitation/Attachments",
-    "//Commands"
+    "//Commands",
+    "//Network"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
