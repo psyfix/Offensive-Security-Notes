@@ -28,7 +28,7 @@ https://dev.mysql.com/downloads/shell/
 ```
 #!/bin/bash
 
-TABLES_FILE="/home/planit/tables.txt"
+TABLES_FILE="tables.txt"
 
 while read -r TABLE_LINE; do
     mysql -e "SELECT * FROM $TABLE_LINE;" -p'pass' -D db -h host >> dump.sql
