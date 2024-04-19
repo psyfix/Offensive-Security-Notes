@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/Services/SSH.md",
+                "file": "Network/Services/SQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Services/SSH.md",
+                "file": "Network/Services/SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Services/SSH.md",
+                "file": "Network/Services/SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Services/SSH.md"
+                "file": "Network/Services/SQL.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Network/Services/SSH.md",
     "Commands/Random Tools.md",
     "Network/Internal/Post Exploitation/Tunneling.md",
     "Network/Internal/Active Directory/Lateral Movement.md",
@@ -229,7 +230,6 @@
     "Source Code/SQL Injection.md",
     "Web/SQLi.md",
     "Attachments/Pasted image 20240308124232.png",
-    "PWNDOC.md",
     "Mobile/Android/Tools",
     "Source Code/Manual",
     "Source Code",

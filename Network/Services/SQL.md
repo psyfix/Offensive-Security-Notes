@@ -24,6 +24,17 @@ https://security.stackexchange.com/questions/6919/leveraging-a-shell-from-sql-in
 https://dev.mysql.com/downloads/shell/
 ```
 
+#### Dumping DB
+```
+#!/bin/bash
+
+TABLES_FILE="/home/planit/tables.txt"
+
+while read -r TABLE_LINE; do
+    mysql -e "SELECT * FROM $TABLE_LINE;" -p'pass' -D db -h host >> dump.sql
+done < "$TABLES_FILE"
+
+```
 #### POSTGRESQL
 ```
 #Connect
