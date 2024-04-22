@@ -89,7 +89,6 @@
     "//Network/Network/Internal",
     "/",
     "Attachments",
-    "//Network/Network/Services",
     "//Source Code/Source Code/Manual",
     "//Mobile/Mobile/Android/Mobile/Android/Tools",
     "//Spaces",
@@ -97,7 +96,10 @@
     "//Network/Network/Internal/Network/Internal/Post Exploitation",
     "//Network/Network/Internal/Network/Internal/Post Exploitation/Network/Internal/Post Exploitation/Attachments",
     "//Commands",
-    "//Network"
+    "//Network",
+    "//Network/Network/Internal/Network/Internal/Active Directory/Network/Internal/Active Directory/Got User",
+    "//Commands",
+    "//Commands"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

@@ -41,3 +41,9 @@ pip install -r requirements.txt
 ```
 https://github.com/pbssubhash/Py-Ran
 ```
+
+
+##### Trusted Excel Macros Execution
+```
+https://github.com/aut0m8r/FunWithMacros
+```
