@@ -35,11 +35,9 @@
             "id": "cc1c76330721df4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Mobile/Android/Static Analysis.md",
-                "mode": "source",
-                "source": false
+                "path": "OSINT"
               }
             }
           }
@@ -119,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mobile/Android/Static Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mobile/Android/Static Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,9 +154,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mobile/Android/Static Analysis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -190,8 +184,10 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
-    "Mobile/Android/Dynamic Analysis.md",
+    "DevSecOps.md",
+    "README.md",
     "Mobile/Android/Static Analysis.md",
+    "Mobile/Android/Dynamic Analysis.md",
     "Web/Tools.md",
     "Web/Open Redirects.md",
     "Web/Access Controls.md",
@@ -213,10 +209,8 @@
     "Source Code/SQL Injection.md",
     "OSINT/New Note.md",
     "Commands/Handling Mass Data.md",
-    "DevSecOps.md",
     "Attachments/Pasted image 20240503100240.png",
     "Network/Internal/Active Directory/Got Nothing.md",
-    "Network/Internal/Active Directory/Got Admin.md",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
     "Spaces",

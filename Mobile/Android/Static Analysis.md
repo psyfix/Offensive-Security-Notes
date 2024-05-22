@@ -30,7 +30,7 @@ Here are some interesting strings to search for:
 2.
 ```
 
-## How to analyse the Manifest file
+### How to analyse the Manifest file
 
 API Level
 
