@@ -99,8 +99,11 @@
     "//Network/Network/Internal/Network/Internal/Active Directory/Network/Internal/Active Directory/Got User",
     "//Commands",
     "//Commands",
-    "//Web",
-    "//OSINT"
+    "//OSINT",
+    "//Source Code",
+    "//Source Code",
+    "//Purple Team",
+    "//Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
