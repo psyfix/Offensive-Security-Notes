@@ -35,9 +35,11 @@
             "id": "cc1c76330721df4c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "OSINT"
+                "file": "Web/WAF Byasses.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/WAF Byasses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web/WAF Byasses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web/WAF Byasses.md"
+              }
             }
           },
           {
@@ -182,20 +188,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc1c76330721df4c",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "Web/Command Injection.md",
+    "Web/Brute Forcing.md",
+    "Web/Path Traversal & File Inclusion.md",
+    "Web/File Upload.md",
+    "Web/Cross-Site Scripting.md",
+    "Web/Access Controls.md",
+    "Web/Open Redirects.md",
     "DevSecOps.md",
     "README.md",
     "Mobile/Android/Static Analysis.md",
     "Mobile/Android/Dynamic Analysis.md",
     "Web/Tools.md",
-    "Web/Open Redirects.md",
-    "Web/Access Controls.md",
-    "Web/Cross-Site Scripting.md",
-    "Web/File Upload.md",
-    "Web/Path Traversal & File Inclusion.md",
-    "Web/Brute Forcing.md",
-    "Web/Command Injection.md",
     "Web/SQLi.md",
     "Web/WAF Byasses.md",
     "Commands/Cracking.md",

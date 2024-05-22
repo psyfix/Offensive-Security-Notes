@@ -99,7 +99,9 @@
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
     "//Spaces",
-    "//OSINT"
+    "//OSINT",
+    "//Web",
+    "//Web/Web/Attachments"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
