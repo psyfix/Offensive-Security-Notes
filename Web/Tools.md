@@ -23,7 +23,6 @@ nuclei
 ```
 
 ###### JWTs
-
 ```
 #Scanning and Exploitation
 https://github.com/ticarpi/jwt_tool.git

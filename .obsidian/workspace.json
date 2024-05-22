@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "Mobile/Android/Dynamic Analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "Mobile/Android/Dynamic Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "Mobile/Android/Dynamic Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Tools.md"
+                "file": "Mobile/Android/Dynamic Analysis.md"
               }
             }
           },
@@ -190,6 +190,9 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Mobile/Android/Static Analysis.md",
+    "Mobile/Android/Dynamic Analysis.md",
+    "Web/Tools.md",
     "Web/Open Redirects.md",
     "Web/Access Controls.md",
     "Web/Cross-Site Scripting.md",
@@ -210,13 +213,10 @@
     "Source Code/SQL Injection.md",
     "OSINT/New Note.md",
     "Commands/Handling Mass Data.md",
-    "Web/Tools.md",
     "DevSecOps.md",
     "Attachments/Pasted image 20240503100240.png",
     "Network/Internal/Active Directory/Got Nothing.md",
     "Network/Internal/Active Directory/Got Admin.md",
-    "Network/Internal/Active Directory/Got User/Power View.md",
-    "Network/Internal/Active Directory/Got User/Password Spray.md",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
     "Spaces",

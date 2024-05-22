@@ -103,7 +103,10 @@
     "//Source Code",
     "//Source Code",
     "//Purple Team",
-    "//Web"
+    "//Mobile",
+    "//Mobile/Mobile/Android",
+    "//Mobile/Mobile/IOS",
+    "//Mobile/Mobile/Android/Mobile/Android/Attachments"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
