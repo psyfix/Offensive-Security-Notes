@@ -14,7 +14,6 @@ https://github.com/kacakb/jsfinder
 ```
 
 ###### Scanners
-
 ```
 nikto
 nmap
