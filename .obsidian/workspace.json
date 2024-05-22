@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Open Redirects.md",
+                "file": "Web/Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Open Redirects.md",
+                "file": "Web/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Open Redirects.md",
+                "file": "Web/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Open Redirects.md"
+                "file": "Web/Tools.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Web/Open Redirects.md",
     "Web/Access Controls.md",
     "Web/Cross-Site Scripting.md",
     "Web/File Upload.md",
@@ -216,7 +217,6 @@
     "Network/Internal/Active Directory/Got Admin.md",
     "Network/Internal/Active Directory/Got User/Power View.md",
     "Network/Internal/Active Directory/Got User/Password Spray.md",
-    "Network/Services/SSH.md",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
     "Spaces",

@@ -21,3 +21,9 @@ wpscan
 joomscan
 nuclei
 ```
+
+###### JWTs
+
+```
+https://github.com/ticarpi/jwt_tool.git
+```
