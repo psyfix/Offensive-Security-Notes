@@ -32,4 +32,7 @@ jwt_tool.py -t <url> -rc "jwt=xxx" -M pb -np
 #Cracking
 https://github.com/lmammino/jwt-cracker
 hashcat -a 0 -m 16500 jwt.txt passlist.txt
+
+#Reference Attacks
+https://auth0.com/blog/critical-vulnerabilities-in-json-web-token-libraries/
 ```
