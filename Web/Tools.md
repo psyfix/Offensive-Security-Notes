@@ -12,3 +12,13 @@ JSLinkFinder
 ```
 https://github.com/kacakb/jsfinder
 ```
+
+###### Scanners
+
+```
+nikto
+nmap
+wpscan
+joomscan
+nuclei
+```
