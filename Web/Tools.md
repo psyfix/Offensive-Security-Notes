@@ -26,4 +26,5 @@ nuclei
 
 ```
 https://github.com/ticarpi/jwt_tool.git
+jwt_tool.py -t <url> -rc "jwt=xxx" -M pb -np
 ```
