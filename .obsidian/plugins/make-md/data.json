@@ -101,7 +101,8 @@
     "//Spaces",
     "//OSINT",
     "//Web",
-    "//Web/Web/Attachments"
+    "//Web/Web/Attachments",
+    "//Source Code"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

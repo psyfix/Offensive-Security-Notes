@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/WAF Byasses.md",
+                "file": "Source Code/Code Scanning.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Services/17001.md",
+                "file": "Source Code/Code Scanning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Services/17001.md",
+                "file": "Source Code/Code Scanning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Services/17001.md"
+                "file": "Source Code/Code Scanning.md"
               }
             }
           },
@@ -188,8 +188,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Network/Services/17001.md",
     "Web/Command Injection.md",
     "Web/Brute Forcing.md",
     "Web/Path Traversal & File Inclusion.md",
@@ -216,7 +217,6 @@
     "OSINT/New Note.md",
     "Commands/Handling Mass Data.md",
     "Attachments/Pasted image 20240503100240.png",
-    "Network/Internal/Active Directory/Got Nothing.md",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
     "Spaces",
