@@ -191,4 +191,5 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": true,
-  "releaseNotes
+  "releaseNotesPrompt": 0.804
+}
