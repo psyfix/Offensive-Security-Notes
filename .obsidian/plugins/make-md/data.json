@@ -129,7 +129,8 @@
     "Thick Client",
     "Spaces",
     "Web",
-    "Web/Attachments"
+    "Web/Attachments",
+    "Wireless"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -189,4 +190,6 @@
   "quickFrames": [],
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
-  "autoMig
+  "autoMigration08": true,
+  "releaseNotesPrompt": 0.804
+}
