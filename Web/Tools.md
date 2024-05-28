@@ -54,5 +54,7 @@ nuclei
 ```
 ZAP
 Burp
+
 Hakrawler
+echo "https://www.planit.com/" | ./hakrawler -u
 ```
