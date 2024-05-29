@@ -6,6 +6,7 @@ Autorize
 JWT Token
 ASP.NET Beautifier
 JSLinkFinder
+GAP Burp Extension
 ```
 
 ###### JWTs
@@ -40,6 +41,7 @@ options
 Fuzzing Parameters
 ```
 ffuf -u "https://example.com/?FUZZ" -c -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -ac -mc all
+GAP Burp Extension
 ```
 ###### Scanners
 ```
