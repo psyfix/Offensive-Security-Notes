@@ -44,7 +44,9 @@ ffuf -u "https://example.com/?FUZZ" -c -w /usr/share/seclists/Discovery/Web-Cont
 
 GAP Burp Extension
 1. Get paramters
-2. Fuzz: ffuf -w param.txt:PARAM -w ~/PayloadsAllTheThings/SQL\ Injection/Intruder/Generic_Fuzz.txt:VAL -u https://example.com?PARAM=VAL -c -mc 400,500
+2. SQL Fuzz: ffuf -w param.txt:PARAM -w ~/PayloadsAllTheThings/SQL\ Injection/Intruder/Generic_Fuzz.txt:VAL -u https://example.com?PARAM=VAL -c -mc 400,500
+3. XSS Fuzz: ffuf -w param.txt:PARAM -w xss.txt:VAL -u https://example.com?PARAM=VAL -c -mr "VAL" -c
+4. PT / LFI Fuzz:
 ```
 ###### Scanners
 ```
