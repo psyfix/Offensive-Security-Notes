@@ -126,7 +126,10 @@
     "Spaces",
     "Thick Client",
     "OSCP",
-    "OSCP/Wireless"
+    "OSCP/Wireless",
+    "Web",
+    "Web/Attachments",
+    "Wireless"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -185,4 +188,7 @@
   "indexSVG": false,
   "quickFrames": [],
   "readableLineWidth": true,
-  "autoAddContextsToSubtags
+  "autoAddContextsToSubtags": true,
+  "autoMigration08": true,
+  "releaseNotesPrompt": 0.804
+}
