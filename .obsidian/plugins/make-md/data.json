@@ -107,12 +107,11 @@
   "cachedSpaces": [
     "spaces://$tags",
     "/",
+    "Attachments",
     "Mobile",
     "Mobile/Android",
     "Mobile/Android/Attachments",
     "Mobile/IOS",
-    "Attachments",
-    "Commands",
     "Network",
     "Network/Internal",
     "Network/Internal/Active Directory",
@@ -120,16 +119,14 @@
     "Network/Internal/Post Exploitation",
     "Network/Internal/Post Exploitation/Attachments",
     "Network/Services",
-    "Purple Team",
-    "OSCP",
-    "OSCP/Wireless",
+    "Commands",
     "OSINT",
-    "Spaces",
+    "Purple Team",
     "Source Code",
+    "Spaces",
     "Thick Client",
-    "Web",
-    "Web/Attachments",
-    "Wireless"
+    "OSCP",
+    "OSCP/Wireless"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -188,7 +185,4 @@
   "indexSVG": false,
   "quickFrames": [],
   "readableLineWidth": true,
-  "autoAddContextsToSubtags": true,
-  "autoMigration08": true,
-  "releaseNotesPrompt": 0.804
-}
+  "autoAddContextsToSubtags
