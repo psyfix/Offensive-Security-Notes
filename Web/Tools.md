@@ -41,7 +41,11 @@ options
 Fuzzing Parameters
 ```
 ffuf -u "https://example.com/?FUZZ" -c -w /usr/share/seclists/Discovery/Web-Content/burp-parameter-names.txt -ac -mc all
+
 GAP Burp Extension
+Get paramters
+then create target list: awk -F'=' '{print "https://example.com?"$1"="}' params.txt
+then fuzz.
 ```
 ###### Scanners
 ```
