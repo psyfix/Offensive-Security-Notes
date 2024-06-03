@@ -35,9 +35,11 @@
             "id": "cc1c76330721df4c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Config Review"
+                "file": "Config Review/Cloud.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Config Review/Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Config Review/Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Config Review/Cloud.md"
+              }
             }
           },
           {
@@ -182,8 +188,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "cc1c76330721df4c",
   "lastOpenFiles": [
+    "Config Review/Cloud.md",
     "Attachments/Attachments.md",
     "Config Review/Config Review.md",
     "Config Review",
@@ -210,7 +217,6 @@
     "Commands/Shells.md",
     "Commands/Random Tools.md",
     "Purple Team/Methodology.md",
-    "Purple Team/Threat Emulation.md",
     "Attachments/Pasted image 20240503100240.png",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
