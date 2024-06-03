@@ -35,8 +35,10 @@
             "id": "cc1c76330721df4c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "mk-space",
+              "state": {
+                "path": "Config Review"
+              }
             }
           }
         ],
@@ -182,6 +184,9 @@
   },
   "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "Attachments/Attachments.md",
+    "Config Review/Config Review.md",
+    "Config Review",
     "New Note.md",
     "DevSecOps.md",
     "Web/SSRF.md",
@@ -206,8 +211,6 @@
     "Commands/Random Tools.md",
     "Purple Team/Methodology.md",
     "Purple Team/Threat Emulation.md",
-    "Source Code/Cross-Site Scripting.md",
-    "Source Code/SQL Injection.md",
     "Attachments/Pasted image 20240503100240.png",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
@@ -227,7 +230,6 @@
     "Source Code",
     "Thick Client",
     "Wireless",
-    "OSCP/Wireless",
     "OSCP/P.canvas"
   ]
 }
