@@ -12,3 +12,5 @@ semgrep scan --config auto <dir>
 ```
 Visual Studio Code extension.
 ```
+
+##### Dependecy Check
