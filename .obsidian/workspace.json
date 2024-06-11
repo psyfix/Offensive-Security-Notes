@@ -42,9 +42,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aa184f224449d249",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc1c76330721df4c",
+  "active": "aa184f224449d249",
   "lastOpenFiles": [
     "Web/Tools.md",
     "Web/Open Redirects.md",
