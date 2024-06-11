@@ -49,6 +49,7 @@ RECONFIGURE;
 
 ##### Blind Boolean SQLi
 ```
+#Validating SQL query manipulation is possible
 1=1
 1=2
 1=1+AND+1=1
