@@ -47,9 +47,11 @@
             "id": "aa184f224449d249",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.3"
+                "file": "Commands/Shells.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -129,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/SQLi.md",
+                "file": "Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/SQLi.md",
+                "file": "Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/SQLi.md"
+                "file": "Commands/Shells.md"
               }
             }
           },
@@ -200,6 +202,9 @@
   },
   "active": "aa184f224449d249",
   "lastOpenFiles": [
+    "New Note.md",
+    "Network/Internal/Scanning.md",
+    "Web/SQLi.md",
     "Web/Tools.md",
     "Web/Open Redirects.md",
     "Web/Path Traversal & File Inclusion.md",
@@ -211,7 +216,6 @@
     "Attachments/Attachments.md",
     "Config Review/Config Review.md",
     "Config Review",
-    "New Note.md",
     "DevSecOps.md",
     "Web/SSRF.md",
     "Network/Services/17001.md",
@@ -221,7 +225,6 @@
     "README.md",
     "Mobile/Android/Static Analysis.md",
     "Mobile/Android/Dynamic Analysis.md",
-    "Web/SQLi.md",
     "Web/WAF Byasses.md",
     "Commands/Cracking.md",
     "Commands/File Transfer.md",
