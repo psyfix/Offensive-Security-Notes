@@ -59,6 +59,9 @@ RECONFIGURE;
 1=1+AND(1=1)AND+1=1
 1=1+AND(1=2)AND+1=1
 
+#can we do multiple queries?
+1=1+AND(1=1)AND+1=1;
+
 #strings ok?
 1=1+AND('1'='1')AND+1=1
 
