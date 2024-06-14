@@ -92,8 +92,7 @@
     "//Mobile/Mobile/Android/Mobile/Android/Tools",
     "//Network/Network/Internal/Network/Internal/Post Exploitation/Network/Internal/Post Exploitation/Attachments",
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
-    "//Mobile/Mobile/Android/Mobile/Android/Attachments",
-    "//Web"
+    "//Mobile/Mobile/Android/Mobile/Android/Attachments"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
