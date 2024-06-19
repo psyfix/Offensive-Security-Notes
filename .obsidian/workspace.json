@@ -11,8 +11,12 @@
             "id": "4d71c6b1641ee588",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Web/Cross-Site Scripting.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Web/Cross-Site Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Web/Cross-Site Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Web/Cross-Site Scripting.md"
+              }
             }
           },
           {
@@ -155,9 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e90e3be45903ba27",
+  "active": "4d71c6b1641ee588",
   "lastOpenFiles": [
+    "Web/Path Traversal & File Inclusion.md",
+    "Web/Brute Forcing.md",
+    "Web/Command Injection.md",
     "Web/SQLi.md",
+    "Web/WAF Byasses.md",
     "Purple Team/Methodology.md",
     "Network/Services/17001.md",
     "Commands/Shells.md",
@@ -165,7 +177,6 @@
     "Network/Internal/Scanning.md",
     "Web/Tools.md",
     "Web/Open Redirects.md",
-    "Web/Path Traversal & File Inclusion.md",
     "Web/Cross-Site Scripting.md",
     "Web/Access Controls.md",
     "Source Code/Code Scanning.md",
@@ -176,13 +187,10 @@
     "Config Review",
     "DevSecOps.md",
     "Web/SSRF.md",
-    "Web/Command Injection.md",
-    "Web/Brute Forcing.md",
     "Web/File Upload.md",
     "README.md",
     "Mobile/Android/Static Analysis.md",
     "Mobile/Android/Dynamic Analysis.md",
-    "Web/WAF Byasses.md",
     "Commands/Cracking.md",
     "Commands/File Transfer.md",
     "Attachments/Pasted image 20240503100240.png",
