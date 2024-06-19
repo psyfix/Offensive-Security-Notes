@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/SQLi.md",
+                "file": "Web/Cross-Site Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/SQLi.md",
+                "file": "Web/Cross-Site Scripting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/SQLi.md",
+                "file": "Web/Cross-Site Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/SQLi.md"
+                "file": "Web/Cross-Site Scripting.md"
               }
             }
           },
@@ -165,11 +165,11 @@
   },
   "active": "4d71c6b1641ee588",
   "lastOpenFiles": [
+    "Web/SQLi.md",
     "Web/Command Injection.md",
     "Web/Cross-Site Scripting.md",
     "Web/Path Traversal & File Inclusion.md",
     "Web/Brute Forcing.md",
-    "Web/SQLi.md",
     "Web/WAF Byasses.md",
     "Purple Team/Methodology.md",
     "Network/Services/17001.md",
