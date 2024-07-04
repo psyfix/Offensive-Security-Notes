@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e801186a89d39c59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OSINT/New Note.md",
+                "file": "Web/Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSINT/New Note.md",
+                "file": "Web/Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OSINT/New Note.md"
+                "file": "Web/Tools.md"
               }
             }
           },
@@ -163,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d71c6b1641ee588",
+  "active": "e801186a89d39c59",
   "lastOpenFiles": [
     "Web/Tools.md",
     "Config Review/Cloud.md",
