@@ -93,7 +93,8 @@
     "//Network/Network/Internal/Network/Internal/Post Exploitation/Network/Internal/Post Exploitation/Attachments",
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
-    "//Config Review"
+    "//Config Review",
+    "//Web"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
