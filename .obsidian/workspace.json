@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "Network/Internal/EDR Evasion.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "Network/Internal/EDR Evasion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Tools.md",
+                "file": "Network/Internal/EDR Evasion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Tools.md"
+                "file": "Network/Internal/EDR Evasion.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "e801186a89d39c59",
   "lastOpenFiles": [
+    "Network/Internal/EDR Evasion.md",
     "Web/Tools.md",
     "Config Review/Cloud.md",
     "Web/SQLi.md",
@@ -205,7 +206,6 @@
     "Mobile/Android/Static Analysis.md",
     "Mobile/Android/Dynamic Analysis.md",
     "Commands/Cracking.md",
-    "Commands/File Transfer.md",
     "Attachments/Pasted image 20240503100240.png",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
