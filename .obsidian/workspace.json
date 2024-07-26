@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33d55424dad0dc0a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e801186a89d39c59",
+  "active": "33d55424dad0dc0a",
   "lastOpenFiles": [
     "Network/Internal/EDR Evasion.md",
     "Web/Tools.md",
