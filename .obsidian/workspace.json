@@ -35,9 +35,11 @@
             "id": "33d55424dad0dc0a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.7"
+                "file": "Config Review/Cloud.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -117,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Network/Internal/EDR Evasion.md",
+                "file": "Config Review/Cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Network/Internal/EDR Evasion.md",
+                "file": "Config Review/Cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Network/Internal/EDR Evasion.md"
+                "file": "Config Review/Cloud.md"
               }
             }
           },
