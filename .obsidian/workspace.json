@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Config Review/Cloud.md",
+                "file": "Source Code/Authentication.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Config Review/Cloud.md",
+                "file": "Source Code/Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Config Review/Cloud.md",
+                "file": "Source Code/Authentication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Config Review/Cloud.md"
+                "file": "Source Code/Authentication.md"
               }
             }
           },
@@ -165,9 +165,14 @@
   },
   "active": "33d55424dad0dc0a",
   "lastOpenFiles": [
+    "Source Code/Attachments/Pasted image 20240731095911.png",
+    "Source Code/Attachments/Pasted image 20240731095845.png",
+    "Source Code/Attachments",
+    "Source Code/SQL Injection.md",
+    "Source Code/Authentication.md",
+    "Config Review/Cloud.md",
     "Network/Internal/EDR Evasion.md",
     "Web/Tools.md",
-    "Config Review/Cloud.md",
     "Web/SQLi.md",
     "Web/Cross-Site Scripting.md",
     "Web/Command Injection.md",
@@ -190,9 +195,6 @@
     "Web/SSRF.md",
     "Web/File Upload.md",
     "README.md",
-    "Mobile/Android/Static Analysis.md",
-    "Mobile/Android/Dynamic Analysis.md",
-    "Commands/Cracking.md",
     "Attachments/Pasted image 20240503100240.png",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
@@ -204,13 +206,11 @@
     "Mobile/Android/Attachments/Pasted image 20240327150043.png",
     "Mobile/Android/Attachments/Pasted image 20240327145808.png",
     "Mobile/Android/Attachments/Pasted image 20240327144713.png",
-    "Mobile/Android/Attachments/Pasted image 20240327144711.png",
     "Mobile/Android/Attachments",
     "Mobile/Android/Tools",
     "Source Code/Manual",
     "Source Code",
     "Thick Client",
-    "Wireless",
     "OSCP/P.canvas"
   ]
 }

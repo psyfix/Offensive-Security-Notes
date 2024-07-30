@@ -94,8 +94,8 @@
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
     "//Config Review",
-    "//Network",
-    "//Network/Network/Internal"
+    "//Network/Network/Internal",
+    "//Source Code"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -124,7 +124,8 @@
     "Web/Attachments",
     "OSINT",
     "Thick Client",
-    "Wireless"
+    "Wireless",
+    "Source Code/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
