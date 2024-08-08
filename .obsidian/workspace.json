@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source Code/Authentication.md",
+                "file": "Purple Team/Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source Code/Authentication.md",
+                "file": "Purple Team/Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source Code/Authentication.md",
+                "file": "Purple Team/Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source Code/Authentication.md"
+                "file": "Purple Team/Methodology.md"
               }
             }
           },
@@ -165,11 +165,11 @@
   },
   "active": "33d55424dad0dc0a",
   "lastOpenFiles": [
+    "Source Code/Authentication.md",
     "Source Code/Attachments/Pasted image 20240731095911.png",
     "Source Code/Attachments/Pasted image 20240731095845.png",
     "Source Code/Attachments",
     "Source Code/SQL Injection.md",
-    "Source Code/Authentication.md",
     "Config Review/Cloud.md",
     "Network/Internal/EDR Evasion.md",
     "Web/Tools.md",
@@ -205,7 +205,6 @@
     "Purple Team",
     "Mobile/Android/Attachments/Pasted image 20240327150043.png",
     "Mobile/Android/Attachments/Pasted image 20240327145808.png",
-    "Mobile/Android/Attachments/Pasted image 20240327144713.png",
     "Mobile/Android/Attachments",
     "Mobile/Android/Tools",
     "Source Code/Manual",
