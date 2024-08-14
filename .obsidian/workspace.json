@@ -11,8 +11,12 @@
             "id": "33d55424dad0dc0a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Commands/Shells.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "harv",
+                "query": "reverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Commands/Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Commands/Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Commands/Shells.md"
+              }
             }
           },
           {
@@ -155,12 +163,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d55424dad0dc0a",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "Offensive-Security-Notes.md",
+    "Spaces",
     "Commands/Shells.md",
     "Commands/Random Tools.md",
     "Purple Team/Methodology.md",
-    "Spaces",
     "Source Code/Authentication.md",
     "Source Code/Attachments/Pasted image 20240731095911.png",
     "Source Code/Attachments/Pasted image 20240731095845.png",
@@ -187,7 +196,6 @@
     "DevSecOps.md",
     "Web/SSRF.md",
     "Web/File Upload.md",
-    "README.md",
     "Attachments/Pasted image 20240503100240.png",
     "Web/Attachments/Pasted image 20231205204847.png",
     "Web/Attachments/Pasted image 20231205205001.png",
