@@ -1,5 +1,3 @@
-# Offensive-Security-Notes
-
 ## Plugins
 
 ### Obsidian Git
