@@ -21,11 +21,9 @@
             "id": "e5391806a43abfa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Networking/Home Lab 1/Network Design.md",
-                "mode": "source",
-                "source": false
+                "path": "Offensive Security/DevSecOps"
               }
             }
           }
@@ -105,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Networking/Home Lab 1/Network Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Networking/Home Lab 1/Network Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Networking/Home Lab 1/Network Design.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,8 +170,9 @@
   },
   "active": "e5391806a43abfa7",
   "lastOpenFiles": [
-    "Networking/Firewalls.md",
+    "Offensive Security/DevSecOps/DevSecOpss.md",
     "Networking/Home Lab 1/Network Design.md",
+    "Networking/Firewalls.md",
     "Networking/Home Lab 1/Home Lab 1.md",
     "Networking/Home Lab 1",
     "README.md",
@@ -190,7 +185,6 @@
     "Offensive Security/DevSecOps/Attachments/Pasted image 20240503100240.png",
     "Offensive Security/DevSecOps/Attachments/Pasted image 20240328133236.png",
     "Offensive Security/DevSecOps/Attachments/Pasted image 20240328122554.png",
-    "Offensive Security/DevSecOps/DevSecOpss.md",
     "Offensive Security/DevSecOps/DevSecOps.md",
     "Offensive Security/DevSecOps",
     "New Note 1.md",

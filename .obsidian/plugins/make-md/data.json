@@ -100,8 +100,10 @@
     "//Attachments",
     "//Attachments/Attachments/DevSecOps",
     "//Attachments",
-    "//Networking",
-    "//Networking/Networking/Home Lab 1"
+    "//Networking/Networking/Home Lab 1",
+    "//Offensive Security",
+    "//Offensive Security/Offensive Security/DevSecOps",
+    "//Offensive Security/Offensive Security/DevSecOps"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
