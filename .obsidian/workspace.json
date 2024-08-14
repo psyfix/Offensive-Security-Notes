@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Networking/Firewalls.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Networking/Firewalls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Networking/Firewalls.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Networking/Firewalls.md"
               }
             }
           },
@@ -176,10 +176,16 @@
   },
   "active": "e5391806a43abfa7",
   "lastOpenFiles": [
+    "Networking/Home Lab 1/Network Design.md",
+    "Networking/Firewalls.md",
+    "Networking/Home Lab 1/Home Lab 1.md",
+    "Networking/Home Lab 1",
     "README.md",
+    "Networking/Networking.md",
+    "Networking",
+    "Canvas.canvas",
     "Offensive Security/Offensive Security.md",
     "Offensive Security",
-    "Canvas.canvas",
     "Offensive Security/Purple Team/New Note.md",
     "Offensive Security/DevSecOps/Attachments/Pasted image 20240503100240.png",
     "Offensive Security/DevSecOps/Attachments/Pasted image 20240328133236.png",
@@ -209,10 +215,6 @@
     "Web/Path Traversal & File Inclusion.md",
     "Offensive Security/Web/Brute Forcing.md",
     "Offensive Security/Web/WAF Byasses.md",
-    "Offensive Security/Network/Services/17001.md",
-    "Offensive Security/Network/Internal/Scanning.md",
-    "Offensive Security/Web/Open Redirects.md",
-    "Offensive Security/Web/Access Controls.md",
     "Offensive Security/Config Review",
     "Offensive Security/Web/Attachments/Pasted image 20231205204847.png",
     "Offensive Security/Web/Attachments/Pasted image 20231205205001.png",
@@ -221,8 +223,6 @@
     "Offensive Security/Mobile/Android/Attachments/Pasted image 20240327150043.png",
     "Offensive Security/Mobile/Android/Attachments/Pasted image 20240327145808.png",
     "Offensive Security/Mobile/Android/Attachments",
-    "Mobile/Android/Tools",
-    "Source Code/Manual",
     "OSCP/P.canvas"
   ]
 }
