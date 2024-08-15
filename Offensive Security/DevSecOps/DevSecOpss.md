@@ -1,5 +1,4 @@
 ![[Pasted image 20240503100240.png]]
-
 ### PLAN
 ###### Risk Assessment
 Carry out risk assessment to identify broader scope of risk to the application. 
