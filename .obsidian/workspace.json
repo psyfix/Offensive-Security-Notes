@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offensive Security/DevSecOps/DevSecOpss.md",
+                "file": "Application Security/Secure Software Development Life Cycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offensive Security/DevSecOps/DevSecOpss.md",
+                "file": "Application Security/Secure Software Development Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offensive Security/DevSecOps/DevSecOpss.md",
+                "file": "Application Security/Secure Software Development Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offensive Security/DevSecOps/DevSecOpss.md"
+                "file": "Application Security/Secure Software Development Life Cycle.md"
               }
             }
           },
@@ -176,10 +176,10 @@
   },
   "active": "e5391806a43abfa7",
   "lastOpenFiles": [
+    "Application Security/Setting Up.md",
+    "Application Security/Secure Software Development Life Cycle.md",
+    "Application Security/Attachments/Pasted image 20240328122554.png",
     "Offensive Security/DevSecOps/Tools.md",
-    "Offensive Security/DevSecOps/DevSecOpss.md",
-    "Offensive Security/DevSecOps/Setting Up.md",
-    "Offensive Security/DevSecOps/Attachments/Pasted image 20240328122554.png",
     "Networking/Home Lab 1/Network Design.md",
     "Networking/Firewalls.md",
     "Networking/Home Lab 1/Home Lab 1.md",
@@ -191,12 +191,12 @@
     "Offensive Security/Offensive Security.md",
     "Offensive Security",
     "Offensive Security/Purple Team/New Note.md",
-    "Offensive Security/DevSecOps/Attachments/Pasted image 20240503100240.png",
-    "Offensive Security/DevSecOps/Attachments/Pasted image 20240328133236.png",
-    "Offensive Security/DevSecOps/DevSecOps.md",
-    "Offensive Security/DevSecOps",
+    "Application Security/Attachments/Pasted image 20240503100240.png",
+    "Application Security/Attachments/Pasted image 20240328133236.png",
+    "Application Security/Application Security.md",
+    "Application Security",
     "New Note 1.md",
-    "Offensive Security/DevSecOps/Attachments/Pasted image 20240328135907.png",
+    "Application Security/Attachments/Pasted image 20240328135907.png",
     "Offensive-Security.md",
     "Offensive Security/Commands/Shells.md",
     "Offensive-Security-Notes.md",
@@ -217,7 +217,7 @@
     "Offensive Security/Config Review",
     "Offensive Security/Web/Attachments/Pasted image 20231205204847.png",
     "Offensive Security/Web/Attachments/Pasted image 20231205205001.png",
-    "Offensive Security/DevSecOps/Attachments",
+    "Application Security/Attachments",
     "Offensive Security/Purple Team",
     "Offensive Security/Mobile/Android/Attachments/Pasted image 20240327150043.png",
     "Offensive Security/Mobile/Android/Attachments/Pasted image 20240327145808.png",

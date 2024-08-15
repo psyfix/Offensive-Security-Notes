@@ -101,10 +101,13 @@
     "//Attachments/Attachments/DevSecOps",
     "//Attachments",
     "//Networking/Networking/Home Lab 1",
-    "//Offensive Security",
     "//Offensive Security/Offensive Security/DevSecOps",
     "//Offensive Security/Offensive Security/DevSecOps",
-    "//Offensive Security/Offensive Security/DevSecOps/Offensive Security/DevSecOps/Attachments"
+    "//Offensive Security/Offensive Security/DevSecOps/Offensive Security/DevSecOps/Attachments",
+    "//Offensive Security/Offensive Security/DevSecOps",
+    "//Application Security",
+    "//Application Security/Application Security/Attachments",
+    "//Application Security/Application Security/Attachments"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -134,13 +137,15 @@
     "Offensive Security/Source Code/Attachments",
     "Offensive Security/Purple Team",
     "Offensive Security/Config Review",
-    "Offensive Security/DevSecOps",
-    "Offensive Security/DevSecOps/Attachments",
     "Network/Internal/Active Directory",
     "Network/Internal/Post Exploitation",
     "DevSecOps/Attachments",
     "Networking",
-    "Networking/Home Lab 1"
+    "Networking/Home Lab 1",
+    "Offensive Security/DevSecOps/Attachments",
+    "Application Security",
+    "Application Security/Attachments",
+    "Offensive Security/Application Security/Attachments"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,

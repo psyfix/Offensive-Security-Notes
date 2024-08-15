@@ -12,7 +12,6 @@ Carry out risk assessment to identify broader scope of risk to the application.
 - Carry out a full review of the design of the application.
 - Identify weaknesses and vulnerabilities in the design.
 	- Covers areas: 
-
 ### CODE
 ###### Secure Coding Practices & Development Training
 - Provide training and teaching about best practices and OWASP Top 10 and ASVS.
@@ -24,14 +23,18 @@ Carry out risk assessment to identify broader scope of risk to the application.
 - Implement IDE plugins that can alert and notify developers during coding about security issues.
 - Tool Examples: Synk, SonarLint
 
-
-
 ### BUILD
+
 ### TEST
+
 ### RELEASE
+
 ### DEPLOY
+
 ### OPERATE
+
 ### MONITOR
+
 
 
 
