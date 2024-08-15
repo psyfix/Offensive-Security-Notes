@@ -14,6 +14,17 @@ Carry out risk assessment to identify broader scope of risk to the application.
 	- Covers areas: 
 
 ### CODE
+###### Secure Coding Practices & Development Training
+- Provide training and teaching about best practices and OWASP Top 10 and ASVS.
+- Conduct secure code reviews.
+###### Secrets Management
+- Implement and ensure that secrets are being managed securely.
+- Make sure developers are not hard coding secrets into code.
+###### IDE Plugins
+- Implement IDE plugins that can alert and notify developers during coding about security issues.
+- Tool Examples: Synk, SonarLint
+
+
 
 ### BUILD
 ### TEST
