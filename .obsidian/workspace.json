@@ -21,9 +21,11 @@
             "id": "e5391806a43abfa7",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Offensive Security/DevSecOps"
+                "file": "Offensive Security/DevSecOps/DevSecOpss.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -103,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Offensive Security/DevSecOps/DevSecOpss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Offensive Security/DevSecOps/DevSecOpss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Offensive Security/DevSecOps/DevSecOpss.md"
+              }
             }
           },
           {
@@ -170,7 +176,10 @@
   },
   "active": "e5391806a43abfa7",
   "lastOpenFiles": [
+    "Offensive Security/DevSecOps/Tools.md",
     "Offensive Security/DevSecOps/DevSecOpss.md",
+    "Offensive Security/DevSecOps/Setting Up.md",
+    "Offensive Security/DevSecOps/Attachments/Pasted image 20240328122554.png",
     "Networking/Home Lab 1/Network Design.md",
     "Networking/Firewalls.md",
     "Networking/Home Lab 1/Home Lab 1.md",
@@ -184,7 +193,6 @@
     "Offensive Security/Purple Team/New Note.md",
     "Offensive Security/DevSecOps/Attachments/Pasted image 20240503100240.png",
     "Offensive Security/DevSecOps/Attachments/Pasted image 20240328133236.png",
-    "Offensive Security/DevSecOps/Attachments/Pasted image 20240328122554.png",
     "Offensive Security/DevSecOps/DevSecOps.md",
     "Offensive Security/DevSecOps",
     "New Note 1.md",
@@ -206,9 +214,6 @@
     "Web/SQLi.md",
     "Offensive Security/Web/Cross-Site Scripting.md",
     "Offensive Security/Web/Command Injection.md",
-    "Web/Path Traversal & File Inclusion.md",
-    "Offensive Security/Web/Brute Forcing.md",
-    "Offensive Security/Web/WAF Byasses.md",
     "Offensive Security/Config Review",
     "Offensive Security/Web/Attachments/Pasted image 20231205204847.png",
     "Offensive Security/Web/Attachments/Pasted image 20231205205001.png",
