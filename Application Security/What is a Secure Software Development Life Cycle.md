@@ -11,7 +11,12 @@ Carry out risk assessment to identify broader scope of risk to the application.
 ###### Security Design Review
 - Carry out a full review of the design of the application.
 - Identify weaknesses and vulnerabilities in the design.
-	- Covers areas: 
+	- CIA: How each identity in the CIA triad is being fufilled.
+	- Data Classification: System-Data Matrix, Applicable Laws, Regulations and Standards.
+	- Solution: Input Validation, Authentication, Authorisation, Configuration Management, Session Management, Cryptography, Auditing and Logging, Patching, Network, Anti-Virus
+	- Security Operations & Governance: System and Data Ownership, Data Retention, Security Review, Security Operations, BCP, DR and Incident Response, Backup and Restore Policy, Account Review
+	- Change Management
+
 ### CODE
 ###### Secure Coding Practices & Development Training
 - Provide training and teaching about best practices and OWASP Top 10 and ASVS.
