@@ -4,7 +4,8 @@ https://www.youtube.com/watch?v=KgddhbgdHEA
 https://www.youtube.com/watch?v=Y2k2R9A6UbQ
 
 sudo curl -L --output /usr/local/bin/gitlab-runner https://gitlab-runner-downloads.s3.amazonaws.com/latest/biniaries/gitlab-runner-linux-amd64
-
+sudo chmod +x /usr/local/bin/gitlab-runner
+sudo useradd --comment 'Gitlab Runner Docker' --create-home gitlab-runner-docker --shell /bin/bash
 ```
 ##### Vulnerable Apps
 These are repositories you can import into GitLab or what ever CI/CD platform to use for testing pipelines.
