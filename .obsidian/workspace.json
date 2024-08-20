@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/DevSecOps/Debugging.md",
+                "file": "Application Security/DevSecOps/Setting Up.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application Security/DevSecOps/Debugging.md",
+                "file": "Application Security/DevSecOps/Setting Up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application Security/DevSecOps/Debugging.md",
+                "file": "Application Security/DevSecOps/Setting Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application Security/DevSecOps/Debugging.md"
+                "file": "Application Security/DevSecOps/Setting Up.md"
               }
             }
           },
@@ -176,9 +176,9 @@
   },
   "active": "e5391806a43abfa7",
   "lastOpenFiles": [
+    "Application Security/DevSecOps/Debugging.md",
     "Application Security/DevSecOps/Setting Up.md",
     "Application Security/DevSecOps/Tools.md",
-    "Application Security/DevSecOps/Debugging.md",
     "Application Security/DevSecOps/DevSecOps.md",
     "Application Security/DevSecOps",
     "Application Security/New Note.md",
