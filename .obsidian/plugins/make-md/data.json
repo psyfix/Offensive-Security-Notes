@@ -111,8 +111,6 @@
   "cachedSpaces": [
     "spaces://$tags",
     "/",
-    "Application Security",
-    "Application Security/Attachments",
     "Networking",
     "Networking/Home Lab 1",
     "Offensive Security",
@@ -131,7 +129,6 @@
     "Offensive Security/Network/Services",
     "Offensive Security/OSCP",
     "Offensive Security/OSCP/Wireless",
-    "Offensive Security/OSINT",
     "Offensive Security/Purple Team",
     "Offensive Security/Source Code",
     "Offensive Security/Source Code/Attachments",
@@ -139,6 +136,9 @@
     "Offensive Security/Web",
     "Offensive Security/Web/Attachments",
     "Offensive Security/Wireless",
+    "Offensive Security/OSINT",
+    "Application Security",
+    "Application Security/Attachments",
     "Spaces"
   ],
   "menuTriggerChar": "/",
