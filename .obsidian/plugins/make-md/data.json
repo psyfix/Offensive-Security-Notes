@@ -105,7 +105,8 @@
     "//Offensive Security/Offensive Security/DevSecOps",
     "//Offensive Security/Offensive Security/DevSecOps/Offensive Security/DevSecOps/Attachments",
     "//Offensive Security/Offensive Security/DevSecOps",
-    "//Application Security"
+    "//Application Security",
+    "//Application Security/Application Security/DevSecOps"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -139,7 +140,8 @@
     "Offensive Security/OSINT",
     "Application Security",
     "Application Security/Attachments",
-    "Spaces"
+    "Spaces",
+    "Application Security/DevSecOps"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -188,7 +190,8 @@
     "Attachments/DevSecOps",
     "Offensive Security",
     "Networking",
-    "Networking/Home Lab 1"
+    "Networking/Home Lab 1",
+    "Application Security/DevSecOps"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",

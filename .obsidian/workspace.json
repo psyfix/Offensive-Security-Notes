@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/DevSecOps Tools.md",
+                "file": "Application Security/DevSecOps/Debugging.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Application Security/DevSecOps Tools.md",
+                "file": "Application Security/DevSecOps/Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Application Security/DevSecOps Tools.md",
+                "file": "Application Security/DevSecOps/Debugging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application Security/DevSecOps Tools.md"
+                "file": "Application Security/DevSecOps/Debugging.md"
               }
             }
           },
@@ -174,13 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5391806a43abfa7",
+  "active": "e90e3be45903ba27",
   "lastOpenFiles": [
+    "Application Security/DevSecOps/Tools.md",
+    "Application Security/DevSecOps/DevSecOps.md",
+    "Application Security/DevSecOps",
     "Application Security/New Note.md",
-    "Application Security/DevSecOps Tools.md",
     "Application Security/What is a Secure Software Development Life Cycle.md",
-    "Application Security/Setting Up.md",
-    "Application Security/Debugging.md",
+    "Application Security/DevSecOps/Setting Up.md",
+    "Application Security/DevSecOps/Debugging.md",
     "Spaces",
     "Application Security/Attachments/Pasted image 20240815152820.png",
     "Application Security/Attachments/Pasted image 20240328122554.png",
@@ -215,14 +217,12 @@
     "Offensive Security/Config Review/Cloud.md",
     "Offensive Security/Network/Internal/EDR Evasion.md",
     "Offensive Security/Web/Tools.md",
-    "Web/SQLi.md",
     "Offensive Security/Config Review",
     "Offensive Security/Web/Attachments/Pasted image 20231205204847.png",
     "Offensive Security/Web/Attachments/Pasted image 20231205205001.png",
     "Application Security/Attachments",
     "Offensive Security/Purple Team",
     "Offensive Security/Mobile/Android/Attachments/Pasted image 20240327150043.png",
-    "Offensive Security/Mobile/Android/Attachments",
     "OSCP/P.canvas"
   ]
 }
