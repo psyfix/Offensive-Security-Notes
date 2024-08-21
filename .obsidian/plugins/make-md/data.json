@@ -105,7 +105,8 @@
     "//Offensive Security/Offensive Security/DevSecOps",
     "//Offensive Security/Offensive Security/DevSecOps/Offensive Security/DevSecOps/Attachments",
     "//Offensive Security/Offensive Security/DevSecOps",
-    "//Application Security"
+    "//Application Security",
+    "//Application Security/Application Security/DevSecOps"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

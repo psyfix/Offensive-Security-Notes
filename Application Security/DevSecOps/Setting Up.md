@@ -11,6 +11,10 @@ docker run -d --name gitlab-runner --dns 8.8.8.8 --restart always -v /var/run/do
 
 #Register Runner
 docker run --rm -it -v gitlab-runner-config:/etc/gitlab-runner gitlab/gitlab-runner:latest register
+
+#Errors
+Try check DNS configuration
+Try check the docker config.toml file "volumes = ["/var/run/docker.sock:/var/run/docker.sock", "/cache"]"
 ```
 ##### Vulnerable Apps
 These are repositories you can import into GitLab or what ever CI/CD platform to use for testing pipelines.
