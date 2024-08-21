@@ -11,6 +11,7 @@ sudo gitlab-runner install --user=gitlab-runner --working-directory=/home/gitlab
 
 
 docker volume create gitlab-runner-config
+docker run -d --name gitlab-runner --restart always -v /var/run/docker.sock:/var/run/docker.sock -v gitlab-runner-config:/etc/gitlab-runner gitlab/gitlab-runner:latest
 ```
 ##### Vulnerable Apps
 These are repositories you can import into GitLab or what ever CI/CD platform to use for testing pipelines.
