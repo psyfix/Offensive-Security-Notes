@@ -5,4 +5,4 @@
 ```
 ### Detect
 
-### Analyze
+### Analyse
