@@ -14,7 +14,9 @@
               "type": "mk-space",
               "state": {
                 "path": "Offensive Security/OSCP"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -26,7 +28,9 @@
                 "file": "Application Security/DevSecOps/Setting Up.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Setting Up"
             }
           }
         ],
@@ -49,8 +53,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -65,7 +72,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -73,7 +82,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -81,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ],
@@ -113,7 +126,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Setting Up"
             }
           },
           {
@@ -125,7 +140,9 @@
                 "file": "Application Security/DevSecOps/Setting Up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Setting Up"
             }
           },
           {
@@ -135,8 +152,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -145,8 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application Security/DevSecOps/Setting Up.md"
-              }
+                "file": "Application Security/DevSecOps/Setting Up.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Setting Up"
             }
           },
           {
@@ -154,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -176,6 +204,7 @@
   },
   "active": "e5391806a43abfa7",
   "lastOpenFiles": [
+    "Spaces",
     "Application Security/DevSecOps/Tools.md",
     "Application Security/Containerization.md",
     "Application Security/DevSecOps/Setting Up.md",
@@ -183,7 +212,6 @@
     "Application Security/DevSecOps/DevSecOps.md",
     "Application Security/DevSecOps",
     "Application Security/What is a Secure Software Development Life Cycle.md",
-    "Spaces",
     "Application Security/Attachments/Pasted image 20240815152820.png",
     "Application Security/Attachments/Pasted image 20240328122554.png",
     "Offensive Security/DevSecOps/Tools.md",
@@ -216,7 +244,6 @@
     "Offensive Security/Source Code/SQL Injection.md",
     "Offensive Security/Config Review/Cloud.md",
     "Offensive Security/Network/Internal/EDR Evasion.md",
-    "Offensive Security/Web/Tools.md",
     "Offensive Security/Config Review",
     "Offensive Security/Web/Attachments/Pasted image 20231205204847.png",
     "Offensive Security/Web/Attachments/Pasted image 20231205205001.png",
