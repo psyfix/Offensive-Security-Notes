@@ -23,14 +23,32 @@ Phishing Email Ideas
 Microsoft Related
 - Onedrive new file shared.
 - User signed in as you from another location.
+
+
+```
+
+Attack Techniques
+```
+Email & Domain Spoofing
+- Homograph Attack (https://www.irongeek.com/homoglyph-attack-generator.php)
+- Generates similiar looking domains. (https://dnstwist.it/)
+
+URL Manipulation
+- URL Shortening Subdomain Spoofing.
+- Subdomain Spoofing. (https://dnstwist.it/)
+- Homograph Attacks. (https://www.irongeek.com/homoglyph-attack-generator.php)
+- Typosquatting.
+
 QR Code Generation
 - https://www.qrcode-generator.de/
-- Generate a QR code for your phishing website.
 
-Email & Domain Spoofing
-- Homograph Attack - Replacing characters with similar looking characters such as latin or cyrillic. Obsfucating the domain. https://www.irongeek.com/homoglyph-attack-generator.php
-- Generates similiar looking domains. https://dnstwist.it/
-- 
+Encoding
+- Encoding content within emails that still renders in the HTML.
+- Base64 Encoding, URL Encoding, HTML Encoding 
+- Obscure JavaScript
 
+Abusing Legitimate Sources
+- Google Drive, Dropbox etc to host content.
+- Using trusted reputations to send malware.
 
 ```
