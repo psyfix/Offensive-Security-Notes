@@ -91,3 +91,11 @@ Exfiltration
 ##### Contextual Examination
 - Look for patterns in activity across the organisation.
 - Is there a bigger threat going on here?
+
+### Defence Measures
+- Take reactive actions
+- Take proactive actions
+- Communicate with users and stakeholders.
+
+### Documentation and Reporting
+- Maintain documentation the whole time this methodology is done.
