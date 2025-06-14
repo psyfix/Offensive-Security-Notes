@@ -11,4 +11,7 @@ Information Gathering
 	- collects information via http request: ip, location, device type, email client type, operating system.
 - Can paste information from HTTP request into https://explore.whatismybrowser.com/useragents/parse/ then you get clear info on email client and browser etc.
 
+Credential Harvesting
+- 
+
 ```
