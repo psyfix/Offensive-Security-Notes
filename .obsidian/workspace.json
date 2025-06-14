@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensive Security/New Note.md",
+                "file": "Defensive Security/Phishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Note"
+              "title": "Phishing"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "33d55424dad0dc0a",
   "lastOpenFiles": [
+    "Defensive Security/Phishing.md",
     "Defensive Security/New Note.md",
     "Spaces/Spaces.md",
     "Defensive Security/Defensive Security.md",
@@ -232,7 +233,6 @@
     "Offensive Security/Source Code/Attachments/Pasted image 20240731095911.png",
     "Offensive Security/Source Code/Attachments/Pasted image 20240731095845.png",
     "Offensive Security/Source Code/Attachments",
-    "Offensive Security/Source Code/SQL Injection.md",
     "Offensive Security/Config Review",
     "Offensive Security/Web/Attachments/Pasted image 20231205204847.png",
     "Offensive Security/Web/Attachments/Pasted image 20231205205001.png",
