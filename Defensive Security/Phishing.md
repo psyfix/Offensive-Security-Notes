@@ -76,19 +76,18 @@ Exfiltration
 ```
 
 ### Phishing Analysis Methodology
-
-```
-Initial Triage
+##### Initial Triage
 - Quickly assess and prioritise 
 - Who was the email delivered too? (Standard users, Execs, IT, Finance, HR)
-- 
-
-Header and Sender Examintation
-- Investigate MTAs, addresses, ips, etc.
+##### Header and Sender Examination
+- Investigate MTAs, addresses, IPs, etc.
 - Identify the true origin and check authenticity. (Reverse DNS, check domain ownership)
-
-Content Examintation
+##### Content Examination
 - Analyse the email content for language, formatting, etc.
 - Social engineering red flags.
+##### Web and URL Examination
+##### Attachment Examination
 
-```
+##### Contextual Examination
+- Look for patterns in activity across the organisation.
+- Is there a bigger threat going on here?
