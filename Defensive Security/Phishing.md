@@ -15,4 +15,14 @@ Credential Harvesting
 - Obtain credentials from victims.
 - Relay entered passwords and MFA codes 
 
+Malware Delivery
+- Malicious attachments or links (to download).
+
+Phishing Email Ideas
+Microsoft Related
+- Onedrive new file shared.
+- User signed in as you from another location.
+
+
+
 ```
