@@ -12,6 +12,7 @@ Information Gathering
 - Can paste information from HTTP request into https://explore.whatismybrowser.com/useragents/parse/ then you get clear info on email client and browser etc.
 
 Credential Harvesting
-- 
+- Obtain credentials from victims.
+- Relay entered passwords and MFA codes 
 
 ```
