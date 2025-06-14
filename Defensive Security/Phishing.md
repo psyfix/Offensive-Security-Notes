@@ -48,7 +48,47 @@ Encoding
 - Obscure JavaScript
 
 Abusing Legitimate Sources
-- Google Drive, Dropbox etc to host content.
+- Google Drive, Dropbox etc to host content. - trusted certificate then no flag by detection rules.
 - Using trusted reputations to send malware.
+
+```
+
+### Phishing Attack Methodology
+Reconnaissance 
+```
+Passive
+Gather information on target.
+Active
+- Send a test email to verify the recipient exists and email is delivered.
+- Use a tracking pixel to gather information about the target.
+```
+
+Execution
+```
+Develop a phishing email.
+- Use attack techniques such as domain and email spoofing, encoding and abusing legitimate sources.
+
+```
+
+Exfiltration
+```
+
+```
+
+### Phishing Analysis Methodology
+
+```
+Initial Triage
+- Quickly assess and prioritise 
+- Who was the email delivered too? (Standard users, Execs, IT, Finance, HR)
+- 
+
+Header and Sender Examintation
+- Investigate MTAs, addresses, ips, etc.
+- Identify the true origin and check authenticity. (Reverse DNS, check domain ownership)
+
+Content Examintation
+- Analyse the email content for language, formatting, etc.
+- Social engineering red flags.
 
 ```
