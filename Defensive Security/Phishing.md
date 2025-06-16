@@ -103,11 +103,14 @@ DKIM-Signature: Contains the signed signature from the domain that was verified.
 
 Reverse the IP address.
 - Document information about the sender.
-```
-whois xxx
-iplookup
+- whois
+- iplookup
 
-```
+Verify the Domain or IP Address.
+- Is it malicious or unknown?
+
+Verify the authentication checks.
+- Analyse the authentication-check header. Did it pass a SPF and DKIM check?
 
 ##### Content Examination
 - Analyse the email content for language, formatting, etc.
