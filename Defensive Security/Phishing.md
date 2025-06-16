@@ -82,6 +82,21 @@ Exfiltration
 ##### Header and Sender Examination
 - Investigate MTAs, addresses, IPs, etc.
 - Identify the true origin and check authenticity. (Reverse DNS, check domain ownership)
+
+```
+
+Reply-To: This header is often different to the from address because often an attacker does not have control over the from address as its spoofed.
+
+Return-Path: This is where the bounceback mail should go too.
+
+Message-ID: This ID is given by the first MTA that handles the message. Often an indicator of the original attackers domain it was sent from.
+
+X-Sender-IP: The IP address of the device or server the mail came from.
+X-Originating-IP: The IP address of the device or server the mail came from.
+
+Received: A received chain that is useful for tracking the route the message took before being delivered. In reversed chronological order. The first header is the closest to the recipient.
+
+```
 ##### Content Examination
 - Analyse the email content for language, formatting, etc.
 - Social engineering red flags.
