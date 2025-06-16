@@ -84,6 +84,7 @@ Exfiltration
 - Identify the true origin and check authenticity. (Reverse DNS, check domain ownership)
 ###### Identify the origin IP address
 - Examine the email source.
+- https://mha.azurewebsites.net/ - This will format the source and headers nicely to read.
 ```
 Reply-To: This header is often different to the from address because often an attacker does not have control over the from address as its spoofed.
 
@@ -97,7 +98,13 @@ X-Originating-IP: The IP address of the device or server the mail came from.
 Received: A received chain that is useful for tracking the route the message took before being delivered. In reversed chronological order. The first header is the closest to the recipient.
 ```
 
-Reverse the IP
+Reverse the IP address.
+- Document information about the sender.
+```
+whois xxx
+iplookup
+
+```
 
 ##### Content Examination
 - Analyse the email content for language, formatting, etc.
