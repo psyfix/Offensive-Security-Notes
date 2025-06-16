@@ -120,6 +120,9 @@ Verify the authentication checks.
 - Use Cyber Chef to decode
 - Use cyber chef to extract urls and then also defang them.
 - Bonus: https://github.com/MalwareCube/Email-IOC-Extractor this tool extracts important data and auto defangs it for emails.
+- Verify URLs: 
+	- Virustotal - checks blacklist
+	- URL2PNG - shows photo of the url like eyewitness.
 ##### Attachment Examination
 
 ##### Contextual Examination
