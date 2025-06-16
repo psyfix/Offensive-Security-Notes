@@ -51,6 +51,9 @@ Abusing Legitimate Sources
 - Google Drive, Dropbox etc to host content. - trusted certificate then no flag by detection rules.
 - Using trusted reputations to send malware.
 
+Bypassing SPF
+- Register a look a like domain with your own SPF record.
+
 ```
 
 ### Phishing Attack Methodology
@@ -94,6 +97,8 @@ X-Sender-IP: The IP address of the device or server the mail came from.
 X-Originating-IP: The IP address of the device or server the mail came from.
 
 Received: A received chain that is useful for tracking the route the message took before being delivered. In reversed chronological order. The first header is the closest to the recipient.
+
+DKIM-Signature: Contains the signed signature from the domain that was verified.
 ```
 
 Reverse the IP address.
