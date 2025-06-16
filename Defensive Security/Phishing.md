@@ -80,11 +80,9 @@ Exfiltration
 - Quickly assess and prioritise 
 - Who was the email delivered too? (Standard users, Execs, IT, Finance, HR)
 ##### Header and Sender Examination
-- Investigate MTAs, addresses, IPs, etc.
-- Identify the true origin and check authenticity. (Reverse DNS, check domain ownership)
-###### Identify the origin IP address
+###### Identify the origin IP address (Reverse DNS, check domain ownership)
 - Examine the email source.
-- https://mha.azurewebsites.net/ - This will format the source and headers nicely to read.
+- https://mha.azurewebsites.net/ - This will format the source and headers nicely to read. (Can be downloaded and run locally)
 ```
 Reply-To: This header is often different to the from address because often an attacker does not have control over the from address as its spoofed.
 
