@@ -44,14 +44,14 @@ QR Code Generation
 
 Encoding
 - Encoding content within emails that still renders in the HTML.
-- Base64 Encoding, URL Encoding, HTML Encoding 
+- Base64 Encoding, URL Encoding, HTML Entity Encoding 
 - Obscure JavaScript
 
 Abusing Legitimate Sources
 - Google Drive, Dropbox etc to host content. - trusted certificate then no flag by detection rules.
 - Using trusted reputations to send malware.
 
-Bypassing SPF
+Bypassing SPF, DMARC, DKIM
 - Register a look a like domain with your own SPF record.
 
 ```
