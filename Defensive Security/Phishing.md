@@ -170,4 +170,9 @@ Verify the authentication checks.
 	- Block recently registered domains.
 	- File extension blocks / allowlist.
 - Mark External emails with a warning.
-- 
+###### Email Authentication
+- Configure SPF
+- Configure DKIM & DMARC.
+###### Security Awareness
+- Regular awareness videos.
+- Monthly phishing simulations.
