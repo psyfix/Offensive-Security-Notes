@@ -127,9 +127,12 @@ Verify the authentication checks.
 	- urlvoid
 	- wannabrowser - grabs the actual response of the url/page
 ##### Attachment Examination
-- Get the file hash and compare to databases:
-	- Virustotal
-	- 
+- Static Analysis
+	- Get the file hash and compare to databases: Virustotal
+	- Use a tool such as OLE dump to dump the contents of macro embedded files and search for malicious indicators.
+- Perform malware analysis in a sandbox environment.
+	- There is free tools such as HYBRID ANALYSIS. https://www.hybrid-analysis.com/
+
 
 ##### Contextual Examination
 - Look for patterns in activity across the organisation.
