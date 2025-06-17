@@ -153,7 +153,7 @@ Verify the authentication checks.
 - Look for patterns in activity across the organisation.
 - Is there a bigger threat going on here?
 
-#### Defence Measures
+### Phishing Defence Measures
 ##### Reactive Defence
 - Change Credentials & Reset Sessions.
 - Restore and reset affected systems.
@@ -176,3 +176,38 @@ Verify the authentication checks.
 ###### Security Awareness
 - Regular awareness videos.
 - Monthly phishing simulations.
+
+### Documentation and Reporting
+
+```
+Phishing Analysis Report Template 
+Headers ====================================== 
+Date: 
+Subject: 
+
+To: From: 
+
+Reply-To: 
+Return-Path: 
+
+Sender IP: 
+Resolve Host: 
+
+Message-ID: 
+
+URLs 
+======================================= 
+
+
+
+Attachments 
+====================================== 
+
+Attachment Name: 
+MD5: 
+SHA1: 
+SHA256: 
+
+Description 
+====================================== Artifact Analysis ====================================== Sender Analysis: URL Analysis: Attachment Analysis: Verdict ====================================== Defense Actions ======================================
+```
