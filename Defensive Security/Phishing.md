@@ -127,6 +127,7 @@ Verify the authentication checks.
 	- urlvoid
 	- wannabrowser - grabs the actual response of the url/page
 ##### Attachment Examination
+- 
 
 ##### Contextual Examination
 - Look for patterns in activity across the organisation.

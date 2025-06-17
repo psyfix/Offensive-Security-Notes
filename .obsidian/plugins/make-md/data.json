@@ -137,7 +137,14 @@
     "Offensive Security/Source Code",
     "Offensive Security/Source Code/Attachments",
     "Offensive Security/OSINT",
-    "Offensive Security/Web"
+    "Offensive Security/Web",
+    "Offensive Security/Web/Attachments",
+    "Offensive Security/Thick Client",
+    "Offensive Security/Wireless",
+    "Spaces",
+    "Application Security",
+    "Application Security/Attachments",
+    "Application Security/DevSecOps"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
