@@ -129,7 +129,14 @@ Verify the authentication checks.
 ##### Attachment Examination
 - Static Analysis
 	- Get the file hash and compare to databases: Virustotal
-	- Use a tool such as OLE dump to dump the contents of macro embedded files and search for malicious indicators.
+- OLE File Analysis
+	- Use a tool such as OLE dump to dump the contents of macro embedded files and search for malicious indicators. (https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py)
+		- oledump.py <file/>
+		- oledump.py <file/> -s <source/>
+		- oledump.py <file/> -s <source/> -S
+		- oledump.py <file/> -s <source/> --vbadecompresscorrupt
+- PDF File Analysis (https://github.com/DidierStevens/DidierStevensSuite/blob/master/pdf-parser.py)
+	- 
 - Perform malware analysis in a sandbox environment.
 	- There is free tools such as HYBRID ANALYSIS. https://www.hybrid-analysis.com/
 
