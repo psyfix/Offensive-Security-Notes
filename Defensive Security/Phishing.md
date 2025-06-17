@@ -88,6 +88,8 @@ Exfiltration
 - Check logs (M365, GCP etc.)
 - Quarantine all related emails.
 - Block sender artifacts - block senders, malicious domains, ip addresses.
+- Change Credentials & Reset Sessions.
+- Restore and reset affected systems.
 ##### Header and Sender Examination
 ###### Identify the origin IP address (Reverse DNS, check domain ownership)
 - Examine the email source.
@@ -152,14 +154,20 @@ Verify the authentication checks.
 - Is there a bigger threat going on here?
 
 #### Defence Measures
-- Take reactive actions
-- Take proactive actions
-- Communicate with users and stakeholders.
-
-#### Documentation and Reporting
-- Maintain documentation the whole time this methodology is done.
-
-### Reactive Defense
+##### Reactive Defence
+- Change Credentials & Reset Sessions.
+- Restore and reset affected systems.
 - Quarantine all related emails.
-- Block sender artifacts - block senders, malicious domains, ip addresses.
+- Create mail flow rules to block.
+	-  Block sender artifacts - block senders, malicious domains, ip addresses.
+	-  Block web related artifacts.
+##### Proactive Defence
+###### Email Filtering
+- Email security applications that filter on the email gateway level.
+	- Custom rulesets and mail flow rules.
+	- Deploy additional blacklists.
+	- Scan attachments and links in real time.
+	- Block recently registered domains.
+	- File extension blocks / allowlist.
+- Mark External emails with a warning.
 - 
