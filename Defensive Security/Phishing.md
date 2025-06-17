@@ -240,3 +240,8 @@ Defense Actions
 
 
 ```
+
+### Resources
+- Phishing Pot - collection of real emails to practice on.
+- PhishTank 
+- Malware Bazaar. - search for PDFS then can do PDF extraction and inspection.
