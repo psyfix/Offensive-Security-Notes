@@ -79,9 +79,15 @@ Exfiltration
 ```
 
 ### Phishing Analysis Methodology
-##### Initial Triage
+##### Automated Analysis
+- [https://www.phishtool.com/](https://www.phishtool.com/)
+##### Initial Triage & Containment
 - Quickly assess and prioritise 
 - Who was the email delivered too? (Standard users, Execs, IT, Finance, HR)
+- Determine Scope
+- Check logs (M365, GCP etc.)
+- Quarantine all related emails.
+- Block sender artifacts - block senders, malicious domains, ip addresses.
 ##### Header and Sender Examination
 ###### Identify the origin IP address (Reverse DNS, check domain ownership)
 - Examine the email source.
@@ -145,10 +151,15 @@ Verify the authentication checks.
 - Look for patterns in activity across the organisation.
 - Is there a bigger threat going on here?
 
-### Defence Measures
+#### Defence Measures
 - Take reactive actions
 - Take proactive actions
 - Communicate with users and stakeholders.
 
-### Documentation and Reporting
+#### Documentation and Reporting
 - Maintain documentation the whole time this methodology is done.
+
+### Reactive Defense
+- Quarantine all related emails.
+- Block sender artifacts - block senders, malicious domains, ip addresses.
+- 

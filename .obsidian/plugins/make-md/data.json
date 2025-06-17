@@ -138,7 +138,13 @@
     "Offensive Security/OSINT",
     "Offensive Security/Web",
     "Offensive Security/Web/Attachments",
-    "Offensive Security/Purple Team"
+    "Offensive Security/Purple Team",
+    "Offensive Security/Source Code",
+    "Offensive Security/Source Code/Attachments",
+    "Offensive Security/Thick Client",
+    "Offensive Security/Wireless",
+    "Defensive Security",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
