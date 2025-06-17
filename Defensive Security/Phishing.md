@@ -127,7 +127,9 @@ Verify the authentication checks.
 	- urlvoid
 	- wannabrowser - grabs the actual response of the url/page
 ##### Attachment Examination
-- 
+- Get the file hash and compare to databases:
+	- Virustotal
+	- 
 
 ##### Contextual Examination
 - Look for patterns in activity across the organisation.
