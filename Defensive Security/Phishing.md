@@ -176,12 +176,12 @@ Verify the authentication checks.
 ###### Security Awareness
 - Regular awareness videos.
 - Monthly phishing simulations.
-
 ### Documentation and Reporting
-
 ```
 Phishing Analysis Report Template 
-Headers ====================================== 
+
+Headers 
+====================================== 
 Date: 
 Subject: 
 
@@ -208,6 +208,35 @@ MD5:
 SHA1: 
 SHA256: 
 
+
 Description 
-====================================== Artifact Analysis ====================================== Sender Analysis: URL Analysis: Attachment Analysis: Verdict ====================================== Defense Actions ======================================
+====================================== 
+
+
+
+Artifact Analysis 
+====================================== 
+Sender Analysis: 
+
+
+
+URL Analysis: 
+
+
+
+Attachment Analysis: 
+
+
+
+Verdict 
+====================================== 
+
+
+
+
+Defense Actions 
+======================================
+
+
+
 ```
