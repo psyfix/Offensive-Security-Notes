@@ -34,3 +34,12 @@ tasklist
 - lists processes.
 - tasklist /FI "PID eq <PID/>" - can filter by a specific column value.
 - tasklist /FI "PID eq <PID/>" /M - can filter by a specific processes DLLs.
+
+wmic
+- Strong for querying information about a specific process id.
+- wmic process where processid=<PID/> get name, parentprocessid, processid
+- wmic process where processid=<PID/> get commandline
+
+processmonitor
+
+processexplorer
