@@ -29,3 +29,8 @@ TCPView
 
 
 Process Analysis
+
+tasklist
+- lists processes.
+- tasklist /FI "PID eq <PID/>" - can filter by a specific column value.
+- tasklist /FI "PID eq <PID/>" /M - can filter by a specific processes DLLs.
