@@ -43,3 +43,17 @@ wmic
 processmonitor
 
 processexplorer
+- taskmanager on steroids. sysinternals tool.
+- pink = services
+- can show DLLs, parent process tree
+- can create a memory dump of a process for further analysis.
+- can see network connections of proccesses.
+
+Windows Core Processes
+System
+- PID 4
+- Image Path: None
+- Parent Process: None
+
+SMSS.exe
+- 
