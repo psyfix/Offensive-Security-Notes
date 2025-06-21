@@ -56,4 +56,5 @@ System
 - Parent Process: None
 
 SMSS.exe
-- 
+- Parent Process: System (4)
+- Image Path: SystemRoot/System32/smss.exe
