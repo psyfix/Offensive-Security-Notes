@@ -84,5 +84,10 @@ lsass.exe
 | **5. Registry Modification** | **13 / 14**        | Shows changes to the registry. Key for catching **persistence mechanisms** like `Run` keys, services, or `AppInit_DLLs`.                                                       |
 | **6. Named Pipe Activity**   | **17 / 18**        | Indicates inter-process communication via named pipes. Useful for detecting **lateral movement tools** like Cobalt Strike or **malware staging frameworks**.                   |
 | 7. WMI Activity              | **19 / 20 / 21**   | Logs creation and use of WMI filters, consumers, and bindings. Used in stealthy **persistence**, **recon**, and **remote execution** by adversaries.                           |
+### Registry Analysis
+
+
 ##### Cheat Sheets
 https://www.sans.org/posters/hunt-evil/
+
+
