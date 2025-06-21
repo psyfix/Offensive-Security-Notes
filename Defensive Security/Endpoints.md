@@ -4,4 +4,10 @@ Endpoint Security Monitoring
 	- Executable files, PIDs, command-line
 	- Parent-child process hierarchy
 - File System Changes
-	- creation, modification, deletion
+	- creation, modification, deletion.
+	- File integrity monitoring
+- Network Connections
+	- Traffic and connections initiated from the endpoint.
+	- Associated processes and executables.
+- Registry Modifications
+	- Monitor registry keys and values
