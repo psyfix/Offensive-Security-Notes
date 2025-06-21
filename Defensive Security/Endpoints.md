@@ -60,4 +60,9 @@ SMSS.exe
 - Image Path: SystemRoot/System32/smss.exe
 
 csrss.exe
+lsass.exe
 
+svchost.exe
+- Parent Process: services.exe
+- Image Path: SystemRoot/System32/svchost.exe
+- Command line always runs with -k parameter.
