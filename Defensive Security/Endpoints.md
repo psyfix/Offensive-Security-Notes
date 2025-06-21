@@ -75,12 +75,12 @@ lsass.exe
 
 ### 🧩 **Sysmon Event IDs for Process Triage – with Commentary**
 
-|Triage Step|Sysmon Event ID(s)|Why It Matters|
-|---|---|---|
-|**1. Process Creation**|**1**|This is your starting point for almost everything. Logs the full image path, command-line args, hashes (MD5, SHA256), parent process, user, and signature status. It tells you _what ran_, _how it ran_, and _who ran it_.|
-|**2. Network Connections**|**3**|Captures outbound TCP connections made by a process. Lets you see potential **C2 traffic**, lateral movement, or data exfiltration. Look for uncommon ports or strange IPs.|
-|**3. File Activity**|**11**|Tells you if the process created or modified files. You’ll see paths of dropped payloads or scripts — great for spotting **stage 2 payloads or malware unpacking**.|
-|**4. DLL Loading**|**7**|Logs all image (DLL) loads. Good for detecting **unsigned or odd DLLs**, **DLL sideloading**, or **living-off-the-land abuse**.|
-|**5. Registry Modification**|**13 / 14**|Shows changes to the registry. Key for catching **persistence mechanisms** like `Run` keys, services, or `AppInit_DLLs`.|
-|**6. Named Pipe Activity**|**17 / 18**|Indicates inter-process communication via named pipes. Useful for detecting **lateral movement tools** like Cobalt Strike or **malware staging frameworks**.|
-|**7. WMI Activity**|**19 / 20 / 21**|Logs creation and use of WMI filters, consumers, and bindings. Used in stealthy **persistence**, **recon**, and **remote execution** by adversaries.|
+| Triage Step                  | Sysmon Event ID(s) | Why It Matters                                                                                                                                                                                                             |
+| ---------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Process Creation**      | **1**              | This is your starting point for almost everything. Logs the full image path, command-line args, hashes (MD5, SHA256), parent process, user, and signature status. It tells you _what ran_, _how it ran_, and _who ran it_. |
+| **2. Network Connections**   | **3**              | Captures outbound TCP connections made by a process. Lets you see potential **C2 traffic**, lateral movement, or data exfiltration. Look for uncommon ports or strange IPs.                                                |
+| **3. File Activity**         | **11**             | Tells you if the process created or modified files. You’ll see paths of dropped payloads or scripts — great for spotting **stage 2 payloads or malware unpacking**.                                                        |
+| **4. DLL Loading**           | **7**              | Logs all image (DLL) loads. Good for detecting **unsigned or odd DLLs**, **DLL sideloading**, or **living-off-the-land abuse**.                                                                                            |
+| **5. Registry Modification** | **13 / 14**        | Shows changes to the registry. Key for catching **persistence mechanisms** like `Run` keys, services, or `AppInit_DLLs`.                                                                                                   |
+| **6. Named Pipe Activity**   | **17 / 18**        | Indicates inter-process communication via named pipes. Useful for detecting **lateral movement tools** like Cobalt Strike or **malware staging frameworks**.                                                               |
+| **7. WMI Activity**          | **19 / 20 / 21**   | Logs creation and use of WMI filters, consumers, and bindings. Used in stealthy **persistence**, **recon**, and **remote execution** by adversaries.                                                                       |
