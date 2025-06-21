@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Defensive Security/Phishing.md",
+                "file": "Defensive Security/Endpoints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phishing"
+              "title": "Endpoints"
             }
           }
         ]
@@ -241,10 +241,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d55424dad0dc0a",
+  "active": "4432fd6c7527b93f",
   "lastOpenFiles": [
     "Defensive Security/Phishing.md",
-    "Defensive Security/New Note.md",
+    "Defensive Security/Endpoints.md",
     "Spaces/Spaces.md",
     "Defensive Security/Defensive Security.md",
     "Defensive Security",
