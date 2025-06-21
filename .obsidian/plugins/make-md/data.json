@@ -116,11 +116,9 @@
   "cachedSpaces": [
     "spaces://$tags",
     "/",
-    "Application Security",
-    "Application Security/Attachments",
-    "Application Security/DevSecOps",
     "Offensive Security",
     "Offensive Security/Commands",
+    "Offensive Security/Config Review",
     "Offensive Security/Mobile",
     "Offensive Security/Mobile/Android",
     "Offensive Security/Mobile/Android/Attachments",
@@ -132,19 +130,15 @@
     "Offensive Security/Network/Internal/Post Exploitation",
     "Offensive Security/Network/Internal/Post Exploitation/Attachments",
     "Offensive Security/Network/Services",
-    "Offensive Security/Config Review",
+    "Offensive Security/OSINT",
     "Offensive Security/OSCP",
     "Offensive Security/OSCP/Wireless",
-    "Offensive Security/OSINT",
-    "Offensive Security/Web",
-    "Offensive Security/Web/Attachments",
-    "Offensive Security/Purple Team",
     "Offensive Security/Source Code",
     "Offensive Security/Source Code/Attachments",
-    "Offensive Security/Thick Client",
+    "Offensive Security/Purple Team",
     "Offensive Security/Wireless",
-    "Defensive Security",
-    "Spaces"
+    "Offensive Security/Thick Client",
+    "Offensive Security/Web"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -212,5 +206,4 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": true,
-  "releaseNotesPrompt": 0.804
-}
+ 
