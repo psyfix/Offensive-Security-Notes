@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Defensive Security/Malware.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -241,7 +241,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4432fd6c7527b93f",
+  "active": "33d55424dad0dc0a",
   "lastOpenFiles": [
     "Defensive Security/Malware.md",
     "Defensive Security/Phishing.md",
