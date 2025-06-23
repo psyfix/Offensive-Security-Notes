@@ -14,7 +14,7 @@ Endpoint Security Monitoring
 
 
 
-Network Analysis
+### Network Analysis
 Check for live connections:
 
 netstat -anob
@@ -28,7 +28,7 @@ TCPView
 - Can snapshot, can export, can filter by ipv4/6, DNS, etc.
 
 
-Process Analysis
+### Process Analysis
 
 tasklist
 - lists processes.
