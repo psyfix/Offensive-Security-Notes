@@ -94,9 +94,10 @@ https://www.sans.org/posters/hunt-evil/
 ### Persistence
 #### Autoruns
 ##### Tools
-- Autoruns (Sysinternals)
-- Autoruns PowerShell Module
-
+- [Autorun Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
+- [Autoruns PowerShell Module](https://github.com/p0w3rsh3ll/AutoRuns)
+	
+##### Detection
 ##### Registry Modification
 - Attackers will often modify the registry in windows to create auto runs and execute malicious payloads at login.
 
@@ -109,3 +110,19 @@ https://www.sans.org/posters/hunt-evil/
 | `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Userinit` | System       | Userinit programs at logon |
 | `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Shell`    | System       | Shell program at login     |
 | `HKLM\SYSTEM\CurrentControlSet\Services`                           | System       | Windows services           |
+
+##### Defending
+- Use the Autoruns PowerShell Module to create a baseline on all endpoints. This file will be used to compare the state later.
+```
+#Create basline
+Get-PSAutorun -VerifyDigitalSignature |
+Where { -not($_.isOSbinary)} |
+New-AutoRunsBaseLine -Verbose -FilePath .\Baseline.ps1
+
+#Compare baseline
+Get-PSAutorun -VerifyDigitalSignature |
+Where { -not($_.isOSbinary)} |
+New-AutoRunsBaseLine -Verbose -FilePath .\CurrentState.ps1
+```
+- Make sure Sysmon is logging xx event ids.
+- Make sure there is a Sigma detection rule for modifications to autorun registry paths.
