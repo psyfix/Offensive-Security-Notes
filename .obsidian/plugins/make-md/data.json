@@ -110,7 +110,8 @@
     "//Spaces",
     "//Application Security/Application Security/Defensive Security",
     "//Spaces",
-    "//Defensive Security"
+    "//Defensive Security",
+    "//Application Security"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -137,7 +138,14 @@
     "Offensive Security/OSCP/Wireless",
     "Offensive Security/Source Code",
     "Offensive Security/Source Code/Attachments",
-    "Offensive Security/Web"
+    "Offensive Security/Web",
+    "Offensive Security/Web/Attachments",
+    "Offensive Security/Thick Client",
+    "Offensive Security/Wireless",
+    "Application Security",
+    "Application Security/Attachments",
+    "Application Security/DevSecOps",
+    "Spaces"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
@@ -205,4 +213,5 @@
   "readableLineWidth": true,
   "autoAddContextsToSubtags": true,
   "autoMigration08": true,
- 
+  "releaseNotesPrompt": 0.804
+}
