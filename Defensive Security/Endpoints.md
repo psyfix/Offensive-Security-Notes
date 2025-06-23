@@ -91,8 +91,8 @@ lsass.exe
 https://www.sans.org/posters/hunt-evil/
 
 
-### Persistence
-#### Autoruns
+## Persistence
+### Autoruns
 ##### Tools
 - [Autorun Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
 - [Autoruns PowerShell Module](https://github.com/p0w3rsh3ll/AutoRuns)
@@ -126,3 +126,5 @@ New-AutoRunsBaseLine -Verbose -FilePath .\CurrentState.ps1
 ```
 - Make sure Sysmon is logging xx event ids.
 - Make sure there is a Sigma detection rule for modifications to autorun registry paths.
+
+### Services
