@@ -93,8 +93,11 @@ https://www.sans.org/posters/hunt-evil/
 
 ### Persistence
 #### Autoruns
+##### Tools
+- Autoruns (Sysinternals)
+- Autoruns PowerShell Module
 
-##### Registry Modifcation
+##### Registry Modification
 - Attackers will often modify the registry in windows to create auto runs and execute malicious payloads at login.
 
 | Registry Path                                                      | Scope        | Purpose                    |
