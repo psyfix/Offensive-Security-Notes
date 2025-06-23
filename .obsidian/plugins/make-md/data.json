@@ -110,8 +110,10 @@
     "//Application Security/Application Security/Defensive Security",
     "//Spaces",
     "//Spaces",
-    "//Defensive Security",
-    "//Application Security"
+    "//Offensive Security",
+    "//Offensive Security/Offensive Security/Network",
+    "//Offensive Security/Offensive Security/Network/Offensive Security/Network/Internal",
+    "//Offensive Security/Offensive Security/Network/Offensive Security/Network/Internal/Offensive Security/Network/Internal/Post Exploitation"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [

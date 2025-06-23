@@ -128,3 +128,6 @@ New-AutoRunsBaseLine -Verbose -FilePath .\CurrentState.ps1
 - Make sure there is a Sigma detection rule for modifications to autorun registry paths.
 
 ### Services
+##### Detection
+- Can use the sc query and sc qc commands to enumerate services.
+##### Defending
