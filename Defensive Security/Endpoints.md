@@ -131,3 +131,9 @@ New-AutoRunsBaseLine -Verbose -FilePath .\CurrentState.ps1
 ##### Detection
 - Can use the sc query and sc qc commands to enumerate services.
 ##### Defending
+
+
+### Scheduled Tasks
+##### Detection
+
+##### Defending
