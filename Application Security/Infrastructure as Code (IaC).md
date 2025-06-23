@@ -4,3 +4,4 @@
 - Make sure there is no hard coded secrets there should all be in a secret manager.
 - Make sure there is some sort of CI/CD pipeline to scan the code for vulnerabilities.
 - Perform manual review on code before it is merged and pushed.
+- Create modules or templates secure out the box for resources to prevent mistakes from being made.
