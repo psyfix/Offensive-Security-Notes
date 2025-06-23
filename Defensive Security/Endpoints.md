@@ -93,6 +93,10 @@ https://www.sans.org/posters/hunt-evil/
 
 ### Persistence
 #### Autoruns
+
+##### Registry Modifcation
+- Attackers will often modify the registry in windows to create auto runs and execute malicious payloads at login.
+
 | Registry Path                                                      | Scope        | Purpose                    |
 | ------------------------------------------------------------------ | ------------ | -------------------------- |
 | `HKCU\Software\Microsoft\Windows\CurrentVersion\Run`               | Current user | Programs auto-run at login |
