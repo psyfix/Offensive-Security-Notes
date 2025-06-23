@@ -104,14 +104,14 @@
     "//Offensive Security/Offensive Security/DevSecOps",
     "//Offensive Security/Offensive Security/DevSecOps/Offensive Security/DevSecOps/Attachments",
     "//Offensive Security/Offensive Security/DevSecOps",
-    "//Application Security/Application Security/DevSecOps",
     "//Networking",
     "//Networking/Networking/Home Lab 1",
     "//Spaces",
     "//Application Security/Application Security/Defensive Security",
     "//Spaces",
     "//Defensive Security",
-    "//Application Security"
+    "//Application Security",
+    "//Application Security/Application Security/DevSecOps"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
