@@ -84,34 +84,14 @@ lsass.exe
 | **5. Registry Modification** | **13 / 14**        | Shows changes to the registry. Key for catching **persistence mechanisms** like `Run` keys, services, or `AppInit_DLLs`.                                                       |
 | **6. Named Pipe Activity**   | **17 / 18**        | Indicates inter-process communication via named pipes. Useful for detecting **lateral movement tools** like Cobalt Strike or **malware staging frameworks**.                   |
 | 7. WMI Activity              | **19 / 20 / 21**   | Logs creation and use of WMI filters, consumers, and bindings. Used in stealthy **persistence**, **recon**, and **remote execution** by adversaries.                           |
-### Registry Analysis
-
-
-##### Cheat Sheets
-https://www.sans.org/posters/hunt-evil/
-
-
 ## Persistence
-### Autoruns
-### Tools
+
+### AutoRuns, Services, Scheduled Tasks
+##### Analysis
+##### Tools
 - [Autorun Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns)
 - [Autoruns PowerShell Module](https://github.com/p0w3rsh3ll/AutoRuns)
-	
-##### Detection
-##### Registry Modification
-- Attackers will often modify the registry in windows to create auto runs and execute malicious payloads at login.
-
-| Registry Path                                                      | Scope        | Purpose                    |
-| ------------------------------------------------------------------ | ------------ | -------------------------- |
-| `HKCU\Software\Microsoft\Windows\CurrentVersion\Run`               | Current user | Programs auto-run at login |
-| `HKLM\Software\Microsoft\Windows\CurrentVersion\Run`               | All users    | Programs auto-run at login |
-| `HKCU\...\RunOnce` and `HKLM\...\RunOnce`                          | User/All     | One-time auto-run          |
-| `HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices`       | System       | Services auto-run (legacy) |
-| `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Userinit` | System       | Userinit programs at logon |
-| `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Shell`    | System       | Shell program at login     |
-| `HKLM\SYSTEM\CurrentControlSet\Services`                           | System       | Windows services           |
-
-##### Defending
+##### Creating a Baseline
 - Use the Autoruns PowerShell Module to create a baseline on all endpoints. This file will be used to compare the state later.
 ```
 #Create basline
@@ -124,16 +104,13 @@ Get-PSAutorun -VerifyDigitalSignature |
 Where { -not($_.isOSbinary)} |
 New-AutoRunsBaseLine -Verbose -FilePath .\CurrentState.ps1
 ```
-- Make sure Sysmon is logging xx event ids.
-- Make sure there is a Sigma detection rule for modifications to autorun registry paths.
+##### Common Registry Modification Paths
+Attackers will often modify the registry in windows to create auto runs and execute malicious payloads at login.
+- `HKCU\Software\Microsoft\Windows\CurrentVersion\Run`
+- `HKLM\Software\Microsoft\Windows\CurrentVersion\Run`
+- `HKCU\...\RunOnce` and `HKLM\...\RunOnce`
+- `HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices`
+- `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Userinit`
+- `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Shell`
+- `HKLM\SYSTEM\CurrentControlSet\Services
 
-### Services
-##### Detection
-- Can use the sc query and sc qc commands to enumerate services.
-##### Defending
-
-
-### Scheduled Tasks
-##### Detection
-
-##### Defending

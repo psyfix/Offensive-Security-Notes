@@ -147,7 +147,9 @@
     "Application Security",
     "Application Security/Attachments",
     "Application Security/DevSecOps",
-    "Spaces"
+    "Spaces",
+    "spaces://#Create",
+    "spaces://#Compare"
   ],
   "menuTriggerChar": "/",
   "inlineStickerMenu": true,
