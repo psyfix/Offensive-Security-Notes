@@ -91,3 +91,14 @@ lsass.exe
 https://www.sans.org/posters/hunt-evil/
 
 
+### Persistence
+#### Autoruns
+| Registry Path                                                      | Scope        | Purpose                    |
+| ------------------------------------------------------------------ | ------------ | -------------------------- |
+| `HKCU\Software\Microsoft\Windows\CurrentVersion\Run`               | Current user | Programs auto-run at login |
+| `HKLM\Software\Microsoft\Windows\CurrentVersion\Run`               | All users    | Programs auto-run at login |
+| `HKCU\...\RunOnce` and `HKLM\...\RunOnce`                          | User/All     | One-time auto-run          |
+| `HKLM\Software\Microsoft\Windows\CurrentVersion\RunServices`       | System       | Services auto-run (legacy) |
+| `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Userinit` | System       | Userinit programs at logon |
+| `HKLM\Software\Microsoft\Windows\CurrentVersion\Winlogon\Shell`    | System       | Shell program at login     |
+| `HKLM\SYSTEM\CurrentControlSet\Services`                           | System       | Windows services           |
