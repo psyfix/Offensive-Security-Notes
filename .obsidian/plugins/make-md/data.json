@@ -93,7 +93,6 @@
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
     "//Mobile/Mobile/Android/Mobile/Android/Attachments",
     "//Network/Network/Internal",
-    "/",
     "//Attachments",
     "//Attachments",
     "//Attachments",
@@ -118,8 +117,9 @@
     "//Application Security/Application Security/Attachments",
     "//Application Security/Application Security/Attachments",
     "//Application Security/Application Security/Attachments",
-    "//Defensive Security",
-    "//Application Security"
+    "/",
+    "Application Security",
+    "//Application Security/Application Security/Attachments"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
