@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc76293db67982db",
+        "id": "54b798b50548cb05",
         "type": "tabs",
         "children": [
           {
-            "id": "33d55424dad0dc0a",
+            "id": "0993f2c3674dadd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -267,8 +267,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33d55424dad0dc0a",
+  "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
+    "Paste.md",
     "Sysinternals.md",
     "Application Security/Infrastructure as Code (IaC).md",
     "Defensive Security/Malware.md",
@@ -307,7 +308,6 @@
     "Application Security/Attachments/Pasted image 20240328135907.png",
     "Offensive-Security.md",
     "Offensive Security/Commands/Shells.md",
-    "Offensive-Security-Notes.md",
     "Offensive Security/Source Code/Attachments/Pasted image 20240731095911.png",
     "Offensive Security/Source Code/Attachments/Pasted image 20240731095845.png",
     "Offensive Security/Source Code/Attachments",
