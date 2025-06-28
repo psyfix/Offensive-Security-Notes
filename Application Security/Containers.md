@@ -6,5 +6,7 @@ Container (Restrict Images, Supply Chain, Sandboxing, Privileged)
 Code (Secure Code Best Practices)
 
 Cluster Setup and Hardening
-- CIS Benchmark for Kubernetes Server.
-- 
+
+#### CIS Benchmark for Kubernetes Server.
+- Kube-Bench https://github.com/aquasecurity/kube-bench
+- Trivy also supported benchmark scanning.
