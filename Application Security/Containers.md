@@ -11,4 +11,26 @@ Cluster Setup and Hardening
 - Kube-Bench https://github.com/aquasecurity/kube-bench
 - Trivy also supports benchmark scanning.
 
-##### Kube API 
+##### Kube API Server
+
+Authentication
+- Who can access the cluster?
+- Who is accessing the cluster?
+	- Admins
+	- Developers
+	- 3rd Party Integrations
+
+Best practices
+- Do not use hard coded password or token files.
+- Do not use the api directly because then password are in the bash history.
+
+Authorization
+- What can they do?
+	- RBAC Authorization
+	- ABAC Authorization
+	- Node Authorization
+	- Webhook mode
+	- Principal of least privilege.
+
+Network Policies
+- Restricting traffic between containers.
