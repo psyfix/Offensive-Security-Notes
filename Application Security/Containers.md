@@ -9,4 +9,6 @@ Cluster Setup and Hardening
 
 #### CIS Benchmark for Kubernetes Server.
 - Kube-Bench https://github.com/aquasecurity/kube-bench
-- Trivy also supported benchmark scanning.
+- Trivy also supports benchmark scanning.
+
+##### Kube API 
