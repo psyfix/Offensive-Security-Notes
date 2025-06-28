@@ -117,7 +117,9 @@
     "//Application Security",
     "//Application Security/Application Security/Attachments",
     "//Application Security/Application Security/Attachments",
-    "//Application Security/Application Security/Attachments"
+    "//Application Security/Application Security/Attachments",
+    "//Defensive Security",
+    "//Application Security"
   ],
   "expandFolderOnClick": true,
   "cachedSpaces": [
@@ -129,11 +131,11 @@
     "Defensive Security",
     "Offensive Security",
     "Offensive Security/Commands",
-    "Offensive Security/Config Review",
     "Offensive Security/Mobile",
     "Offensive Security/Mobile/Android",
     "Offensive Security/Mobile/Android/Attachments",
     "Offensive Security/Mobile/IOS",
+    "Offensive Security/Config Review",
     "Offensive Security/Network",
     "Offensive Security/Network/Internal",
     "Offensive Security/Network/Internal/Active Directory",

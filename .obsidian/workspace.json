@@ -156,6 +156,19 @@
             "id": "5f43e578a179d75a",
             "type": "leaf",
             "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d957252069854e53",
+            "type": "leaf",
+            "state": {
               "type": "mk-file-view",
               "state": {},
               "icon": "layout-grid",
@@ -163,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -269,6 +282,7 @@
   },
   "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
+    "Application Security/Attachments/Screenshot 2025-06-28 173644.png",
     "Paste.md",
     "Sysinternals.md",
     "Application Security/Infrastructure as Code (IaC).md",
@@ -307,7 +321,6 @@
     "New Note 1.md",
     "Application Security/Attachments/Pasted image 20240328135907.png",
     "Offensive-Security.md",
-    "Offensive Security/Commands/Shells.md",
     "Offensive Security/Source Code/Attachments/Pasted image 20240731095911.png",
     "Offensive Security/Source Code/Attachments/Pasted image 20240731095845.png",
     "Offensive Security/Source Code/Attachments",
