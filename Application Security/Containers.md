@@ -76,6 +76,8 @@ Network Policies
 
 #### Reviewing TLS Security
 
+##### Mapping TLS Certificates and Keys
+
 First create a spreadsheet to fill out all the information on the TLS:
 - https://github.com/mmumshad/kubernetes-the-hard-way/blob/master/tools/kubernetes-certs-checker.xlsx
 - https://kubernetes.io/docs/setup/best-practices/certificates/
@@ -99,3 +101,10 @@ Second check the certificate details:
     ```
 
 ![[Pasted image 20250629121123.png]]
+
+##### Protecting the Root CA
+- Should be restricted to only root and certain processes such as the controller manager.
+- Defined in the kube-controller-manager.yaml
+- Used to sign all new certificates from certificate signing requests.
+
+![[Pasted image 20250629130915.png]]
