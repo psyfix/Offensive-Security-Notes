@@ -83,3 +83,12 @@ First check the file paths to the certificates
     ```
 
 ![[Pasted image 20250629121016.png]]
+
+Second check the certificate details.
+
+
+    ```
+    cat /etc/kubernetes/manifests/kube-apiserver.yaml
+    ```
+
+![[Pasted image 20250629121123.png]]
