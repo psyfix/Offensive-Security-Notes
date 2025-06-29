@@ -79,6 +79,9 @@ Second check the certificate details:
 
 For example below, multiple contexts and users are used, GOOD, keys are referenced by absolute path GOOD.
 ![[Pasted image 20250629172658.png]]
+
+
+
 ## Authorization
 - What can they do?
 	- RBAC Authorization
