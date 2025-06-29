@@ -11,22 +11,21 @@ Cluster Setup and Hardening
 - Kube-Bench https://github.com/aquasecurity/kube-bench
 - Trivy also supports benchmark scanning.
 
-##### Kube API Server
+# Kube API Server
 
-Authentication
-- Who can access the cluster?
-- Who is accessing the cluster?
-	- Admins
-	- Developers
-	- 3rd Party Integrations
 
-Best practices
+## General Best practices
 - Do not use hard coded password or token files.
 - Do not use the api directly because then password are in the bash history.
 - Use service accounts for 3rd party integrations  - essentially creates an api/bearer token for use.
 - service accounts that are local in the cluster can be mounted, that way when the container is spawned the secret is mounted to it, authenticating it. The service account is simply defined in the pod definition yml file.
 - Integrate with kerberos or ldap.
-
+## Authentication
+- Who can access the cluster?
+- Who is accessing the cluster?
+	- Admins
+	- Developers
+	- 3rd Party Integrations
 ### TLS
 - This is a commonly used authentication type in Kubernetes environments to enforce secure authentication that is passwordless.
 - All servers listed should have their own certificate and key pair.
@@ -35,34 +34,6 @@ Best practices
 - All client certificates should be configured and set in the kube-config files. (Anything that wants to talk to the server api)
 
 ![[Pasted image 20250629103055.png]]
-Showing typical certificate setup for a Kubernetes server.
-
-
-ETCD Server
-
-Kubelet Server
-- Each node within the kubelet requires its own certificate.
-- The node certificates should include the group object SYSTEM:NODES
-- The node certificates are then defined within the kubelet-config file.
-
-#### Clients
-Scheduler
-Administrators
-Kube Controller Manager
-Kube Proxy
-
-
-
-Authorization
-- What can they do?
-	- RBAC Authorization
-	- ABAC Authorization
-	- Node Authorization
-	- Webhook mode
-	- Principal of least privilege.
-
-Network Policies
-- Restricting traffic between containers.
 
 #### Reviewing TLS Security
 
@@ -99,3 +70,14 @@ Second check the certificate details:
 - Used to sign all new certificates from certificate signing requests.
 
 ![[Pasted image 20250629130915.png]]
+
+## Authorization
+- What can they do?
+	- RBAC Authorization
+	- ABAC Authorization
+	- Node Authorization
+	- Webhook mode
+	- Principal of least privilege.
+
+Network Policies
+- Restricting traffic between containers.
