@@ -71,6 +71,14 @@ Second check the certificate details:
 
 ![[Pasted image 20250629130915.png]]
 
+##### Kube Config File
+- Avoid storing entire keys in here, instead reference them by an absolute path.
+- Strict permissions on those keys to the user only.
+- This avoids keys being accidentally stored in a backup somewhere.
+- Use multiple contexts and users if necessary to split permissions and enforce principle of least privilege.
+
+For example below, multiple contexts and users are used, GOOD, keys are referenced by absolute path GOOD.
+![[Pasted image 20250629172658.png]]
 ## Authorization
 - What can they do?
 	- RBAC Authorization
