@@ -76,6 +76,10 @@ Network Policies
 
 #### Reviewing TLS Security
 
+First create a spreadsheet to fill out all the information on the TLS:
+- https://github.com/mmumshad/kubernetes-the-hard-way/blob/master/tools/kubernetes-certs-checker.xlsx
+- https://kubernetes.io/docs/setup/best-practices/certificates/
+
 First check the file paths to the certificates
 
     ```
@@ -84,11 +88,13 @@ First check the file paths to the certificates
 
 ![[Pasted image 20250629121016.png]]
 
-Second check the certificate details.
-
+Second check the certificate details:
+- Issuer
+- Expiry Date
+- Alternative names
 
     ```
-    cat /etc/kubernetes/manifests/kube-apiserver.yaml
+    openssl x509 -in /etc/kubernetes/pki/<cert> -text -noout
     ```
 
 ![[Pasted image 20250629121123.png]]
