@@ -75,115 +75,21 @@
             }
           },
           {
-            "id": "e90e3be45903ba27",
+            "id": "700c4b76b65badd8",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "c6324b25ce745877",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "10439934a97f2eef",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "55d9b12bb21ce24c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "4432fd6c7527b93f",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "86b62c27ac92f3bf",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "5f43e578a179d75a",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "d957252069854e53",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 292.5
   },
   "right": {
     "id": "bb3c85740f8c44c9",
@@ -286,8 +192,11 @@
   },
   "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
-    "Application Security/Attachments/Pasted image 20250629102816.png",
+    "Application Security/Attachments/Pasted image 20250629103055.png",
     "Application Security/Attachments/Pasted image 20250629102740.png",
+    "Application Security/Containers.md",
+    "Application Security/Attachments/Pasted image 20250629102848.png",
+    "Application Security/Attachments/Pasted image 20250629102816.png",
     "Application Security/Attachments/Pasted image 20250629102603.png",
     "Application Security/Attachments/Screenshot 2025-06-28 173644.png",
     "Paste.md",
@@ -301,7 +210,6 @@
     "Defensive Security",
     "Spaces",
     "Application Security/DevSecOps/Tools.md",
-    "Application Security/Containers.md",
     "Application Security/DevSecOps/Setting Up.md",
     "Application Security/DevSecOps/Debugging.md",
     "Application Security/DevSecOps/DevSecOps.md",
@@ -328,8 +236,6 @@
     "New Note 1.md",
     "Application Security/Attachments/Pasted image 20240328135907.png",
     "Offensive-Security.md",
-    "Offensive Security/Source Code/Attachments/Pasted image 20240731095911.png",
-    "Offensive Security/Source Code/Attachments/Pasted image 20240731095845.png",
     "Offensive Security/Source Code/Attachments",
     "Offensive Security/Config Review",
     "Application Security/Attachments",
