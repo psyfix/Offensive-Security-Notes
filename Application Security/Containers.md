@@ -37,16 +37,6 @@ Best practices
 ![[Pasted image 20250629103055.png]]
 Showing typical certificate setup for a Kubernetes server.
 
-#### Servers
-#### API Server Configuring Server Certificate
-- When generating the api-server certificate it is important to list all the different names it may be called by other clients.
-![[Pasted image 20250629105907.png]]
-- When executing the server it is important to include all the client server certificates for ETCD and Kubelet
-![[Pasted image 20250629110713.png]]
-
-##### API Server Defining TLS Clients
-![[Pasted image 20250629105039.png]]
-- All clients connecting to and communicating with the API Server should be defined in here.
 
 ETCD Server
 
@@ -92,9 +82,10 @@ First check the file paths to the certificates
 ![[Pasted image 20250629121016.png]]
 
 Second check the certificate details:
-- Issuer
+- Common Name / Issuer
 - Expiry Date
 - Alternative names
+- Organisation - IMPORTANT!!! Overly permissive can be dangerous here.
 
     ```
     openssl x509 -in /etc/kubernetes/pki/<cert> -text -noout
