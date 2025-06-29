@@ -32,17 +32,20 @@ Best practices
 - All servers listed should have their own certificate and key pair.
 - All clients listed should also have their own certificate and key pair to validate their identity to the server.
 - Roles and groups are also assigned through object identifiers when creating the certificate signing request.
-- All certificates should be configured and set in the kube-config files.
+- All client certificates should be configured and set in the kube-config files. (Anything that wants to talk to the server api)
 
 ![[Pasted image 20250629103055.png]]
 Showing typical certificate setup for a Kubernetes server.
 
 ![[Pasted image 20250629105039.png]]
-Showing typical certificate config in the kube-config files.
+Showing typical client certificate config in the kube-config files. 
 ### Servers
 KUBE-API Server
 ETCD Server
 Kubelet Server
+
+- When generating the api-server certificate it is important to list all the different names it may be called by other clients.
+![[Pasted image 20250629105907.png]]
 
 ### Clients
 Scheduler
