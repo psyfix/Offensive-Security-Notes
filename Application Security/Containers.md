@@ -27,16 +27,17 @@ Best practices
 - service accounts that are local in the cluster can be mounted, that way when the container is spawned the secret is mounted to it, authenticating it. The service account is simply defined in the pod definition yml file.
 - Integrate with kerberos or ldap.
 
-TLS
+#### TLS
 - This is a commonly used authentication type in Kubernetes environments to enforce secure authentication that is passwordless.
 - All servers listed should have their own certificate and key pair.
-- All clients listed should also have th
-Servers
+- All clients listed should also have their own certificate and key pair to validate their identity to the server.
+
+### Servers
 KUBE-API Server
 ETCD Server
 Kubelet Server
 
-Clients
+### Clients
 Scheduler
 Administrators
 Kube Controller Manager
