@@ -27,6 +27,9 @@ Best practices
 - service accounts that are local in the cluster can be mounted, that way when the container is spawned the secret is mounted to it, authenticating it. The service account is simply defined in the pod definition yml file.
 - Integrate with kerberos or ldap.
 
+TLS
+
+
 Authorization
 - What can they do?
 	- RBAC Authorization
