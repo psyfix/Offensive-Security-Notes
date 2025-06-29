@@ -41,16 +41,18 @@ Showing typical certificate setup for a Kubernetes server.
 Showing typical client certificate config in the kube-config files. 
 ### Servers
 KUBE-API Server
-ETCD Server
-Kubelet Server
-
 When running the api-server the certificates for the other servers needs to be specified.
 ![[Pasted image 20250629110713.png]]
-
 
 - When generating the api-server certificate it is important to list all the different names it may be called by other clients.
 ![[Pasted image 20250629105907.png]]
 
+ETCD Server
+
+Kubelet Server
+- Each node within the kubelet requires its own certificate.
+- These certificates should include the group obje
+- These are then defined within the kubelet-config file.
 ### Clients
 Scheduler
 Administrators
