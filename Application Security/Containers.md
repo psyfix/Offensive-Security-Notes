@@ -44,6 +44,10 @@ KUBE-API Server
 ETCD Server
 Kubelet Server
 
+When running the api-server the certificates for the other servers needs to be specified.
+![[Pasted image 20250629110713.png]]
+
+
 - When generating the api-server certificate it is important to list all the different names it may be called by other clients.
 ![[Pasted image 20250629105907.png]]
 
