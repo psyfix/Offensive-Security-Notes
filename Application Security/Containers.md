@@ -32,6 +32,7 @@ Best practices
 - All servers listed should have their own certificate and key pair.
 - All clients listed should also have their own certificate and key pair to validate their identity to the server.
 
+![[Pasted image 20250629102740.png]]
 ### Servers
 KUBE-API Server
 ETCD Server
