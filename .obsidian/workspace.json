@@ -15,7 +15,7 @@
               "state": {
                 "file": "Application Security/Containers.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Containers"
@@ -177,19 +177,9 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          },
-          {
-            "id": "a85361cd77415a22",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
-            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -257,17 +247,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Application Security/DevSecOps/Setting Up.md",
+                "file": "Application Security/Containers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Setting Up"
+              "title": "Outline of Containers"
             }
           },
           {
-            "id": "1aeda848e1739c9e",
+            "id": "4b2fcd576ec95ed7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -293,8 +283,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0993f2c3674dadd3",
+  "active": "9af153ed3b9ded4a",
   "lastOpenFiles": [
+    "Application Security/Attachments/Pasted image 20250629102603.png",
     "Application Security/Attachments/Screenshot 2025-06-28 173644.png",
     "Paste.md",
     "Sysinternals.md",
@@ -341,7 +332,6 @@
     "Offensive Security/Web/Attachments/Pasted image 20231205204847.png",
     "Offensive Security/Web/Attachments/Pasted image 20231205205001.png",
     "Application Security/Attachments",
-    "Offensive Security/Mobile/Android/Attachments/Pasted image 20240327150043.png",
     "OSCP/P.canvas"
   ]
 }
