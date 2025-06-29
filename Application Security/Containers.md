@@ -28,6 +28,20 @@ Best practices
 - Integrate with kerberos or ldap.
 
 TLS
+- This is a commonly used authentication type in Kubernetes environments to enforce secure authentication that is passwordless.
+- All servers listed should have their own certificate and key pair.
+- All clients listed should also have th
+Servers
+KUBE-API Server
+ETCD Server
+Kubelet Server
+
+Clients
+Scheduler
+Administrators
+Kube Controller Manager
+Kube Proxy
+
 
 
 Authorization
