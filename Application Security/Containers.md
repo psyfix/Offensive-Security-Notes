@@ -83,7 +83,8 @@ First create a spreadsheet to fill out all the information on the TLS:
 First check the file paths to the certificates
 
     ```
-    cat /etc/kubernetes/manifests/kube-apiserver.yaml
+    cat /etc/kubernetes/manifests/kube-apiserver.yaml    
+    cat /etc/kubernetes/manifests/etcd.yaml
     ```
 
 ![[Pasted image 20250629121016.png]]
