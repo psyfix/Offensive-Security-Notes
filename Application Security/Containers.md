@@ -31,8 +31,14 @@ Best practices
 - This is a commonly used authentication type in Kubernetes environments to enforce secure authentication that is passwordless.
 - All servers listed should have their own certificate and key pair.
 - All clients listed should also have their own certificate and key pair to validate their identity to the server.
+- Roles and groups are also assigned through object identifiers when creating the certificate signing request.
+- All certificates should be configured and set in the kube-config files.
 
 ![[Pasted image 20250629103055.png]]
+Showing typical certificate setup for a Kubernetes server.
+
+![[Pasted image 20250629105039.png]]
+Showing typical certificate config in the kube-config files.
 ### Servers
 KUBE-API Server
 ETCD Server
