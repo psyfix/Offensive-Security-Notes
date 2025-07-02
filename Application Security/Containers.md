@@ -14,9 +14,16 @@ The controller manager monitors the state of the cluster it is responsible for m
 - Token and service account management. (Reissuing and creating tokens, and assigning service accounts to namespaces.)
 
 The kubelet
-- Responsible for managing containers within a pod.
+- Responsible for managing containers and resources (CPU, Memory, Etc.) within a pod.
 - Ensures containers are running.
-- Sends updates to the api on the overall status of a pod.
+- Sends updates to the api on the overall status of a pod. (Logs)
+- There is a kubelet inside every pod.
+
+The kube-proxy
+- Ensures that services within nodes can communicate with each other and with other services in other nodes.
+- Controls network flow between the cluster.
+- Essentially a router.
+- Network policies or NACLs are assigned on the 
 
 Namespace 
 - A virtual segmentation of pods. Esenntially like a VLAN
