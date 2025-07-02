@@ -122,6 +122,12 @@ For example below, multiple contexts and users are used, GOOD, keys are referenc
 
 
 ## Authorization
+Checklist
+- Verify cluster roles are not overly permissive.
+	- No cluster roles assigned to service accounts.
+- Verify service account role bindings are not overly permissive
+- Verify user role bindings are not overly permissive (kubectl get rolebindings -A -o yaml )
+
 - What can they do?
 	- RBAC Authorization
 	- ABAC Authorization
