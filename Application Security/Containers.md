@@ -5,7 +5,12 @@ Kubernetes Architecture
 		-> Pods
 			-> Containers
 
-The scheduler 
+The scheduler is seen as the brain and decides where the best node is for a pod to go.
+The controller manager monitors the state of the cluster it is responsible for many tasks.
+- Ensuring pods are running
+- Ensuring there is enough pods for a deployment.
+- Monitoring nodes health.
+- Token and service account management. (Reissuing and creating tokens, and assigning service accounts)
 
 ## The 4C's of Cloud Native Security
 
