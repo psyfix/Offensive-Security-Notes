@@ -126,7 +126,7 @@ Checklist
 - Verify cluster roles are not overly permissive.
 	- No cluster roles assigned to service accounts.
 - Verify service account role bindings are not overly permissive
-- Verify user role bindings are not overly permissive (kubectl get rolebindings -A -o yaml  | grep </user>)
+- Verify user role bindings are not overly permissive (kubectl get rolebindings -A -o yaml  | grep user)
 
 - What can they do?
 	- RBAC Authorization
