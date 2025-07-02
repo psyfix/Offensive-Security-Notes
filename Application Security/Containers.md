@@ -146,6 +146,10 @@ How to create a role.
 How to bind a role to a user.
 ![[Pasted image 20250702195618.png]]
 
-
+![[Pasted image 20250702195840.png]]
 
 Auditing Roles
+
+Testing Roles
+- Using the can-i to manually test permissions on serviceaccounts, users and namespaces.
+![[Pasted image 20250702200043.png]]
