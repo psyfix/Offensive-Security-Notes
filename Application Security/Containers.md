@@ -130,7 +130,7 @@ RBAC
 - This is the most common approach.
 - Each user, service account or server component is binded to a role.
 - There is a role file defining the permissions for that role.
-- There is a role 
+- There is a role binding file that binds a user to a role.
 
 Node
 
