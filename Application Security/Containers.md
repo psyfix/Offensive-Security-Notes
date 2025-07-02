@@ -1,3 +1,12 @@
+Kubernetes Architecture
+-> Cluster
+	-> Control Plane (API, ETCD, KUBELET) 
+	-> Hosts (Nodes)
+		-> Pods
+			-> Containers
+
+
+
 ## The 4C's of Cloud Native Security
 
 Cloud (Infrastructure)
