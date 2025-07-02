@@ -135,3 +135,8 @@ Network Policies
 Modes: AlwaysAllow, Node, ABAC, RBAC, Webhook, AlwaysDeny
 - The modes to be used are set in the kube-apiserver.yaml manifest.
 - Authorisation modes are handled in the order they are specified in.
+- AlwaysAllow is a big NO.
+
+How to create a role.
+
+Auditing Roles
