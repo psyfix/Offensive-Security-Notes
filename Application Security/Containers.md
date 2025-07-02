@@ -140,8 +140,10 @@ Node
 Webhook (OPA)
 
 Always Allow + Always Deny
+- Should be avoided and a red flag in most cases.
 
 ABAC
+- Also should be avoided this is deprecated by RBAC + OPA
 
 Checklist
 - Verify cluster roles are not overly permissive.
