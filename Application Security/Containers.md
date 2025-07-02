@@ -149,6 +149,7 @@ How to bind a role to a user.
 ![[Pasted image 20250702195840.png]]
 
 Auditing Roles
+- Never put sensitive information in the kube-public namespace.
 
 Testing Roles
 - Using the can-i to manually test permissions on serviceaccounts, users and namespaces.
