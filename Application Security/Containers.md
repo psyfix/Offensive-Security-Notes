@@ -150,7 +150,7 @@ How to bind a role to a user.
 
 Auditing Roles
 - Never put sensitive information in the kube-public namespace.
-- Be careful with Cluster Roles. As these often give u
+- Be careful with Cluster Roles. As these often give access to resources cluster wide. Especially if given to a service account.
 
 Testing Roles
 - Using the can-i to manually test permissions on serviceaccounts, users and namespaces.
