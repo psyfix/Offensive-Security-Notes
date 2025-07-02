@@ -131,3 +131,7 @@ For example below, multiple contexts and users are used, GOOD, keys are referenc
 
 Network Policies
 - Restricting traffic between containers.
+
+Modes: AlwaysAllow, Node, ABAC, RBAC, Webhook, AlwaysDeny
+- The modes to be used are set in the kube-apiserver.yaml manifest.
+- Authorisation modes are handled in the order they are specified in.
