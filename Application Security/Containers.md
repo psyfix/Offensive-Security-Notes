@@ -122,10 +122,12 @@ For example below, multiple contexts and users are used, GOOD, keys are referenc
 
 
 ## Authorization
-First Authorization Modes are Defined.
+#### Authorization Modes are Defined.
 - Defined in api-server manifest.
 - The order does matter.
+- Determines which methods are used by the server.
 
+#### Configuring Authorization Modes.
 RBAC
 - This is the most common approach.
 - Each user, service account or server component is binded to a role.
@@ -145,7 +147,7 @@ Always Allow + Always Deny
 ABAC
 - Also should be avoided this is deprecated by RBAC + OPA
 
-Checklist
+#### Checklist
 - Verify cluster roles are not overly permissive.
 	- No cluster roles assigned to service accounts.
 - Verify service account role bindings are not overly permissive
