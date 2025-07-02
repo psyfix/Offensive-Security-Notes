@@ -5,7 +5,7 @@ Kubernetes Architecture
 		-> Pods
 			-> Containers
 
-
+The scheduler 
 
 ## The 4C's of Cloud Native Security
 
