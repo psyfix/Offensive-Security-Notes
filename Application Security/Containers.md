@@ -138,5 +138,14 @@ Modes: AlwaysAllow, Node, ABAC, RBAC, Webhook, AlwaysDeny
 - AlwaysAllow is a big NO.
 
 How to create a role.
+- First create the YAML file.
+- Then apply with the following command.
+![[Pasted image 20250702195043.png]]
+![[Pasted image 20250702195138.png]]
+
+How to bind a role to a user.
+![[Pasted image 20250702195618.png]]
+
+
 
 Auditing Roles
