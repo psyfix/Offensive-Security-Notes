@@ -6,11 +6,17 @@ Kubernetes Architecture
 			-> Containers
 
 The scheduler is seen as the brain and decides where the best node is for a pod to go.
+
 The controller manager monitors the state of the cluster it is responsible for many tasks.
 - Ensuring pods are running
 - Ensuring there is enough pods for a deployment and makes deployments.
 - Monitoring nodes health.
 - Token and service account management. (Reissuing and creating tokens, and assigning service accounts to namespaces.)
+
+The kubelet
+- Responsible for managing containers within a pod.
+- Ensures containers are running.
+- Sends updates to the api on the overall status of a pod.
 
 Namespace 
 - A virtual segmentation of pods. Esenntially like a VLAN
