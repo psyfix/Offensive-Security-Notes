@@ -14,11 +14,16 @@ The controller manager monitors the state of the cluster it is responsible for m
 
 Namespace 
 - A virtual segmentation of pods. Esenntially like a VLAN
+- A namespace is purely logical that is the difference between a VLAN.
 - Each namespace contains its own pods, service account, deployments.
 - Typical setup is dev, prod, staging, monitoring, and logging.
 
 Service Accounts
+- When a service account is created the RBAC is set.
 - Tokens and accounts are created and assigned to pods by the controller manager.
+- Tokens are typically used to communicate with the api-server in the event there is a service running in a container that needs to such as jenkins.
+- All tokens are stored on the ETCD server
+- Tokens are deployed on containers inside pods and mounted to /var/run/secrets/kubernetes.io/</serviceaccount>/</token>
 ## The 4C's of Cloud Native Security
 
 Cloud (Infrastructure)
