@@ -122,6 +122,24 @@ For example below, multiple contexts and users are used, GOOD, keys are referenc
 
 
 ## Authorization
+First Authorization Modes are Defined.
+- Defined in api-server manifest.
+- The order does matter.
+
+RBAC
+- This is the most common approach.
+- Each user, service account or server component is binded to a role.
+- There is a role file defining the permissions for that role.
+- There is a role 
+
+Node
+
+Webhook (OPA)
+
+Always Allow + Always Deny
+
+ABAC
+
 Checklist
 - Verify cluster roles are not overly permissive.
 	- No cluster roles assigned to service accounts.
