@@ -16,6 +16,9 @@ Namespace
 - A virtual segmentation of pods. Esenntially like a VLAN
 - Each namespace contains its own pods, service account, deployments.
 - Typical setup is dev, prod, staging, monitoring, and logging.
+
+Service Accounts
+- Tokens and accounts are created and assigned to pods by the controller manager.
 ## The 4C's of Cloud Native Security
 
 Cloud (Infrastructure)
