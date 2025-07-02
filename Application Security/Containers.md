@@ -23,7 +23,7 @@ The kube-proxy
 - Ensures that services within nodes can communicate with each other and with other services in other nodes.
 - Controls network flow between the cluster.
 - Essentially a router.
-- Network policies or NACLs are assigned on the 
+- Network policies or NACLs are assigned on the kubectl level in a YAML file and sent to the ETCD server. They are then assigned in deployment YAML files and assigned to a namespace and label attached to a pod.
 
 Namespace 
 - A virtual segmentation of pods. Esenntially like a VLAN
