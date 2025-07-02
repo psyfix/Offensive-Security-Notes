@@ -130,7 +130,10 @@ RBAC
 - This is the most common approach.
 - Each user, service account or server component is binded to a role.
 - There is a role file defining the permissions for that role.
-- There is a role binding file that binds a user to a role.
+	- API Group defined.
+	- Then resources in API Group defined.
+	- Then methods allowed on resources defined.
+- There is a role binding file that binds a subject(s) to a role.
 
 Node
 
