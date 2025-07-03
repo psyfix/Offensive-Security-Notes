@@ -203,7 +203,33 @@ All configuration is stored in the
 #### Network Policies
 - **Kubernetes is configured by default with an ALL ALLOW rule by default between pods.** Allowing network communication between the entire cluster open and possible.
 - Policies are linked to one or more pods usually by namespace / label (Pod Selector OR Namespace Selector)
-
+- When selectors are listed separately with dashes this is an OR logic. With just one dash and then multiple selectors this is an AND.
+```
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: example-policy
+  namespace: default
+spec:
+  podSelector:
+    matchLabels:
+      app: my-app  # Apply to pods with this label
+  ingress:
+  - from:
+    - podSelector:
+        matchLabels:
+          role: frontend
+    - namespaceSelector:
+        matchLabels:
+          team: dev
+    - ipBlock:
+        cidr: 10.0.0.0/16
+        except:
+        - 10.0.5.0/24
+    ports:
+    - protocol: TCP
+      port: 80
+```
 ### Kubernetes Setup
 #### Dashboard Setup
 
