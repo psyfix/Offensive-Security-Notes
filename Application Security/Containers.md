@@ -204,6 +204,7 @@ All configuration is stored in the
 - **Kubernetes is configured by default with an ALL ALLOW rule by default between pods.** Allowing network communication between the entire cluster open and possible.
 - Policies are linked to one or more pods usually by namespace / label (Pod Selector OR Namespace Selector)
 - When selectors are listed separately with dashes this is an OR logic. With just one dash and then multiple selectors this is an AND.
+- Ideally each pod has its own network policy applied essentially creating a logical host based firewall.
 ```
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
