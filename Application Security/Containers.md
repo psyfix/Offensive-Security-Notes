@@ -188,6 +188,7 @@ Testing Roles
 ![[Pasted image 20250702200043.png]]
 
 #### Securing The Kubelet
-Ports 10250 & 10255
 - Check that the API port on 10255 is disabled - this by default allows unauthenticated access read only.
 - Check that the API port on 10250 is locked down - again by default allows anonymous access. (in config file anonymous enabled: false)
+- Check that the authentication mode in the kubelet config is set to certificate based.
+- Check that the authorization mode in the kubetlet config is set to Webhook.
