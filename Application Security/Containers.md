@@ -200,6 +200,8 @@ Securing the Dashboard
 All configuration is stored in the 
 - 
 
+#### Network Policies
+- K
 
 ### Kubernetes Setup
 #### Dashboard Setup
