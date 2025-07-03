@@ -186,3 +186,6 @@ Auditing Roles
 Testing Roles
 - Using the can-i to manually test permissions on serviceaccounts, users and namespaces.
 ![[Pasted image 20250702200043.png]]
+
+#### Securing The Kubelet
+Ports 10250 & 10255
