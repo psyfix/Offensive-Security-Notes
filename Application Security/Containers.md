@@ -200,6 +200,15 @@ Securing the Dashboard
 All configuration is stored in the 
 - 
 
+
+### Kubernetes Setup
+#### Dashboard Setup
+
+    ```
+    kubectl apply -f <link to github yaml>
+    ```
+
+
 #### Commands 
 ##### Port Forwarding
 - Used to reach local services running inside the cluster.
