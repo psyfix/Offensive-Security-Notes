@@ -202,7 +202,7 @@ All configuration is stored in the
 
 #### Network Policies
 - **Kubernetes is configured by default with an ALL ALLOW rule by default between pods.** Allowing network communication between the entire cluster open and possible.
-- Policies are linked to one or more pods.
+- Policies are linked to one or more pods usually by namespace / label ()
 
 ### Kubernetes Setup
 #### Dashboard Setup
