@@ -195,6 +195,8 @@ All configuration is stored in the kubelet configuration file:
 - Check that the authorization mode in the kubetlet config is set to Webhook.
 
 Securing the Dashboard
+- How is it being accessed? Is it exposed to the public?
+- Best to keep it local and use a jumphost + VPN + OAuth/OpenID.
 All configuration is stored in the 
 - 
 
