@@ -188,15 +188,20 @@ Testing Roles
 ![[Pasted image 20250702200043.png]]
 
 #### Securing The Kubelet
+All configuration is stored in the kubelet configuration file:
 - Check that the API port on 10255 is disabled - this by default allows unauthenticated access read only.
 - Check that the API port on 10250 is locked down - again by default allows anonymous access. (in config file anonymous enabled: false)
 - Check that the authentication mode in the kubelet config is set to certificate based.
 - Check that the authorization mode in the kubetlet config is set to Webhook.
 
+Securing the Dashboard
+All configuration is stored in the 
+- 
 
 #### Commands 
 ##### Port Forwarding
 - Used to reach local services running inside the cluster.
     ```
-    kubectl port-forward service/<name> <host_port>:<service_port>
+    kubectl port-forward service/<name> <host_port>:<service_port> &
+    
     ```
