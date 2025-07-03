@@ -192,3 +192,11 @@ Testing Roles
 - Check that the API port on 10250 is locked down - again by default allows anonymous access. (in config file anonymous enabled: false)
 - Check that the authentication mode in the kubelet config is set to certificate based.
 - Check that the authorization mode in the kubetlet config is set to Webhook.
+
+
+#### Commands 
+##### Port Forwarding
+- Used to reach local services running inside the cluster.
+    ```
+    kubectl port-forward service/<name> <host_port>:<service_port>
+    ```
