@@ -236,6 +236,7 @@ spec:
 - Install one ingress controller per cluster. (Nginx)
 - This acts as a proxy for all ingress resources 
 - This stops the need for multiple proxies and load balancers.
+- Deploy the ingress controller and then create the service with LoadBalancer.
 ### Ingress Resources
 
 - Defined just like any other object with kind: Ingress
