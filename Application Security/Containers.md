@@ -232,8 +232,14 @@ spec:
       port: 80
 ```
 
-### Ingress
+### Ingress Controller
+- Install one ingress controller per cluster. (Nginx)
+- This acts as a proxy for all ingress resources 
+- This stops the need for multiple proxies and load balancers.
+### Ingress Resources
+
 - Defined just like any other object with kind: Ingress
+![[Pasted image 20250704175702.png]]
 ### Kubernetes Setup
 #### Dashboard Setup
 
