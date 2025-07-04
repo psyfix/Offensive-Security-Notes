@@ -231,6 +231,9 @@ spec:
     - protocol: TCP
       port: 80
 ```
+
+### Ingress
+- Defined just like any other object with kind: Ingress
 ### Kubernetes Setup
 #### Dashboard Setup
 
