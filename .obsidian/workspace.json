@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/Strategy.md",
+                "file": "Application Security/Containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strategy"
+              "title": "Containers"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
-    "Application Security/Securing CICD.md",
     "Application Security/Strategy.md",
+    "Application Security/Securing CICD.md",
     "Application Security/What is a Secure Software Development Life Cycle.md",
     "Application Security/DevSecOps/Tools.md",
     "Application Security/DevSecOps/Setting Up.md",
