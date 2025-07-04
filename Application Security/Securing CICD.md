@@ -28,3 +28,9 @@ aliases:
 	- Hold meetings with the test group for feedback.
 - Security Gate Pass Rate
 	- Failure rate can be checked in the pipeline/job logs.
+
+5 Optimise the Tool.
+- Optimise based on key metric results and development feedback.
+
+6 Integrate into Production.
+- Once the tool has proved its stability, accuracy and value.
