@@ -238,8 +238,8 @@ spec:
 - This stops the need for multiple proxies and load balancers.
 - Deploy the ingress controller and then create the service with LoadBalancer.
 ### Ingress Resources
-
 - Defined just like any other object with kind: Ingress
+- These are consumed and routed by the ingress controller.
 ![[Pasted image 20250704175702.png]]
 ### Kubernetes Setup
 #### Dashboard Setup
