@@ -1,0 +1,4 @@
+---
+aliases:
+  - Securing CI/CD
+---

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/Strategy.md",
+                "file": "Application Security/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strategy"
+              "title": "Untitled"
             }
           }
         ]
@@ -192,8 +192,9 @@
   },
   "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
-    "Application Security/What is a Secure Software Development Life Cycle.md",
     "Application Security/Strategy.md",
+    "Application Security/Untitled.md",
+    "Application Security/What is a Secure Software Development Life Cycle.md",
     "Application Security/DevSecOps/Tools.md",
     "Application Security/DevSecOps/Setting Up.md",
     "Application Security/DevSecOps/Debugging.md",
@@ -235,7 +236,6 @@
     "Offensive Security",
     "Offensive Security/Purple Team/New Note.md",
     "Application Security",
-    "New Note 1.md",
     "Offensive Security/Source Code/Attachments",
     "Offensive Security/Config Review",
     "Application Security/Attachments",
