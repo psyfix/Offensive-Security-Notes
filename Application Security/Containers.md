@@ -250,6 +250,8 @@ spec:
 - Apply a strict network policy to the ingress controller namespace. - only allow ingress traffic from pods in other namespaces that need it. Typically the ingress controller only handles incoming requests from the internet not from the internal services.
 - Check that ingress resource files map the correct paths and are not exposing more then they should. Avoid catch-all routes.
 - Limit roles that can create and modify ingress resources.
+- Check securtiy headers are set correctly.
+- Check in general any weird web server config details.
 ### Kubernetes Setup
 #### Dashboard Setup
 
