@@ -233,10 +233,16 @@ spec:
 ```
 
 ### Ingress Controller
+
+#### What is it?
 - Install one ingress controller per cluster. (Nginx)
 - This acts as a proxy for all ingress resources 
 - This stops the need for multiple proxies and load balancers.
 - Deploy the ingress controller and then create the service object with LoadBalancer. (An external load balancer is then deployed automatically via AWS)
+
+#### Securing the Ingress Controller
+- Apply a strict network policy to the ingress controller namespace. - only allow ingress traffic from pods in other namespaces that need it.
+
 ### Ingress Resources
 - Defined just like any other object with kind: Ingress
 - These are consumed and routed by the ingress controller.
