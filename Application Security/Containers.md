@@ -241,7 +241,8 @@ spec:
 - Deploy the ingress controller and then create the service object with LoadBalancer. (An external load balancer is then deployed automatically via AWS)
 
 #### Securing the Ingress Controller
-- Apply a strict network policy to the ingress controller namespace. - only allow ingress traffic from pods in other namespaces that need it.
+- Apply a strict network policy to the ingress controller namespace. - only allow ingress traffic from pods in other namespaces that need it. Typically the ingress controller only handles incoming requests from the internet not from the internal services.
+- Check that ingress resource files map the correct paths and are not exposing more then they should. Avoid catch-all routes.
 
 ### Ingress Resources
 - Defined just like any other object with kind: Ingress
