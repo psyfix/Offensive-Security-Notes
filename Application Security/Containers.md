@@ -268,3 +268,7 @@ spec:
     kubectl port-forward service/<name> <host_port>:<service_port> &
     
     ```
+
+
+#### Auditing
+There are 4 types of auditing: None, Meta
