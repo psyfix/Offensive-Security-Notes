@@ -205,6 +205,7 @@ All configuration is stored in the
 - Policies are linked to one or more pods usually by namespace / label (Pod Selector OR Namespace Selector)
 - When selectors are listed separately with dashes this is an OR logic. With just one dash and then multiple selectors this is an AND.
 - Ideally each pod has its own network policy applied essentially creating a logical host based firewall. This allows for very refined grained network traffic control
+- Don't forget to deny egress from all pods to the cloud node metadata service (this can contain cloud credentials!!)
 ```
 apiVersion: networking.k8s.io/v1
 kind: NetworkPolicy
