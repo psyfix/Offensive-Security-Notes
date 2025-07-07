@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Application Security/Containers.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0993f2c3674dadd3",
+  "active": "4b2fcd576ec95ed7",
   "lastOpenFiles": [
     "Application Security/Attachments/Pasted image 20250629172658.png",
     "Application Security/Containers.md",
@@ -240,4 +240,3 @@
     "Application Security/Attachments",
     "OSCP/P.canvas"
   ]
-}

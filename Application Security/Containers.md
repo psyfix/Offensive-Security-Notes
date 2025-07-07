@@ -239,6 +239,8 @@ Second check the certificate details:
 - Organisation - IMPORTANT!!! Overly permissive can be dangerous here.
 
     ```
+    kubectl get secrets --all-namespaces -o json \ | jq -r '.items[] | select(.type=="kubernetes.io/tls") | "\(.metadata.namespace)/\(.metadata.name)"'
+    
     openssl x509 -in /etc/kubernetes/pki/<cert> -text -noout
     ```
 
