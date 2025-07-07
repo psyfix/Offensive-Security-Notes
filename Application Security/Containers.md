@@ -271,4 +271,4 @@ spec:
 
 
 #### Auditing
-There are 4 types of auditing: None, Meta
+There are 4 types of auditing: None, Metadata, Request, Request & Response.
