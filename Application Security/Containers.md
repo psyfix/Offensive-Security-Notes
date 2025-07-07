@@ -218,7 +218,7 @@ spec:
 - All client certificates should be configured and set in the kube-config files. (Anything that wants to talk to the server api)
 
 ![[Pasted image 20250629103055.png]]
-#### Securing Certificates
+##### Securing Certificates
 First create a spreadsheet, a matrix essentially mapping all Kubernertes components:
 - https://github.com/mmumshad/kubernetes-the-hard-way/blob/master/tools/kubernetes-certs-checker.xlsx
 - https://kubernetes.io/docs/setup/best-practices/certificates/
