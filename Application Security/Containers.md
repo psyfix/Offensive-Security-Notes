@@ -224,28 +224,33 @@ spec:
 #### Storing Certificates Securely
 
 #### Auditing Certificates
-First create a spreadsheet, a matrix essentially mapping all kubenertes components.
+First create a spreadsheet, a matrix essentially mapping all Kubernertes components:
 - https://github.com/mmumshad/kubernetes-the-hard-way/blob/master/tools/kubernetes-certs-checker.xlsx
 - https://kubernetes.io/docs/setup/best-practices/certificates/
 
-First check the file paths to the certificates
+Use the official documentation as a reference for best practices, on where keys should be stored, with what CNAME and O identifiers.
+
+First check the file paths to the certificates, these can often be found inside the main api-server manifest.
 
     ```
     cat /etc/kubernetes/manifests/kube-apiserver.yaml    
     cat /etc/kubernetes/manifests/etcd.yaml
     ```
 
-
 Second check the certificate details:
-- Common Name / Issuer
-- Expiry Date
+- Common Name / Issuer - This should be a known trusted CA.
+- Expiry Date - is it expired?
 - Alternative names
 - Organisation - IMPORTANT!!! Overly permissive can be dangerous here.
 
     ```
     openssl x509 -in /etc/kubernetes/pki/<cert> -text -noout
     ```
-##### Protecting the Root CA
+
+Third check that certificates are stored correctly:
+- An appropriate location, not overly permissive.
+- Not inside the kube config file. - This avoids keys being backed up accidentally somewhere.
+###### Protecting the Root CA
 - Should be restricted to only root and certain processes such as the controller manager.
 - Defined in the kube-controller-manager.yaml
 - Used to sign all new certificates from certificate signing requests.
