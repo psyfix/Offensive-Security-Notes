@@ -218,12 +218,7 @@ spec:
 - All client certificates should be configured and set in the kube-config files. (Anything that wants to talk to the server api)
 
 ![[Pasted image 20250629103055.png]]
-
-#### Creating Secure Certificates
-
-#### Storing Certificates Securely
-
-#### Auditing Certificates
+#### Securing Certificates
 First create a spreadsheet, a matrix essentially mapping all Kubernertes components:
 - https://github.com/mmumshad/kubernetes-the-hard-way/blob/master/tools/kubernetes-certs-checker.xlsx
 - https://kubernetes.io/docs/setup/best-practices/certificates/
@@ -254,16 +249,11 @@ Third check that certificates are stored correctly:
 - Should be restricted to only root and certain processes such as the controller manager.
 - Defined in the kube-controller-manager.yaml
 - Used to sign all new certificates from certificate signing requests.
-
-##### Kube Config File
+###### Kube Config File
 - Avoid storing entire keys in here, instead reference them by an absolute path.
 - Strict permissions on those keys to the user only.
 - This avoids keys being accidentally stored in a backup somewhere.
 - Use multiple contexts and users if necessary to split permissions and enforce principle of least privilege.
-
-For example below, multiple contexts and users are used, GOOD, keys are referenced by absolute path GOOD.
-![[Pasted image 20250629172658.png]]
-
 ### Authorization & RBAC
 
 ### Network 
