@@ -50,82 +50,16 @@ Cluster Setup and Hardening
 - Kube-Bench https://github.com/aquasecurity/kube-bench
 - Trivy also supports benchmark scanning.
 
-# Kube API Server
 
+### Administrating 
+##### Port Forwarding
+- Used to reach local services running inside the cluster.
+    ```
+    kubectl port-forward service/<name> <host_port>:<service_port> &
+    
+    ```
 
-## General Best practices
-- Do not use hard coded password or token files.
-- Do not use the api directly because then password are in the bash history.
-- Use service accounts for 3rd party integrations  - essentially creates an api/bearer token for use.
-- service accounts that are local in the cluster can be mounted, that way when the container is spawned the secret is mounted to it, authenticating it. The service account is simply defined in the pod definition yml file.
-- Integrate with kerberos or ldap.
-
-## Authorization
-#### Authorization Modes are Defined.
-- Defined in api-server manifest.
-- The order does matter.
-- Determines which methods are used by the server.
-
-#### Configuring Authorization Modes.
-RBAC
-- This is the most common approach.
-- Each user, service account or server component is binded to a role.
-- There is a role file defining the permissions for that role.
-	- API Group defined.
-	- Then resources in API Group defined.
-	- Then methods allowed on resources defined.
-- There is a role binding file that binds a subject(s) to a role.
-
-Node
-
-Webhook (OPA)
-
-Always Allow + Always Deny
-- Should be avoided and a red flag in most cases.
-
-ABAC
-- Also should be avoided this is deprecated by RBAC + OPA
-
-#### Checklist
-- Verify cluster roles are not overly permissive.
-	- No cluster roles assigned to service accounts.
-- Verify service account role bindings are not overly permissive
-- Verify user role bindings are not overly permissive (kubectl get rolebindings -A -o yaml  | grep user)
-
-- What can they do?
-	- RBAC Authorization
-	- ABAC Authorization
-	- Node Authorization
-	- Webhook mode
-	- Principal of least privilege.
-
-Network Policies
-- Restricting traffic between containers.
-
-Modes: AlwaysAllow, Node, ABAC, RBAC, Webhook, AlwaysDeny
-- The modes to be used are set in the kube-apiserver.yaml manifest.
-- Authorisation modes are handled in the order they are specified in.
-- AlwaysAllow is a big NO.
-
-How to create a role.
-- First create the YAML file.
-- Then apply with the following command.
-![[Pasted image 20250702195043.png]]
-![[Pasted image 20250702195138.png]]
-
-How to bind a role to a user.
-![[Pasted image 20250702195618.png]]
-
-![[Pasted image 20250702195840.png]]
-
-Auditing Roles
-- Never put sensitive information in the kube-public namespace.
-- Be careful with Cluster Roles. As these often give access to resources cluster wide. Especially if given to a service account.
-
-Testing Roles
-- Using the can-i to manually test permissions on serviceaccounts, users and namespaces.
-![[Pasted image 20250702200043.png]]
-
+### Server Hardening
 #### Securing The Kubelet
 All configuration is stored in the kubelet configuration file:
 - Check that the API port on 10255 is disabled - this by default allows unauthenticated access read only.
@@ -138,77 +72,17 @@ Securing the Dashboard
 - Best to keep it local and use a jumphost + VPN + OAuth/OpenID.
 All configuration is stored in the 
 - 
+Modes: AlwaysAllow, Node, ABAC, RBAC, Webhook, AlwaysDeny
+- The modes to be used are set in the kube-apiserver.yaml manifest.
+- Authorisation modes are handled in the order they are specified in.
+- AlwaysAllow is a big NO.
 
-#### Network Policies
-- **Kubernetes is configured by default with an ALL ALLOW rule by default between pods.** Allowing network communication between the entire cluster open and possible.
-- Policies are linked to one or more pods usually by namespace / label (Pod Selector OR Namespace Selector)
-- When selectors are listed separately with dashes this is an OR logic. With just one dash and then multiple selectors this is an AND.
-- Ideally each pod has its own network policy applied essentially creating a logical host based firewall. This allows for very refined grained network traffic control
-- Don't forget to deny egress from all pods to the cloud node metadata service (this can contain cloud credentials!!)
-```
-apiVersion: networking.k8s.io/v1
-kind: NetworkPolicy
-metadata:
-  name: example-policy
-  namespace: default
-spec:
-  podSelector:
-    matchLabels:
-      app: my-app  # Apply to pods with this label
-  ingress:
-  - from:
-    - podSelector:
-        matchLabels:
-          role: frontend
-    - namespaceSelector:
-        matchLabels:
-          team: dev
-    - ipBlock:
-        cidr: 10.0.0.0/16
-        except:
-        - 10.0.5.0/24
-    ports:
-    - protocol: TCP
-      port: 80
-```
-
-### Ingress
-
-#### Ingress Controller
-
-#### What is it?
-- Install one ingress controller per cluster. (Nginx)
-- This acts as a proxy for all ingress resources 
-- This stops the need for multiple proxies and load balancers.
-- Deploy the ingress controller and then create the service object with LoadBalancer. (An external load balancer is then deployed automatically via AWS)
-#### Ingress Resources
-- Defined just like any other object with kind: Ingress
-- These are consumed and routed by the ingress controller.
-![[Pasted image 20250704175702.png]]
-
-#### Securing the Ingress
-- Apply a strict network policy to the ingress controller namespace. - only allow ingress traffic from pods in other namespaces that need it. Typically the ingress controller only handles incoming requests from the internet not from the internal services.
-- Check that ingress resource files map the correct paths and are not exposing more then they should. Avoid catch-all routes.
-- Limit roles that can create and modify ingress resources.
-- Check security headers are set correctly.
-- Check in general any weird web server config details.
-### Kubernetes Setup
-#### Dashboard Setup
-
-    ```
-    kubectl apply -f <link to github yaml>
-    ```
-
-
-#### Commands 
-##### Port Forwarding
-- Used to reach local services running inside the cluster.
-    ```
-    kubectl port-forward service/<name> <host_port>:<service_port> &
-    
-    ```
-
-
+### General Best practices
+- Do not use hard coded password or token files.
+- Do not use the api directly because then password are in the bash history.
+- Use service accounts for 3rd party integrations  - essentially creates an api/bearer token for use.
+- service accounts that are local in the cluster can be mounted, that way when the container is spawned the secret is mounted to it, authenticating it. The service account is simply defined in the pod definition yml file.
+- Integrate with kerberos or ldap.
 ### Authentication
 #### TLS
 - This is a commonly used authentication type in Kubernetes environments to enforce secure authentication that is passwordless.
@@ -258,7 +132,97 @@ Third check that certificates are stored correctly:
 - Use multiple contexts and users if necessary to split permissions and enforce principle of least privilege.
 ### Authorization & RBAC
 
+Auditing Roles
+- Never put sensitive information in the kube-public namespace.
+- Be careful with Cluster Roles. As these often give access to resources cluster wide. Especially if given to a service account.
+
+Testing Roles
+- Using the can-i to manually test permissions on serviceaccounts, users and namespaces.
+
+#### Authorization Modes are Defined.
+- Defined in api-server manifest.
+- The order does matter.
+- Determines which methods are used by the server.
+
+#### Configuring Authorization Modes.
+RBAC
+- This is the most common approach.
+- Each user, service account or server component is binded to a role.
+- There is a role file defining the permissions for that role.
+	- API Group defined.
+	- Then resources in API Group defined.
+	- Then methods allowed on resources defined.
+- There is a role binding file that binds a subject(s) to a role.
+
+Node
+
+Webhook (OPA)
+
+Always Allow + Always Deny
+- Should be avoided and a red flag in most cases.
+
+ABAC
+- Also should be avoided this is deprecated by RBAC + OPA
+
+#### Checklist
+- Verify cluster roles are not overly permissive.
+	- No cluster roles assigned to service accounts.
+- Verify service account role bindings are not overly permissive
+- Verify user role bindings are not overly permissive (kubectl get rolebindings -A -o yaml  | grep user)
 ### Network 
+#### Network Policies
+- **Kubernetes is configured by default with an ALL ALLOW rule by default between pods.** Allowing network communication between the entire cluster open and possible.
+- Policies are linked to one or more pods usually by namespace / label (Pod Selector OR Namespace Selector)
+- When selectors are listed separately with dashes this is an OR logic. With just one dash and then multiple selectors this is an AND.
+- Ideally each pod has its own network policy applied essentially creating a logical host based firewall. This allows for very refined grained network traffic control
+- Don't forget to deny egress from all pods to the cloud node metadata service (this can contain cloud credentials!!)
+```
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: example-policy
+  namespace: default
+spec:
+  podSelector:
+    matchLabels:
+      app: my-app  # Apply to pods with this label
+  ingress:
+  - from:
+    - podSelector:
+        matchLabels:
+          role: frontend
+    - namespaceSelector:
+        matchLabels:
+          team: dev
+    - ipBlock:
+        cidr: 10.0.0.0/16
+        except:
+        - 10.0.5.0/24
+    ports:
+    - protocol: TCP
+      port: 80
+```
+
+#### Ingress
+
+#### Ingress Controller
+
+#### What is it?
+- Install one ingress controller per cluster. (Nginx)
+- This acts as a proxy for all ingress resources 
+- This stops the need for multiple proxies and load balancers.
+- Deploy the ingress controller and then create the service object with LoadBalancer. (An external load balancer is then deployed automatically via AWS)
+#### Ingress Resources
+- Defined just like any other object with kind: Ingress
+- These are consumed and routed by the ingress controller.
+![[Pasted image 20250704175702.png]]
+
+#### Securing the Ingress
+- Apply a strict network policy to the ingress controller namespace. - only allow ingress traffic from pods in other namespaces that need it. Typically the ingress controller only handles incoming requests from the internet not from the internal services.
+- Check that ingress resource files map the correct paths and are not exposing more then they should. Avoid catch-all routes.
+- Limit roles that can create and modify ingress resources.
+- Check security headers are set correctly.
+- Check in general any weird web server config details.
 
 ### Auditing
 There are 4 types of auditing: None, Metadata, Request, Request & Response.
