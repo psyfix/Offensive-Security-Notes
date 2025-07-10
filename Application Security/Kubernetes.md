@@ -1,4 +1,4 @@
-Kubernetes Architecture
+###  Architecture
 -> Cluster
 	-> Control Plane (API, ETCD, KUBELET) 
 	-> Hosts (Nodes)
@@ -37,7 +37,7 @@ Service Accounts
 - Tokens are typically used to communicate with the api-server in the event there is a service running in a container that needs to such as jenkins.
 - All tokens are stored on the ETCD server
 - Tokens are deployed on containers inside pods and mounted to /var/run/secrets/kubernetes.io/</serviceaccount>/</token>
-## The 4C's of Cloud Native Security
+#### The 4C's of Cloud Native Security
 
 Cloud (Infrastructure)
 Cluster (Authentication, Authorisation, Admission, Network Policy)
