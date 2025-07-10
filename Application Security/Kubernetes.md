@@ -224,5 +224,15 @@ spec:
 - Check security headers are set correctly.
 - Check in general any weird web server config details.
 
-### Auditing
+### Operations
+
+Audit & Logging
+
+#### Auditd
+#### API Server Auditing
 There are 4 types of auditing: None, Metadata, Request, Request & Response.
+
+Monitoring & Detection
+Falco
+Datadog
+Aqua Trace
