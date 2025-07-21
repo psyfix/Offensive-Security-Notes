@@ -6,10 +6,13 @@ Splits the application security or product security into several areas.
 - Strategy and Metrics
 - Policy and Compliance
 - Education & Guidance
+	- Security Champions program.
 
 ## Design
 - Threat Modelling / Assessment
 - Security Requirements -> This is then used to create security test cases later on.
+	- OWASP Cornacopia 
+	- OWASP ASVS, MASVS
 - Secure Architecture
 
 Implementation
