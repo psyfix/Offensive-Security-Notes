@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/Vulnerability Management.md",
+                "file": "Application Security/Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vulnerability Management"
+              "title": "Strategy"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "412821abdc7af0b7",
+            "id": "76e1bfa2c82f96ee",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -192,14 +192,14 @@
   },
   "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
-    "Application Security/Kubernetes.md",
+    "Application Security/What is a Secure Software Development Life Cycle.md",
     "Application Security/Vulnerability Management.md",
+    "Application Security/Kubernetes.md",
     "Application Security/Securing CICD.md",
     "Application Security/Strategy.md",
     "Application Security/Attachments/Attachments.md",
     "Application Security/Attachments/Pasted image 20250629172658.png",
     "Application Security/Attachments/Pasted image 20250629121123.png",
-    "Application Security/What is a Secure Software Development Life Cycle.md",
     "Application Security/Attachments/Pasted image 20250704175702.png",
     "Application Security/DevSecOps/Tools.md",
     "Application Security/DevSecOps/Setting Up.md",

@@ -9,11 +9,12 @@ Splits the application security or product security into several areas.
 
 ## Design
 - Threat Modelling / Assessment
-- Security Requirements
+- Security Requirements -> This is then used to create security test cases later on.
 - Secure Architecture
 
 Implementation
 
 Verification
+
 
 Operations
