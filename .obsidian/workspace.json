@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "a568559cd4d6f305",
+            "id": "412821abdc7af0b7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a568559cd4d6f305",
+  "active": "412821abdc7af0b7",
   "lastOpenFiles": [
     "Application Security/Attachments/Pasted image 20250629172658.png",
     "Application Security/Kubernetes.md",
