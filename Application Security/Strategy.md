@@ -1,6 +1,6 @@
 Following the OWASP Software Assurance Maturity Model (SAMM).
 
-Splits the application securtiy or product security into several areas.
+Splits the application security or product security into several areas.
 
 ## Governance
 - Strategy and Metrics

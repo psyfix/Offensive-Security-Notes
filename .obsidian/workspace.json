@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/Kubernetes.md",
+                "file": "Application Security/Vulnerability Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "Vulnerability Management"
             }
           }
         ]
@@ -190,14 +190,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "412821abdc7af0b7",
+  "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
-    "Application Security/Attachments/Pasted image 20250629172658.png",
     "Application Security/Kubernetes.md",
+    "Application Security/Vulnerability Management.md",
+    "Application Security/Securing CICD.md",
+    "Application Security/Strategy.md",
+    "Application Security/Attachments/Attachments.md",
+    "Application Security/Attachments/Pasted image 20250629172658.png",
     "Application Security/Attachments/Pasted image 20250629121123.png",
     "Application Security/What is a Secure Software Development Life Cycle.md",
-    "Application Security/Strategy.md",
-    "Application Security/Securing CICD.md",
     "Application Security/Attachments/Pasted image 20250704175702.png",
     "Application Security/DevSecOps/Tools.md",
     "Application Security/DevSecOps/Setting Up.md",
@@ -232,7 +234,6 @@
     "Networking/Networking.md",
     "Networking",
     "Canvas.canvas",
-    "Offensive Security/Offensive Security.md",
     "Offensive Security",
     "Application Security",
     "Offensive Security/Source Code/Attachments",
