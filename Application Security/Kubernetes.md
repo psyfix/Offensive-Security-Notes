@@ -241,6 +241,7 @@ Aqua Trace
 - These are defined policies that become part of the authorisation process when an api request is made.
 - Defined in the kube-apiserver.yaml manifest using the --enable-admission-plugins option.
 - Two types of admission controlling, mutation and validation - one can edit a request and one can validate and deny/allow a request.
+- Mutating and Validation Admission Webhook exists to integrate external policies that are not built into Kubernetes.
 
 ![[Pasted image 20250722110233.png]]
 
