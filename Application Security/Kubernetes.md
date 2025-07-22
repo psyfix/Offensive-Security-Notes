@@ -262,14 +262,19 @@ Adding a PSA to a specific namespace:
 
 #### WebHook Security Admission (Open Policy Agent / OPA)
 
-Typical methodology.
+##### Typical methodology.
 - Define security requirements first based on design and document.
 - Create OPA policy. -> Audit mode first.
 - Create test for OPA Policy.
-- PR / Merge request happens to development branch, then triggers build.
+- Run tests locally in cli.
+- PR / Merge request happens -> reviewer also runs tests and check logic.
+- Merge to development branch, then triggers build.
 - Tests run
 - Check audit / logs to see if build was successful.
+- Promote to staging or prod.
 
+###### Playground / Sandbox
+https://play.openpolicyagent.org/
 #### Security Contexts
 - These are security configurations and settings that are defined in Pod Definition files.
 - Can either be defined at the Pod level or Container level. Container always takes priority if the same context setting is defined in both but differently.
