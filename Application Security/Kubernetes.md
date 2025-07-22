@@ -258,3 +258,4 @@ privileged: true
 
 hostPath:
 - This is dangerous because it mounts a volume from the underlying node.
+- when mounting always use readOnly: True where possible to avoid write permissions.
