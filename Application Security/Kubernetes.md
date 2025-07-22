@@ -252,8 +252,7 @@ This is one of the admission controllers that is enabled by default.
 - There are three out the box ready modes to use (Enforce, Audit, Warn)
 - Possible to write custom policies and apply also.
 
-Adding a PSA to a namespace.
-
+Adding a PSA to a namespace:
     ```
     kubectl label ns <namespace> \ pod-security.kubernetes.io/<mode>=<profile>
     ```
