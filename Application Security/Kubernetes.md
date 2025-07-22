@@ -245,6 +245,12 @@ Aqua Trace
 
 ![[Pasted image 20250722110233.png]]
 
+#### Pod Security Admission
+- These are scoped to a namespace.
+- There are three out the box ready policies to use (Restricted, Baseline, Privileged)
+- Possible to write custom policies and apply also.
+
+
 #### Security Contexts
 - These are security configurations and settings that are defined in Pod Definition files.
 - Can either be defined at the Pod level or Container level. Container always takes priority if the same context setting is defined in both but differently.
