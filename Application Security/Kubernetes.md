@@ -237,6 +237,10 @@ Falco
 Datadog
 Aqua Trace
 
+### Admission Controllers
+- These are defined policies that become part of the authorisation process when an api request is made.
+- Defined in the kube-apiserver.yaml manifest using the --enable-admission-plugins option.
+
 #### Security Contexts
 - These are security configurations and settings that are defined in Pod Definition files.
 - Can either be defined at the Pod level or Container level. Container always takes priority if the same context setting is defined in both but differently.
