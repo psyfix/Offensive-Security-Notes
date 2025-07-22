@@ -264,9 +264,11 @@ Adding a PSA to a specific namespace:
 
 Typical methodology.
 - Define security requirements first based on design and document.
-- Create OPA policy.
-- Test OPA Policy using the OPA cli.
-- Deploy to dev environment / pipelines.
+- Create OPA policy. -> Audit mode first.
+- Create test for OPA Policy.
+- PR / Merge request happens to development branch, then triggers build.
+- Tests run
+- Check audit / logs to see if build was successful.
 
 #### Security Contexts
 - These are security configurations and settings that are defined in Pod Definition files.
