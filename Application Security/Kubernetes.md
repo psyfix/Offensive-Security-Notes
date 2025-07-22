@@ -246,8 +246,10 @@ Aqua Trace
 ![[Pasted image 20250722110233.png]]
 
 #### Pod Security Admission
+This is one of the admission controllers that is enabled by default.
 - These are scoped to a namespace.
-- There are three out the box ready policies to use (Restricted, Baseline, Privileged)
+- There are three out the box ready profiles to use (Restricted, Baseline, Privileged)
+- There are three out the box ready modes to use (Enforce, Audit, Warn)
 - Possible to write custom policies and apply also.
 
 
