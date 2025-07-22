@@ -255,3 +255,6 @@ runAsUser: <user-id>
 
 privileged: true
 - bad forces to run as root.
+
+hostPath:
+- This is dangerous because it mounts a volume from the underlying node.
