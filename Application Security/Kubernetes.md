@@ -240,3 +240,4 @@ Aqua Trace
 #### Security Contexts
 - These are security configurations and settings that are defined in Pod Definition files.
 - Can either be defined at the Pod level or Container level. Container always takes priority if the same context setting is defined in both but differently.
+- Capabilities are only defined at the container level because they give special permissions to perform operations on the underlying node.
