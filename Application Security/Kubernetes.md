@@ -248,15 +248,12 @@ Aqua Trace
 #### Pod Security Admission
 This is one of the admission controllers that is enabled by default.
 - These are scoped to a namespace.
-- There are three out the box ready profiles to use (Restricted, Baseline, Privileged)
+- There are three out the box ready profiles to use (Restricted, Baseline, Privileged) https://kubernetes.io/docs/concepts/security/pod-security-standards/
 - There are three out the box ready modes to use (Enforce, Audit, Warn)
 - Possible to write custom policies and apply also.
 
 Setting a cluster wide AdmissionConfiguration object:
-
-    ```
-    Type/Paste Your Code
-    ```
+![[Pasted image 20250722181516.png]]
 
 Adding a PSA to a specific namespace:
     ```
