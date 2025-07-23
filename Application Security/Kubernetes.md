@@ -266,7 +266,7 @@ Adding a PSA to a specific namespace:
 - Define security requirements first based on design and document.
 - Create OPA policy. -> Audit mode first.
 - Create test for OPA Policy.
-- Run tests locally in cli.
+- Run tests locally in cli with opa test.
 - PR / Merge request happens -> reviewer also runs tests and check logic.
 - Merge to development branch, then triggers build.
 - Tests run
