@@ -260,7 +260,7 @@ Adding a PSA to a specific namespace:
     kubectl label ns <namespace> \ pod-security.kubernetes.io/<mode>=<profile>
     ```
 
-#### WebHook Security Admission (Open Policy Agent / OPA Gate Keeper)
+#### Open Policy Agent / OPA Gate Keeper (WebHook Security Admission)
 
 ##### Typical methodology.
 - Define Security Requirements (Threat model, CIS, ISO 27001)
@@ -278,9 +278,10 @@ Adding a PSA to a specific namespace:
 ##### OPA Templates
 - https://github.com/open-policy-agent/gatekeeper-library
 - A library of templates to use.
-
 ###### Playground / Sandbox
 https://play.openpolicyagent.org/
+
+
 #### Security Contexts
 - These are security configurations and settings that are defined in Pod Definition files.
 - Can either be defined at the Pod level or Container level. Container always takes priority if the same context setting is defined in both but differently.
