@@ -260,7 +260,7 @@ Adding a PSA to a specific namespace:
     kubectl label ns <namespace> \ pod-security.kubernetes.io/<mode>=<profile>
     ```
 
-#### WebHook Security Admission (Open Policy Agent / OPA)
+#### WebHook Security Admission (Open Policy Agent / OPA Gate Keeper)
 
 ##### Typical methodology.
 - Define security requirements first based on design and document.
