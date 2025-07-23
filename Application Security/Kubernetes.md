@@ -263,15 +263,15 @@ Adding a PSA to a specific namespace:
 #### WebHook Security Admission (Open Policy Agent / OPA Gate Keeper)
 
 ##### Typical methodology.
-- Define security requirements first based on design and document.
-- Create OPA policy. -> Audit mode first.
-- Create test for OPA Policy. (Positive, Negative and Edge cases.)
+- Define Security Requirements (Threat model, CIS, ISO 27001)
+- Create OPA rego policy. -> Audit mode first.
+- Create test for OPA rego policy. (Positive, Negative and Edge cases.)
 - Run tests locally in cli with opa test.
-- Create 
 - PR to feature branch happens -> reviewer also runs tests and check logic.
 - Merge to development branch, then triggers build.
-- Tests run
+- Pipeline build runs.
 - Check kubernetes audit / log artifact from the build.
+- Switch to enforce mode.
 - Promote to staging or prod.
 
 ###### Playground / Sandbox
