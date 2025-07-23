@@ -265,12 +265,13 @@ Adding a PSA to a specific namespace:
 ##### Typical methodology.
 - Define security requirements first based on design and document.
 - Create OPA policy. -> Audit mode first.
-- Create test for OPA Policy.
+- Create test for OPA Policy. (Positive, Negative and Edge cases.)
 - Run tests locally in cli with opa test.
-- PR / Merge request happens -> reviewer also runs tests and check logic.
+- Create 
+- PR to feature branch happens -> reviewer also runs tests and check logic.
 - Merge to development branch, then triggers build.
 - Tests run
-- Check audit / logs to see if build was successful.
+- Check kubernetes audit / log artifact from the build.
 - Promote to staging or prod.
 
 ###### Playground / Sandbox
