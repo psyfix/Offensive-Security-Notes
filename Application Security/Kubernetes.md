@@ -264,15 +264,20 @@ Adding a PSA to a specific namespace:
 
 ##### Typical methodology.
 - Define Security Requirements (Threat model, CIS, ISO 27001)
+	- Typically these match CIS benchmark.
 - Create OPA rego policy. -> Audit mode first.
 - Create test for OPA rego policy. (Positive, Negative and Edge cases.)
 - Run tests locally in cli with opa test.
 - PR to feature branch happens -> reviewer also runs tests and check logic.
 - Merge to development branch, then triggers build.
-- Pipeline build runs.
+- Pipeline build runs.q
 - Check kubernetes audit / log artifact from the build.
 - Switch to enforce mode.
 - Promote to staging or prod.
+
+##### OPA Templates
+- https://github.com/open-policy-agent/gatekeeper-library
+- A library of templates to use.
 
 ###### Playground / Sandbox
 https://play.openpolicyagent.org/
