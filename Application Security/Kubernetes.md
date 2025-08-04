@@ -296,3 +296,7 @@ privileged: true
 hostPath:
 - This is dangerous because it mounts a volume from the underlying node.
 - when mounting always use readOnly: True where possible to avoid write permissions.
+
+
+#### Managing Secrets
+- Use an external secrets manager (HashiCorp Vault, AWS Secrets) plus an injector such as Vault Agent Injector to j
