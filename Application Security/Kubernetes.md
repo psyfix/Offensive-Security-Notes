@@ -300,3 +300,4 @@ hostPath:
 
 #### Managing Secrets
 - Use an external secrets manager (HashiCorp Vault, AWS Secrets) plus an injector such as Vault Agent Injector to fetch and inject secrets at run time into pods.
+- Avoid creating secrets in kubernetes these are just stored in the etcd server in base64 encoding.
