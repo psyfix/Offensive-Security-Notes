@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/Policy as Code.md",
+                "file": "Application Security/Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Policy as Code"
+              "title": "Kubernetes"
             }
           }
         ]
@@ -192,14 +192,14 @@
   },
   "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
-    "Application Security/Kubernetes.md",
+    "Application Security/Securing CICD.md",
     "Application Security/Policy as Code.md",
+    "Application Security/Kubernetes.md",
     "Application Security/Attachments/Pasted image 20250722181516.png",
     "Application Security/Attachments/Pasted image 20250722110233.png",
     "Application Security/Strategy.md",
     "Application Security/What is a Secure Software Development Life Cycle.md",
     "Application Security/Vulnerability Management.md",
-    "Application Security/Securing CICD.md",
     "Application Security/Attachments/Attachments.md",
     "Application Security/Attachments/Pasted image 20250629172658.png",
     "Application Security/Attachments/Pasted image 20250629121123.png",
