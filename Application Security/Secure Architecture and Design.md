@@ -2,6 +2,7 @@
 Core of modern secure design:
 - Zero Trust - Using a service mesh and mTLS to enforce encrypted connections and identity checks between services. 
 	- Use a partial service mesh to secure only critical communications between services and reducing load on the network.
+	- Between service to cloud resources communciations, use network policies and IAM roles to authenticate.
 - Policy as code - Where possible enforcing security via automated policy checks during the deployment of an application.
 
 Network Security and Segmentation
