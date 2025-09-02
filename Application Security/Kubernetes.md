@@ -307,6 +307,8 @@ hostPath:
 ### Container Sandboxing
 #### gVisor
 - Creating an application / user space level kernel to proxy syscalls to the real kernel.
-- Means most exploits will break or not work because they don't consider gVisor.
+- Breaks down syscalls into many small ones
+- Call filter allow / black list syscalls.
+- Means most kernel exploits will break or not work because they don't consider gVisor.
 ##### Kata Containers
 #### Runtime Classes
