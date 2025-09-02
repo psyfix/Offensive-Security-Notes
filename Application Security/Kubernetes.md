@@ -315,5 +315,5 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 ##### Kata Containers
 - Kata takes things a step further and gives each container its own virtual machine (own kernel).
 - Each container speaks to its own kernel.
-- This affects performance especially on cloud because this becomes ne
+- This affects performance especially on cloud because this becomes nested virtualisation.
 #### Runtime Classes
