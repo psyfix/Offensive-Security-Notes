@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Application Security/Secure Architecture and Design.md",
+                "file": "Application Security/Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secure Architecture and Design"
+              "title": "Kubernetes"
             }
           }
         ]
@@ -192,8 +192,8 @@
   },
   "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
-    "Application Security/Kubernetes.md",
     "Application Security/Secure Architecture and Design.md",
+    "Application Security/Kubernetes.md",
     "Application Security/Securing CICD.md",
     "Application Security/What is a Secure Software Development Life Cycle.md",
     "Application Security/Policy as Code.md",
