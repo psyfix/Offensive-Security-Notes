@@ -305,10 +305,15 @@ hostPath:
 
 
 ### Container Sandboxing
+The whole purpose of container sandboxing is to protect against kernel level exploits because then breaking out of the container is not possible.
 #### gVisor
 - Creating an application / user space level kernel to proxy syscalls to the real kernel.
 - Breaks down syscalls into many small ones
 - Call filter allow / black list syscalls.
 - Means most kernel exploits will break or not work because they don't consider gVisor.
+- All containers still speak to the same host /node kernel here
 ##### Kata Containers
+- Kata takes things a step further and gives each container its own virtual machine (own kernel).
+- Each container speaks to its own kernel.
+- This affects performance.
 #### Runtime Classes
