@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Kubernetes"
             }
+          },
+          {
+            "id": "e96db70e2427fda6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             }
           },
           {
-            "id": "840460b468c8be4b",
+            "id": "d935416f755324fb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -181,6 +194,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -190,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0993f2c3674dadd3",
+  "active": "e96db70e2427fda6",
   "lastOpenFiles": [
     "Application Security/Secure Architecture and Design.md",
     "Application Security/Kubernetes.md",
