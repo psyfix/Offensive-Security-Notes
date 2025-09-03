@@ -325,7 +325,12 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 #### Hard 
 - Separate kernel for each container or pod.
 - Each team or tenant operates completely in its own environment. - eg. Kata Containers or full VMs.
+- There is a multi tenant environment where data regulations do not allow access of data.
 #### Soft
 - The use of namespaces and network policies.
 - The use of policy as code.
 - Resource limits and quotas.
+
+#### Hybrid
+- A mixture of both soft and hard.
+- Hard is applied on tenants or applications that have high security requirements. - here the use of kata or gvisor is applied during the container runtime / pod definition file.
