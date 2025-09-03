@@ -306,9 +306,12 @@ hostPath:
 
 
 
-### Container Sandboxing
+
+### Isolation
+
+#### Container Sandboxing
 The whole purpose of container sandboxing is to protect against kernel level exploits because then breaking out of the container is not possible.
-#### gVisor
+##### gVisor
 - Creating an application / user space level kernel to proxy syscalls to the real kernel.
 - Breaks down syscalls into many small ones
 - Call filter allow / black list syscalls.
@@ -318,10 +321,7 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 - Kata takes things a step further and gives each container its own virtual machine (own kernel).
 - Each container speaks to its own kernel.
 - This affects performance especially on cloud because this becomes nested virtualisation.
-#### Runtime Classes
-
-
-### Isolation
+##### Runtime Classes
 #### Hard 
 - Separate kernel for each container or pod.
 - Each team or tenant operates completely in its own environment. - eg. Kata Containers or full VMs.
@@ -335,3 +335,14 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 #### Hybrid
 - A mixture of both soft and hard.
 - Hard is applied on tenants or applications that have high security requirements. - here the use of kata or gvisor is applied during the container runtime / pod definition file.
+
+#### Control Plane Isolation
+
+#### Namespaces
+#### RBAC Policies
+
+#### Resource Quotas
+- Applied to namespaces to limit the amount of resources it can consume.
+- Stops resource exhaustion of the entire cluster.
+
+![[Pasted image 20250903121541.png]]
