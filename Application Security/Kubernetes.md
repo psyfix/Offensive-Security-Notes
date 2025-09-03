@@ -326,6 +326,7 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 - Separate kernel for each container or pod.
 - Each team or tenant operates completely in its own environment. - eg. Kata Containers or full VMs.
 - There is a multi tenant environment where data regulations do not allow access of data.
+- No sharing of resources between tenants!!
 #### Soft
 - The use of namespaces and network policies.
 - The use of policy as code.
