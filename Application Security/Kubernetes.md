@@ -304,6 +304,8 @@ hostPath:
 - NEVER store secrets in config maps!! These are for environment variables not sensitive information!!.
 
 
+
+
 ### Container Sandboxing
 The whole purpose of container sandboxing is to protect against kernel level exploits because then breaking out of the container is not possible.
 #### gVisor
@@ -317,3 +319,13 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 - Each container speaks to its own kernel.
 - This affects performance especially on cloud because this becomes nested virtualisation.
 #### Runtime Classes
+
+
+### Isolation
+#### Hard 
+- Separate kernel for each container or pod.
+- Each team or tenant operates completely in its own environment. - eg. Kata Containers or full VMs.
+#### Soft
+- The use of namespaces and network policies.
+- The use of policy as code.
+- Resource limits and quotas.
