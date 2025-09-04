@@ -347,3 +347,7 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 - Usually applied to each teams / applications name space.
 
 ![[Pasted image 20250903121541.png]]
+
+### Data Plane Isolation
+
+#####
