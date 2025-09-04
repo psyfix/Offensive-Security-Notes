@@ -344,5 +344,6 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 #### Resource Quotas
 - Applied to namespaces to limit the amount of resources it can consume.
 - Stops resource exhaustion of the entire cluster.
+- Usually applied to each teams / applications name space.
 
 ![[Pasted image 20250903121541.png]]
