@@ -351,4 +351,8 @@ The whole purpose of container sandboxing is to protect against kernel level exp
 
 ### Data Plane Isolation
 - Network Policies
-- Node Pools and Taints - Dedicated nodes for specific name spaces.
+
+Node Pools and Taints - Dedicated nodes for specific name spaces.
+- Nodes are tainted
+- Pods include tolerations that match the set taints.
+- This way pods cannot be scheduled on other nodes. This isolates pods and node to specific teams / namespaces.
