@@ -61,23 +61,11 @@ Cluster Setup and Hardening
 
 ### Server Hardening
 
-
-Securing the Dashboard
-- How is it being accessed? Is it exposed to the public?
-- Best to keep it local and use a jumphost + VPN + OAuth/OpenID.
-All configuration is stored in the 
-- 
 Modes: AlwaysAllow, Node, ABAC, RBAC, Webhook, AlwaysDeny
 - The modes to be used are set in the kube-apiserver.yaml manifest.
 - Authorisation modes are handled in the order they are specified in.
 - AlwaysAllow is a big NO.
 
-### General Best practices
-- Do not use hard coded password or token files.
-- Do not use the api directly because then password are in the bash history.
-- Use service accounts for 3rd party integrations  - essentially creates an api/bearer token for use.
-- service accounts that are local in the cluster can be mounted, that way when the container is spawned the secret is mounted to it, authenticating it. The service account is simply defined in the pod definition yml file.
-- Integrate with kerberos or ldap.
 ### Authentication
 #### TLS
 - This is a commonly used authentication type in Kubernetes environments to enforce secure authentication that is passwordless.
@@ -359,6 +347,9 @@ All configuration is stored in the kubelet configuration file:
 - Check that the API port on 10250 is locked down - again by default allows anonymous access. (in config file anonymous enabled: false)
 - Check that the authentication mode in the kubelet config is set to certificate based.
 - Check that the authorization mode in the kubetlet config is set to Webhook.
+#### Securing the Dashboard
+- How is it being accessed? Is it exposed to the public?
+- Best to keep it local and use a jumphost + VPN + OAuth/OpenID.
 
 ### Pod Security
 
