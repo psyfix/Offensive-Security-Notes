@@ -64,7 +64,9 @@ Cluster Setup and Hardening
 
 
 
-
+### References
+[NSA & CISA Kubernetes Hardening Guidance ](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF)
+[CIS Kubernetes Benchmark](https://www.cisecurity.org/benchmark/kubernetes)
 ### Design and Architecture
 
 #### Managing Secrets
