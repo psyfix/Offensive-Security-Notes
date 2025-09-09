@@ -304,9 +304,6 @@ hostPath:
 - NEVER store secrets in config maps!! These are for environment variables not sensitive information!!.
 
 
-
-
-
 ### Isolation
 
 #### Container Sandboxing
@@ -356,3 +353,4 @@ Node Pools and Taints - Dedicated nodes for specific name spaces.
 - Nodes are tainted
 - Pods include tolerations that match the set taints.
 - This way pods cannot be scheduled on other nodes. This isolates pods and node to specific teams / namespaces.
+
