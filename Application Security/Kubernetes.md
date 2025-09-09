@@ -60,12 +60,7 @@ Cluster Setup and Hardening
     ```
 
 ### Server Hardening
-#### Securing The Kubelet
-All configuration is stored in the kubelet configuration file:
-- Check that the API port on 10255 is disabled - this by default allows unauthenticated access read only.
-- Check that the API port on 10250 is locked down - again by default allows anonymous access. (in config file anonymous enabled: false)
-- Check that the authentication mode in the kubelet config is set to certificate based.
-- Check that the authorization mode in the kubetlet config is set to Webhook.
+
 
 Securing the Dashboard
 - How is it being accessed? Is it exposed to the public?
@@ -354,3 +349,23 @@ Node Pools and Taints - Dedicated nodes for specific name spaces.
 - Pods include tolerations that match the set taints.
 - This way pods cannot be scheduled on other nodes. This isolates pods and node to specific teams / namespaces.
 
+### Design and Architecture
+
+### Cluster Setup
+
+#### Securing The Kubelet
+All configuration is stored in the kubelet configuration file:
+- Check that the API port on 10255 is disabled - this by default allows unauthenticated access read only.
+- Check that the API port on 10250 is locked down - again by default allows anonymous access. (in config file anonymous enabled: false)
+- Check that the authentication mode in the kubelet config is set to certificate based.
+- Check that the authorization mode in the kubetlet config is set to Webhook.
+
+### Pod Security
+
+### Network Separation and hardening
+
+### Authentication and Authorisation
+
+### Audit Logging and Threat Detection
+
+https://www.nsa.gov/Press-Room/News-Highlights/Article/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/
