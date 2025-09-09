@@ -141,6 +141,10 @@ Modes: AlwaysAllow, Node, ABAC, RBAC, Webhook, AlwaysDeny
 - Authorisation modes are handled in the order they are specified in.
 - AlwaysAllow is a big NO.
 
+### Quality of Service
+
+### Resource Quotas
+
 ### Pod Security
 
 #### Security Contexts
