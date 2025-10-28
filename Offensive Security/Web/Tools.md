@@ -67,3 +67,9 @@ Burp
 Hakrawler
 echo "https://www.planit.com/" | ./hakrawler -u
 ```
+
+
+##### Next.JS Testing
+```
+https://deepstrike.io/blog/nextjs-security-testing-bug-bounty-guide
+```

@@ -118,10 +118,11 @@
     "//Offensive Security/Offensive Security/Network/Offensive Security/Network/Internal",
     "//Offensive Security/Offensive Security/Network/Offensive Security/Network/Internal/Offensive Security/Network/Internal/Post Exploitation",
     "//Defensive Security",
-    "//Application Security",
     "/",
     "Application Security",
-    "//Application Security/Application Security/DevSecOps"
+    "//Application Security/Application Security/DevSecOps",
+    "//Offensive Security",
+    "//Offensive Security/Offensive Security/Web"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
