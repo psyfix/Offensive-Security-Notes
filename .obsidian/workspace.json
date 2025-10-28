@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Offensive Security/Web/Tools.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96db70e2427fda6",
+  "active": "4b2fcd576ec95ed7",
   "lastOpenFiles": [
     "Offensive Security/Offensive Security.md",
     "Application Security/Policy as Code.md",
