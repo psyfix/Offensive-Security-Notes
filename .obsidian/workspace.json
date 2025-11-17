@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "SQL Injection"
             }
+          },
+          {
+            "id": "84a5333a9b429b91",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             }
           },
           {
-            "id": "879bfb654a8c1f3b",
+            "id": "a267259cff7462e1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96db70e2427fda6",
+  "active": "84a5333a9b429b91",
   "lastOpenFiles": [
     "Offensive Security/Web/Tools.md",
     "Offensive Security/Offensive Security.md",
