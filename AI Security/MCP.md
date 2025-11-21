@@ -23,3 +23,6 @@ Prompts
 
 ![[Pasted image 20251121152523.png]]
 
+![[Pasted image 20251121153920.png]]
+
+![[Pasted image 20251121154112.png]]
