@@ -27,28 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Offensive Security/Source Code/SQL Injection.md",
-                "mode": "preview",
+                "file": "AI Security/MCP.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL Injection"
-            }
-          },
-          {
-            "id": "84a5333a9b429b91",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "MCP"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             }
           },
           {
-            "id": "a267259cff7462e1",
+            "id": "57fdf032fe749cb5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -116,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 200
   },
   "right": {
     "id": "bb3c85740f8c44c9",
@@ -204,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,8 +206,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84a5333a9b429b91",
+  "active": "e96db70e2427fda6",
   "lastOpenFiles": [
+    "AI Security/MCP.md",
+    "AI Security/AI Security.md",
+    "AI Security",
+    "Defensive Security/Defensive Security.md",
+    "Offensive Security/Source Code/SQL Injection.md",
     "Offensive Security/Web/Tools.md",
     "Offensive Security/Offensive Security.md",
     "Application Security/Policy as Code.md",
@@ -252,13 +245,9 @@
     "Defensive Security/Phishing.md",
     "Defensive Security/Endpoints.md",
     "Spaces/Spaces.md",
-    "Defensive Security/Defensive Security.md",
     "Defensive Security",
     "Spaces",
-    "Application Security/DevSecOps/DevSecOps.md",
     "Application Security/DevSecOps",
-    "Offensive Security/DevSecOps/Tools.md",
-    "Networking/Home Lab 1/Network Design.md",
     "Networking/Home Lab 1",
     "Networking",
     "Canvas.canvas",
@@ -266,7 +255,6 @@
     "Application Security",
     "Offensive Security/Source Code/Attachments",
     "Offensive Security/Config Review",
-    "Application Security/Attachments",
     "OSCP/P.canvas"
   ]
 }
