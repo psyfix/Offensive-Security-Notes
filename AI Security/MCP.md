@@ -26,3 +26,5 @@ Prompts
 ![[Pasted image 20251121153920.png]]
 
 ![[Pasted image 20251121154112.png]]
+
+![[Pasted image 20251121154314.png]]
