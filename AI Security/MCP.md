@@ -21,3 +21,5 @@ Tools - Ability to take actions
 Prompts 
 - Templates, instructions and behaviour modifications
 
+![[Pasted image 20251121152523.png]]
+
