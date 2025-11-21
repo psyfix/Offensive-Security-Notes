@@ -9,3 +9,15 @@ MCP Standardised the way AI is being developed and integrated.
 Basically an API for LLMs.
 
 ![[Pasted image 20251121141432.png]]
+
+Three important aspects:
+
+Resources - Access to Data
+- Files, databases emails and cloud storage
+
+Tools - Ability to take actions
+- MCP tools execute commands, call functions and modify systems
+
+Prompts 
+- Templates, instructions and behaviour modifications
+
