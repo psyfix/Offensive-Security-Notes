@@ -208,6 +208,8 @@
   },
   "active": "e96db70e2427fda6",
   "lastOpenFiles": [
+    "AI Security/Attachments/Pasted image 20251121141432.png",
+    "AI Security/Attachments",
     "AI Security/MCP.md",
     "AI Security/AI Security.md",
     "AI Security",
@@ -244,7 +246,6 @@
     "Defensive Security/Malware.md",
     "Defensive Security/Phishing.md",
     "Defensive Security/Endpoints.md",
-    "Spaces/Spaces.md",
     "Defensive Security",
     "Spaces",
     "Application Security/DevSecOps",
@@ -254,7 +255,6 @@
     "Offensive Security",
     "Application Security",
     "Offensive Security/Source Code/Attachments",
-    "Offensive Security/Config Review",
     "OSCP/P.canvas"
   ]
 }
