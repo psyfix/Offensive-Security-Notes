@@ -117,7 +117,8 @@
     "Application Security",
     "//Application Security/Application Security/DevSecOps",
     "//Spaces",
-    "//AI Security"
+    "//AI Security",
+    "//Application Security"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Spaces",
