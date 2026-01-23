@@ -9,4 +9,8 @@ How to investigate a supply chain attack:
 - What is the scope of the malware? What does it target and do?
 - Who/What is affected? Blast radius?
 	- Who downloaded the affected package?
-	- 
+	- Do we have the affected package in our SBOM?
+	- Do we have the affected package in our artifactory server?
+		- Did someone recently download the affected package?
+- Credentials exposed? Credentials need rotation.
+- 
