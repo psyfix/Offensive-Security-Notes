@@ -4,3 +4,9 @@
 - Least privileges on artifactory credentials
 - Least privileges on build / deploy agents.
 - Do not hard code any secrets, always inject at run time.
+
+How to investigate a supply chain attack:
+- What is the scope of the malware? What does it target and do?
+- Who/What is affected? Blast radius?
+	- Who downloaded the affected package?
+	- 
