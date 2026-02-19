@@ -34,9 +34,20 @@
               "icon": "lucide-file",
               "title": "Supply Chain Security"
             }
+          },
+          {
+            "id": "d751a6f16994a85c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +101,7 @@
             }
           },
           {
-            "id": "eb8d2101ba5bed67",
+            "id": "de1344777a882f0e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -206,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e96db70e2427fda6",
+  "active": "0993f2c3674dadd3",
   "lastOpenFiles": [
     "Vault.md",
     "Application Security/Supply Chain Security.md",
