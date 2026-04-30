@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "ef2bdd002b5a56d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Offensive Security/Network/Services/SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL"
+            }
+          },
+          {
             "id": "e96db70e2427fda6",
             "type": "leaf",
             "state": {
@@ -47,7 +61,8 @@
               "title": "Release Notes 1.11.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +116,7 @@
             }
           },
           {
-            "id": "de1344777a882f0e",
+            "id": "f1b58984080ff03c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -115,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 409.5
   },
   "right": {
     "id": "bb3c85740f8c44c9",
@@ -125,25 +140,6 @@
         "id": "b22507322ddced73",
         "type": "tabs",
         "children": [
-          {
-            "id": "5a4cab38318b1c82",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Application Security/DevSecOps/Setting Up.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Setting Up"
-            }
-          },
           {
             "id": "762c98432d412615",
             "type": "leaf",
@@ -199,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,8 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0993f2c3674dadd3",
+  "active": "ef2bdd002b5a56d6",
   "lastOpenFiles": [
+    "Offensive Security/Source Code/SQL Injection.md",
+    "Untitled 1.md",
     "Vault.md",
     "Application Security/Supply Chain Security.md",
     "Application Security/Application Security.md",
@@ -233,7 +231,6 @@
     "AI Security/AI Security.md",
     "AI Security",
     "Defensive Security/Defensive Security.md",
-    "Offensive Security/Source Code/SQL Injection.md",
     "Offensive Security/Web/Tools.md",
     "Offensive Security/Offensive Security.md",
     "Application Security/Policy as Code.md",
@@ -256,7 +253,6 @@
     "Untitled.md",
     "Paste.md",
     "Sysinternals.md",
-    "Defensive Security/Malware.md",
     "Defensive Security",
     "Spaces",
     "Application Security/DevSecOps",
